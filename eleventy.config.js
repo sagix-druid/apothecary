@@ -118,7 +118,10 @@ export default function (eleventyConfig) {
   // A channel is a custom listing page such as /episodes/ (Ghost's routes.yaml made these). site.json lists them under "channels".
   eleventyConfig.addFilter("channelPosts", (posts, channel) => {
     const topic = slugify(channel.topic || channel.slug);
-    const found = posts.filter((post) => (post.data.topics || []).some((t) => slugify(t) === topic));
+    // "tag" picks posts by a Ghost internal tag such as "#videos", which the import keeps in internal_tags.
+    const found = channel.tag
+      ? posts.filter((post) => (post.data.internal_tags || []).includes(channel.tag))
+      : posts.filter((post) => (post.data.topics || []).some((t) => slugify(t) === topic));
     return channel.oldestFirst ? [...found].sort((a, b) => a.date - b.date) : found;
   });
   // The three newest other posts that share a topic with this one, for the "read more" strip under a post.

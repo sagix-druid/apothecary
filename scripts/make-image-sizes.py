@@ -24,8 +24,12 @@ def make(original, width, sized_path):
     sized.parent.mkdir(parents=True, exist_ok=True)
     if width_of(original)[0] <= width:
         shutil.copyfile(original, sized)
-    else:
-        subprocess.run(["sips", "--resampleWidth", str(width), str(original), "--out", str(sized)], capture_output=True, check=True)
+        return
+    done = subprocess.run(["sips", "--resampleWidth", str(width), str(original), "--out", str(sized)], capture_output=True)
+    if done.returncode != 0:
+        # sips can read but not write some formats, such as WebP. Serve the full-size picture under the smaller name.
+        shutil.copyfile(original, sized)
+        print(f"copied full size (sips could not resize): {sized.relative_to(SRC)}")
 
 
 sizes = {}

@@ -2,7 +2,7 @@
    To match the Ghost site you are moving, copy its accent color (Ghost Admin, Settings, Design, Brand) here.
    If it set colors in Settings, Code injection, those are saved in theme/ by the import script. */
 :root {
-  --custom-accent: #3eb0ef;        /* links, buttons and tags */
+  --custom-accent: #ff8f19;        /* links, buttons and tags */
   --custom-on-accent: #ffffff;     /* text on a button in the accent color */
   --ghost-accent-color: var(--custom-accent);
 

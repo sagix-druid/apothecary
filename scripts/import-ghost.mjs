@@ -69,6 +69,12 @@ for (const post of published) {
     .map((l) => tagsById[l.tag_id])
     .filter((t) => t.visibility === "public")
     .map((t) => t.name);
+  // Internal tags (#name) never show on the site, but Ghost's custom pages in routes.yaml often list posts by them.
+  const internalTags = tagLinks
+    .filter((l) => l.post_id === post.id)
+    .map((l) => tagsById[l.tag_id])
+    .filter((t) => t.visibility === "internal")
+    .map((t) => t.name);
   const featureImage = (post.feature_image || "").replace("__GHOST_URL__", "");
   noteImage(featureImage);
 
@@ -86,6 +92,7 @@ for (const post of published) {
   if (meta.feature_image_caption) front.push(`feature_image_caption: ${yaml(clean(meta.feature_image_caption))}`);
   if (meta.feature_image_alt) front.push(`feature_image_alt: ${yaml(meta.feature_image_alt)}`);
   front.push(`topics: ${yaml(topics)}`);
+  if (internalTags.length) front.push(`internal_tags: ${yaml(internalTags)}`);
   if (post.featured) front.push("featured: true");
   front.push("---", "", "");
 
@@ -166,11 +173,22 @@ if (existsSync(routesFile)) {
     if (filter && current) found.push({ slug: current.replaceAll("/", ""), filter: filter[1] });
   }
   if (found.length) {
-    console.log("\nGhost custom pages (routes.yaml). Add each to \"channels\" in site.json, as { \"name\": \"...\", \"slug\": \"...\", \"topic\": \"the tag's name\" }:");
-    for (const { slug, filter } of found) console.log(`  /${slug}/ listed ${filter}`);
+    console.log("\nGhost custom pages (routes.yaml). Add each to \"channels\" in site.json:");
+    for (const { slug, filter } of found) {
+      const tagSlug = (filter.match(/^tag:([\w-]+)$/) || [])[1];
+      const tag = tagSlug && db.tags.find((t) => t.slug === tagSlug);
+      const name = (tag ? tag.name : slug).replace(/^#/, "");
+      const pick = !tag ? `"topic": "the tag's name"` : tag.visibility === "internal" ? `"tag": ${JSON.stringify(tag.name)}` : `"topic": ${JSON.stringify(tag.name)}`;
+      console.log(`  { "name": ${JSON.stringify(name)}, "slug": "${slug}", ${pick} }   (Ghost: ${filter})`);
+    }
   }
 }
 try {
-  const nav = JSON.parse(settings.navigation || "[]").map((item) => ({ label: item.label, url: strip(item.url) }));
+  const siteUrl = (settings.url || "").replace(/\/$/, "");
+  const link = (url) => {
+    const path = (url || "").replace("__GHOST_URL__", "");
+    return siteUrl && path.startsWith(siteUrl) ? path.slice(siteUrl.length) || "/" : path;
+  };
+  const nav = JSON.parse(settings.navigation || "[]").map((item) => ({ label: item.label, url: link(item.url) }));
   console.log("Ghost's main menu, for \"nav\" in site.json:\n" + JSON.stringify(nav, null, 2));
 } catch {}

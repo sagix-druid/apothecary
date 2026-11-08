@@ -6,6 +6,10 @@ ghost-export/
 
 # Private work
 drafts/
+claude-project/
+knowledge/
+CLAUDE.md
+.claude/
 
 .DS_Store
 node_modules/

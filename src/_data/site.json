@@ -1,25 +1,35 @@
 {
-  "title": "My Ghost Site",
-  "description": "One sentence about the site. It shows in the page header, the feed, search results and link previews.",
-  "url": "https://www.example.com",
+  "title": "Sagix Apothecary",
+  "description": "Sophisticated DeFi portfolio strategies for all market conditions. Sagix Apothecary combines historical financial wisdom with expert analysis for discerning enthusiasts willing to learn..",
+  "url": "https://www.sagix.io",
   "theme": "casper",
   "colorScheme": "auto",
-  "author": "Author Name",
-  "authorSlug": "author-name",
-  "authorImage": "",
-  "twitter": "",
+  "author": "Sagix",
+  "authorSlug": "sagix",
+  "authorImage": "/content/images/2025/09/IMG_6106-7.JPG",
+  "twitter": "sagixapothecary",
   "copyright": "",
   "notice": "",
   "timezone": "America/New_York",
-  "icon": "",
-  "defaultImage": "",
-  "coverImage": "",
+  "icon": "/content/images/2025/09/IMG_6106.JPG",
+  "defaultImage": "/content/images/2025/09/IMG_6106-4.JPG",
+  "coverImage": "/content/images/2025/09/publication-cover.jpg",
   "subscribeUrl": "",
   "tipUrl": "",
   "cloudflareAnalyticsToken": "",
   "nav": [
     { "label": "Home", "url": "/" },
+    { "label": "Sagix Apothecary", "url": "/sagix-apothecary/" },
+    { "label": "The Druid Deep Dive", "url": "/the-druid-deep-dive/" },
+    { "label": "Tokenomics", "url": "/tokenomics/" },
+    { "label": "Videos", "url": "/videos/" },
+    { "label": "DeFi", "url": "/defi/" },
+    { "label": "Support", "url": "/support/" },
     { "label": "About", "url": "/about/" }
   ],
-  "channels": []
+  "channels": [
+    { "name": "Sagix Apothecary", "slug": "sagix-apothecary", "tag": "#sagix-apothecary" },
+    { "name": "The Druid Deep Dive", "slug": "the-druid-deep-dive", "tag": "#the-druid-deep-dive" },
+    { "name": "Videos", "slug": "videos", "tag": "#videos" }
+  ]
 }

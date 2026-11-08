@@ -1,1 +1,750 @@
-{}
+{
+  "/content/images/2025/09/0-5lgjp8xg0ogty6u6-2.jpg": {
+    "height": 533,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 800
+  },
+  "/content/images/2025/09/1-sxiy_ddr8xz_gicemlb59q-jpeg-1.jpg": {
+    "height": 1200,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 800
+  },
+  "/content/images/2025/09/1-vjl3o9ljimy00u3hia5ela-jpeg.jpg": {
+    "height": 960,
+    "sizes": [
+      300
+    ],
+    "width": 720
+  },
+  "/content/images/2025/09/5470017e-8e46-44be-b094-051ee9f669dd.jpg": {
+    "height": 960,
+    "sizes": [
+      300
+    ],
+    "width": 720
+  },
+  "/content/images/2025/09/71382bd5-a661-45db-b93f-af8593157505.jpg": {
+    "height": 640,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 960
+  },
+  "/content/images/2025/09/963b2299-32ab-47fb-9de4-56eb6686f2e9.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/IMG_6419.PNG": {
+    "height": 1024,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 1024
+  },
+  "/content/images/2025/09/IMG_6792.JPG": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/IMG_6813.JPG": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/WhatsApp-Image-2025-09-15-at-16.12.09.jpeg": {
+    "height": 960,
+    "sizes": [
+      300
+    ],
+    "width": 720
+  },
+  "/content/images/2025/09/arb_one.png": {
+    "height": 952,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1404
+  },
+  "/content/images/2025/09/base.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/digital2.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/eth.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/ethdefi.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/feature_sagix_way.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/image-1-.jpg": {
+    "height": 576,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 768
+  },
+  "/content/images/2025/09/nook-2.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/nook.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/op.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/rolodex1.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/09/wallet-2.jpg": {
+    "height": 640,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 960
+  },
+  "/content/images/2025/09/waves.jpg": {
+    "height": 640,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 960
+  },
+  "/content/images/2025/09/xroads.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/10/Logo-dark-1.png": {
+    "height": 278,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1666
+  },
+  "/content/images/2025/10/image-17-.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/10/image-4-.jpg": {
+    "height": 1168,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 784
+  },
+  "/content/images/2025/10/solana.jpg": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/11/btt.001-1.jpeg": {
+    "height": 1080,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1920
+  },
+  "/content/images/2025/11/btt.001.jpeg": {
+    "height": 1080,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1920
+  },
+  "/content/images/2025/11/chainlink.svg": {
+    "height": 132,
+    "sizes": [
+      300
+    ],
+    "width": 521
+  },
+  "/content/images/2025/11/conected.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/11/e52296f4-b726-45a3-93d8-f5bf44e33e3c.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/11/etherfi.png": {
+    "height": 2160,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 3840
+  },
+  "/content/images/2025/11/image-6-.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/11/image2-1.jpg": {
+    "height": 923,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 2000
+  },
+  "/content/images/2025/11/jup_cat.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/11/lido_fi.png": {
+    "height": 614,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 1200
+  },
+  "/content/images/2025/11/link.jpg": {
+    "height": 163,
+    "sizes": [
+      300
+    ],
+    "width": 310
+  },
+  "/content/images/2025/11/ray.jpg": {
+    "height": 124,
+    "sizes": [],
+    "width": 203
+  },
+  "/content/images/2025/11/sky.jpeg": {
+    "height": 194,
+    "sizes": [],
+    "width": 259
+  },
+  "/content/images/2025/11/spk.png": {
+    "height": 177,
+    "sizes": [],
+    "width": 285
+  },
+  "/content/images/2025/12/752afe13-c3d4-4966-b84a-58d55bf12951.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/12/86950304-7d02-4cf4-882b-d2b3ed1b368e.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/12/IMG_6419-1-1.PNG": {
+    "height": 460,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 835
+  },
+  "/content/images/2025/12/btt.001.jpeg": {
+    "height": 1080,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1920
+  },
+  "/content/images/2025/12/druid-1.JPG": {
+    "height": 369,
+    "sizes": [
+      300
+    ],
+    "width": 624
+  },
+  "/content/images/2025/12/druid-2-1.JPG": {
+    "height": 390,
+    "sizes": [
+      300
+    ],
+    "width": 694
+  },
+  "/content/images/2025/12/druid-3.JPG": {
+    "height": 504,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 896
+  },
+  "/content/images/2025/12/feature_sagix_way-1.jpg": {
+    "height": 409,
+    "sizes": [
+      300
+    ],
+    "width": 711
+  },
+  "/content/images/2025/12/image-17-.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/12/image-8-.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/12/image.jpg-1.jpg": {
+    "height": 674,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 960
+  },
+  "/content/images/2025/12/image.jpg-5-.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2025/12/link.jpg": {
+    "height": 163,
+    "sizes": [
+      300
+    ],
+    "width": 310
+  },
+  "/content/images/2025/12/tortoise1.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2026/01/WhatsApp-Image-2026-01-31-at-13.57.17.jpeg": {
+    "height": 853,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2026/01/e035ba60-b982-4e92-9928-ac069e456a91.jpg": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1360
+  },
+  "/content/images/2026/01/f17f9f39-a997-4e94-a731-a984cd57668d.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2026/01/faaa38c4-266f-4318-b541-cbe8c8aae276.jpg": {
+    "height": 720,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1280
+  },
+  "/content/images/2026/01/ixedel_regimes_v11_2x-1.png": {
+    "height": 2000,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 2000
+  },
+  "/content/images/2026/03/0xjaF.jpg": {
+    "height": 784,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 1168
+  },
+  "/content/images/2026/03/36f3d4d8-a925-4e6e-ab10-3865a7f55154.jpg": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1360
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_1b91dh1b91dh1b91.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_35rb0035rb0035rb.png": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1376
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_8ctyua8ctyua8cty-1.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_8ctyua8ctyua8cty.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_dw4c7cdw4c7cdw4c.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_fteop5fteop5fteo.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_g5arbug5arbug5ar.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/03/Gemini_Generated_Image_w3ojdxw3ojdxw3oj.png": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1376
+  },
+  "/content/images/2026/03/header.jpg": {
+    "height": 653,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1632
+  },
+  "/content/images/2026/03/ixedle_Brand-image.png": {
+    "height": 800,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 800
+  },
+  "/content/images/2026/04/ggXOL.jpg": {
+    "height": 784,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 1168
+  },
+  "/content/images/2026/07/Gemini_Generated_Image_1sgj6h1sgj6h1sgj.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/07/Gemini_Generated_Image_8x9u1s8x9u1s8x9u.png": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/07/Reserve-DTFs-XbDQ3ImqKnySN11mUmctufjkknkGLJ.jpg": {
+    "height": 680,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1757
+  },
+  "/content/images/2026/07/sky-makerdao-.jpg": {
+    "height": 630,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 1200
+  },
+  "/content/images/2026/08/Gemini_Generated_Image_46to4m46to4m46to.jpeg": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/08/Gemini_Generated_Image_lrdwiglrdwiglrdw.jpg": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1408
+  },
+  "/content/images/2026/08/Gemini_Generated_Image_ocitjuocitjuocit.jpg": {
+    "height": 672,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1584
+  },
+  "/content/images/2026/09/Gemini_Generated_Image_14kht614kht614kh.jpeg": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1408
+  },
+  "/content/images/2026/09/W0Ale.jpg": {
+    "height": 1152,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1712
+  },
+  "/content/images/2026/09/bodensee.jpeg": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1408
+  },
+  "/content/images/2026/09/image_54299faa.jpg": {
+    "height": 768,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1376
+  },
+  "/content/images/2026/10/Gemini_Generated_Image_v8wvi0v8wvi0v8wv.jpeg": {
+    "height": 1264,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 848
+  },
+  "/content/images/2026/10/Gemini_Generated_Image_w2vsjyw2vsjyw2vs.jpg": {
+    "height": 848,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1264
+  },
+  "/content/images/2026/10/image_ce121e05.jpg": {
+    "height": 848,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1264
+  },
+  "/content/images/2026/11/Gemini_Generated_Image_dqzdvadqzdvadqzd.jpeg": {
+    "height": 848,
+    "sizes": [
+      300,
+      720,
+      1200
+    ],
+    "width": 1264
+  },
+  "/content/images/2026/11/Gemini_Generated_Image_wqbjfdwqbjfdwqbj.jpeg": {
+    "height": 896,
+    "sizes": [
+      300,
+      720
+    ],
+    "width": 1200
+  }
+}
