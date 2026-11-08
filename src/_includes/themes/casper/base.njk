@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="/assets/themes/casper/custom-theme.css">
 {% include "head-schema.njk" %}
 </head>
-<body class="{{ bodyClass or 'page-template' }}{% if authorHead %} author-template{% endif %} is-head-left-logo{% if site.coverImage %} has-cover{% endif %}">
+<body class="{{ bodyClass or 'page-template' }}{% if authorHead %} author-template{% endif %} is-head-left-logo{% if site.coverImage and site.homeHeader !== false %} has-cover{% endif %}">
 <div class="viewport">
 
     <header id="gh-head" class="gh-head outer">

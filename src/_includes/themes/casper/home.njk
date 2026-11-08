@@ -1,4 +1,6 @@
-{#- Casper's home: a header with the site's name and description (and a cover picture when coverImage is set in site.json), then every post, newest first. #}
+{#- Casper's home: a header with the site's name and description (and a cover picture when coverImage is set in site.json), then every post, newest first.
+    "homeHeader": false in site.json leaves the header out, so the posts start right under the menu. #}
+{%- if site.homeHeader !== false %}
 <div class="site-header-content outer">
     {%- if site.coverImage %}
     <img class="site-header-cover" src="{{ site.coverImage }}" alt="">
@@ -8,6 +10,12 @@
         <p class="site-description">{{ site.description }}</p>
     </div>
 </div>
+{%- elif site.homeLink and site.homeLink.url %}
+{#- With the header off, "homeLink" in site.json can put one small line of text and a link under the menu. #}
+<div class="custom-home-link outer">
+    <a href="{{ site.homeLink.url }}" target="_blank" rel="noopener">{{ site.homeLink.text }}</a>
+</div>
+{%- endif %}
 
 <main id="site-main" class="site-main outer">
     <div class="inner posts">

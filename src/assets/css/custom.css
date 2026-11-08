@@ -26,6 +26,21 @@
     text-align: center;
 }
 
+/* The one small line under the menu on the home page, when homeHeader is false and homeLink is set in site.json. */
+.custom-home-link {
+    padding-top: 8px;
+    padding-bottom: 0;
+    font-size: 1.3rem;
+    text-align: center;
+}
+.custom-home-link a {
+    color: var(--ghost-accent-color);
+    text-decoration: none;
+}
+.custom-home-link a:hover {
+    text-decoration: underline;
+}
+
 /* A line of legal or health text under every page, when "notice" is set in site.json. */
 .custom-notice {
     padding: 24px 4vmin;

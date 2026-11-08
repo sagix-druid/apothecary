@@ -14,6 +14,8 @@
   "icon": "/content/images/2025/09/IMG_6106.JPG",
   "defaultImage": "/content/images/2025/09/IMG_6106-4.JPG",
   "coverImage": "/content/images/2025/09/publication-cover.jpg",
+  "homeHeader": false,
+  "homeLink": { "text": "ixEDEL index DTF · mint on Reserve ↗", "url": "https://app.reserve.org/ethereum/index-dtf/0xe4a10951f962e6cb93cb843a4ef05d2f99db1f94/issuance" },
   "subscribeUrl": "",
   "tipUrl": "",
   "cloudflareAnalyticsToken": "",
