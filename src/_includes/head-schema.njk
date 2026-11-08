@@ -1,0 +1,7 @@
+    <script type="application/ld+json">
+    {% if isPost -%}
+    {"@context":"https://schema.org","@type":"BlogPosting","headline":{{ title | dump | safe }},"datePublished":{{ page.date | iso | dump | safe }},"dateModified":{{ (updated or page.date) | iso | dump | safe }},"author":{"@type":"Person","name":{{ site.author | dump | safe }}},"mainEntityOfPage":{{ (site.url + page.url) | dump | safe }},"isAccessibleForFree":true}
+    {%- else -%}
+    {"@context":"https://schema.org","@type":"WebSite","name":{{ site.title | dump | safe }},"url":{{ site.url | dump | safe }},"description":{{ site.description | dump | safe }}}
+    {%- endif %}
+    </script>

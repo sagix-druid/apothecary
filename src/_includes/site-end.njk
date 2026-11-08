@@ -1,0 +1,9 @@
+{%- if site.cloudflareAnalyticsToken and eleventy.env.runMode == "build" and not themePreview %}
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.cloudflareAnalyticsToken }}"}'></script>
+{%- endif %}
+{%- if site.notice %}
+
+<footer class="custom-notice">
+  <p>{{ site.notice }}</p>
+</footer>
+{%- endif %}

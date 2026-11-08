@@ -1,0 +1,9 @@
+---
+layout: listing.njk
+permalink: "/author/{{ site.authorSlug }}/"
+authorHead: true
+eleventyComputed:
+  title: "{{ site.author }}"
+---
+{%- set feedPosts = collections.posts %}
+{% include "themes/" + theme + "/feed.njk" %}

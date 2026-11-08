@@ -1,0 +1,21 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>{{ site.url }}/</loc></url>
+    <url><loc>{{ site.url }}/all/</loc></url>
+    {%- for topic in collections.topics %}
+    <url><loc>{{ site.url }}/tag/{{ topic.slug }}/</loc></url>
+    {%- endfor %}
+    {%- for channel in site.channels %}
+    <url><loc>{{ site.url }}/{{ channel.slug }}/</loc></url>
+    {%- endfor %}
+    {%- for page in collections.pages %}
+    <url><loc>{{ site.url }}{{ page.url }}</loc></url>
+    {%- endfor %}
+    {%- for post in collections.posts %}
+    <url><loc>{{ site.url }}{{ post.url }}</loc><lastmod>{{ (post.data.updated or post.date) | iso }}</lastmod></url>
+    {%- endfor %}
+</urlset>

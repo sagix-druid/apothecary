@@ -1,0 +1,17 @@
+/* Casper only: the site's accent color on Casper's own elements, loaded after custom.css. */
+.post-card-primary-tag,
+.post-card-primary-tag a {
+    color: var(--custom-accent);
+}
+
+.custom-author-cover .post-card-image {
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+/* The phone menu: keep the Subscribe button readable. */
+@media (max-width: 767px) {
+    .gh-head .gh-head-actions .custom-signup-button {
+        justify-content: center;
+    }
+}

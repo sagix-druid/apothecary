@@ -1,0 +1,34 @@
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- set pageTitle = (title + " | " + site.title) if title and page.url != "/" else site.title %}
+    {%- set pageDescription = (excerpt | trimText) or site.description %}
+    {%- set pageImage = feature_image or site.defaultImage %}
+    <title>{{ pageTitle }}</title>
+    <meta name="description" content="{{ pageDescription }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    {%- if site.icon %}
+    <link rel="icon" href="{{ site.icon }}">
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+    {%- endif %}
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/rss.xml">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:type" content="{{ 'article' if isPost else 'website' }}">
+    <meta property="og:title" content="{{ title or site.title }}">
+    <meta property="og:description" content="{{ pageDescription }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta name="twitter:title" content="{{ title or site.title }}">
+    <meta name="twitter:description" content="{{ pageDescription }}">
+    {%- if pageImage %}
+    <meta property="og:image" content="{{ site.url }}{{ pageImage }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}{{ pageImage }}">
+    {%- else %}
+    <meta name="twitter:card" content="summary">
+    {%- endif %}
+    {%- if site.twitter %}
+    <meta name="twitter:site" content="@{{ site.twitter }}">
+    {%- endif %}
+    <meta name="author" content="{{ site.author }}">
+    {%- if site.copyright %}
+    <meta name="copyright" content="© {{ buildYear }} {{ site.copyright }}">
+    {%- endif %}

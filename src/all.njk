@@ -1,0 +1,7 @@
+---
+layout: listing.njk
+permalink: /all/
+title: Latest
+---
+{%- set feedPosts = collections.posts %}
+{% include "themes/" + theme + "/feed.njk" %}

@@ -1,0 +1,12 @@
+---
+layout: listing.njk
+pagination:
+  data: site.channels
+  size: 1
+  alias: channel
+permalink: "/{{ channel.slug }}/"
+eleventyComputed:
+  title: "{{ channel.name }}"
+---
+{%- set feedPosts = collections.posts | channelPosts(channel) %}
+{% include "themes/" + theme + "/feed.njk" %}

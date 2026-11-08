@@ -1,0 +1,12 @@
+---
+layout: listing.njk
+pagination:
+  data: collections.topics
+  size: 1
+  alias: topic
+permalink: "/tag/{{ topic.slug }}/"
+eleventyComputed:
+  title: "{{ topic.name }}"
+---
+{%- set feedPosts = topic.posts %}
+{% include "themes/" + theme + "/feed.njk" %}

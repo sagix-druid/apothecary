@@ -1,0 +1,12 @@
+/* The site's colors. Casper does the rest: its light mode, its dark mode, or both, set by colorScheme in site.json.
+   To match the Ghost site you are moving, copy its accent color (Ghost Admin, Settings, Design, Brand) here.
+   If it set colors in Settings, Code injection, those are saved in theme/ by the import script. */
+:root {
+  --custom-accent: #3eb0ef;        /* links, buttons and tags */
+  --custom-on-accent: #ffffff;     /* text on a button in the accent color */
+  --ghost-accent-color: var(--custom-accent);
+
+  /* Optional. Uncomment to replace Casper's fonts, and load the font files in custom.css. */
+  /* --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; */
+  /* --font-serif: "Lora", Georgia, Times, serif; */
+}

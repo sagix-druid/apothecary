@@ -1,0 +1,12 @@
+# The Ghost export holds subscriber emails. Never commit it to a public repo.
+ghost-export/
+*.zip
+*members*.csv
+*.ghost.*.json
+
+# Private work
+drafts/
+
+.DS_Store
+node_modules/
+_site/

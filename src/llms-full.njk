@@ -1,0 +1,23 @@
+---
+permalink: /llms-full.txt
+eleventyExcludeFromCollections: true
+---
+# {{ site.title | safe }}: complete text
+
+> {{ site.description | safe }}
+
+{% include "llms-notice.njk" %}
+Posts are listed newest first. Index: {{ site.url }}/llms.txt
+{% for post in collections.posts %}
+----------------------------------------------------------------
+
+## {{ post.data.title | plainTitle | safe }}
+
+URL: {{ site.url }}{{ post.url }}
+Published: {{ post.date | isoDay }}
+{%- if post.data.excerpt | trimText %}
+Summary: {{ post.data.excerpt | trimText | safe }}
+{%- endif %}
+
+{{ post.rawInput | forLlms | safe }}
+{% endfor %}

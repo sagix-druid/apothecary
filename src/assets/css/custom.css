@@ -1,0 +1,45 @@
+/* The site's own styles, loaded after the theme's. Put changes here, not in the theme's files. */
+
+/* The Subscribe and tip buttons, and the box that replaces Ghost's signup card inside posts. */
+.gh-head .custom-signup-button,
+.custom-signup-button {
+    display: inline-flex;
+    background-color: var(--custom-accent) !important;
+    color: var(--custom-on-accent) !important;
+    border: 0 !important;
+    text-decoration: none !important;
+}
+
+.custom-signup {
+    padding: 32px;
+    text-align: center;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    border-radius: 5px;
+}
+.gh-content .custom-signup h2 {
+    margin: 0 0 12px;
+}
+.gh-content .custom-signup p {
+    margin: 0 0 20px;
+}
+.custom-tip {
+    text-align: center;
+}
+
+/* A line of legal or health text under every page, when "notice" is set in site.json. */
+.custom-notice {
+    padding: 24px 4vmin;
+    font-size: 14px;
+    text-align: center;
+    opacity: 0.8;
+}
+.custom-notice p {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Long code lines wrap instead of running off a phone screen. */
+.gh-content pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+}

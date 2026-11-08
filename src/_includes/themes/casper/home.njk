@@ -1,0 +1,21 @@
+{#- Casper's home: a header with the site's name and description (and a cover picture when coverImage is set in site.json), then every post, newest first. #}
+<div class="site-header-content outer">
+    {%- if site.coverImage %}
+    <img class="site-header-cover" src="{{ site.coverImage }}" alt="">
+    {%- endif %}
+    <div class="site-header-inner inner">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <p class="site-description">{{ site.description }}</p>
+    </div>
+</div>
+
+<main id="site-main" class="site-main outer">
+    <div class="inner posts">
+        <div class="post-feed">
+            {%- for post in collections.posts %}
+            {%- set cardClass = "post-card-large" if loop.index == 1 else ("dynamic" if loop.index < 4 else "") %}
+            {% include "themes/casper/card.njk" %}
+            {%- endfor %}
+        </div>
+    </div>
+</main>

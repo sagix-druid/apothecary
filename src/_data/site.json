@@ -1,0 +1,25 @@
+{
+  "title": "My Ghost Site",
+  "description": "One sentence about the site. It shows in the page header, the feed, search results and link previews.",
+  "url": "https://www.example.com",
+  "theme": "casper",
+  "colorScheme": "auto",
+  "author": "Author Name",
+  "authorSlug": "author-name",
+  "authorImage": "",
+  "twitter": "",
+  "copyright": "",
+  "notice": "",
+  "timezone": "America/New_York",
+  "icon": "",
+  "defaultImage": "",
+  "coverImage": "",
+  "subscribeUrl": "",
+  "tipUrl": "",
+  "cloudflareAnalyticsToken": "",
+  "nav": [
+    { "label": "Home", "url": "/" },
+    { "label": "About", "url": "/about/" }
+  ],
+  "channels": []
+}
