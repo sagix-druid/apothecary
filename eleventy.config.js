@@ -156,6 +156,9 @@ export default function (eleventyConfig) {
   });
 
   return {
+    // The GitHub workflow sets PATH_PREFIX to /<repo>/ while the site lives at <account>.github.io/<repo>/,
+    // and to / once a custom domain is set. HtmlBasePlugin then adds it to every link and picture.
+    pathPrefix: process.env.PATH_PREFIX || "/",
     dir: { input: "src", output: "_site", includes: "_includes", data: "_data" },
     markdownTemplateEngine: false,
     htmlTemplateEngine: "njk",
