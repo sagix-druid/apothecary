@@ -51,6 +51,14 @@
 .custom-notice p {
     max-width: 1000px;
     margin: 0 auto;
+    line-height: 1.6;
+}
+.custom-notice a {
+    color: inherit;
+    text-decoration: underline;
+}
+.custom-notice .custom-notice-copyright {
+    margin-top: 12px;
 }
 
 /* Long code lines wrap instead of running off a phone screen. */

@@ -4,6 +4,9 @@
 {%- if site.notice %}
 
 <footer class="custom-notice">
-  <p>{{ site.notice }}</p>
+  <p>{{ site.notice }}{% if site.noticeLink and site.noticeLink.url %} <a href="{{ site.noticeLink.url }}">{{ site.noticeLink.text }}</a>{% endif %}</p>
+  {%- if site.copyright %}
+  <p class="custom-notice-copyright">&copy; {{ buildYear }} {{ site.copyright }}. All rights reserved.</p>
+  {%- endif %}
 </footer>
 {%- endif %}
