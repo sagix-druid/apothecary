@@ -4,7 +4,7 @@ date: "2026-10-31T22:52:39.000Z"
 updated: "2026-10-31T22:52:39.000Z"
 excerpt: "The Medici bank ran branches in eight cities on 28,800 florins of family capital, less than the Peruzzi held in 1312, and came apart after one branch lent twice its capital to a duke. Episode 15 reads a Singapore judgment on the Multichain bridge against it: separate books, one set of keys."
 feature_image: "/content/images/2026/10/Gemini_Generated_Image_v8wvi0v8wvi0v8wv.jpeg"
-topics: ["ddd","The Druid Deep Dive"]
+topics: ["The Druid Deep Dive"]
 internal_tags: ["#ddd","#the-druid-deep-dive"]
 featured: true
 ---

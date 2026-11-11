@@ -4,7 +4,7 @@ date: "2026-11-10T14:00:00.000Z"
 updated: "2026-11-08T21:00:00.000Z"
 excerpt: "Henry VIII took 83 percent of the silver out of the penny and booked about £1.27 million. In 1551 his son's council halved the shilling by decree. Episode 18 traces who paid, twice, and reads the Fed's balance sheet and the debasement trade against it."
 feature_image: "/content/images/2026/11/ddd18-tudor-assay-table.jpg"
-topics: ["ddd","The Druid Deep Dive"]
+topics: ["The Druid Deep Dive"]
 internal_tags: ["#ddd","#the-druid-deep-dive"]
 ---
 

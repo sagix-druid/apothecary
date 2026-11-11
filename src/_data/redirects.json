@@ -10,5 +10,9 @@
   {
     "from": "/tag/sagix-apothecary/",
     "to": "/tag/research/"
+  },
+  {
+    "from": "/tag/ddd/",
+    "to": "/tag/the-druid-deep-dive/"
   }
 ]

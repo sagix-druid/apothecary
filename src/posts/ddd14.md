@@ -4,7 +4,7 @@ date: "2026-10-27T23:03:59.000Z"
 updated: "2026-10-27T23:03:59.000Z"
 excerpt: "Bretton Woods convertibility served central banks only; Americans were barred from gold until 1974. Episode 14 reads the Gold Pool collapse and Nixon's exception clause against the GENIUS Act and the Fed's proposed two-business-day redemption rule."
 feature_image: "/content/images/2026/10/Gemini_Generated_Image_w2vsjyw2vsjyw2vs.jpg"
-topics: ["The Druid Deep Dive","ddd"]
+topics: ["The Druid Deep Dive"]
 internal_tags: ["#ddd","#the-druid-deep-dive"]
 featured: true
 ---

@@ -4,7 +4,7 @@ date: "2026-11-08T17:51:56.000Z"
 updated: "2026-11-08T17:52:53.000Z"
 excerpt: "Between 1868 and 1873 American railroads laid 31,000 miles of track on borrowed money, and 36 percent of the corporate bond market then defaulted. Episode 17 traces who built, who paid and who kept the rails, and reads a Texas bankruptcy docket and this week's AI bond selloff against it."
 feature_image: "/content/images/2026/11/Gemini_Generated_Image_wqbjfdwqbjfdwqbj.jpeg"
-topics: ["ddd","The Druid Deep Dive"]
+topics: ["The Druid Deep Dive"]
 internal_tags: ["#ddd","#the-druid-deep-dive"]
 featured: true
 ---

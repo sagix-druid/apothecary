@@ -4,7 +4,7 @@ date: "2026-11-02T18:55:49.000Z"
 updated: "2026-11-02T18:55:49.000Z"
 excerpt: "For a century Scotland's banknotes were issued by rival banks, cleared weekly and held at par with no central bank. Episode 16 finds what held them, a note exchange, partners' estates and London, then reads 22 rollups against it: they have the exchange and the delay clause, and no liability."
 feature_image: "/content/images/2026/11/Gemini_Generated_Image_dqzdvadqzdvadqzd.jpeg"
-topics: ["ddd","The Druid Deep Dive"]
+topics: ["The Druid Deep Dive"]
 internal_tags: ["#ddd","#the-druid-deep-dive"]
 ---
 

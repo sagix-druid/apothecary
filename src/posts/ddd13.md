@@ -4,7 +4,7 @@ date: "2026-09-14T22:24:03.000Z"
 updated: "2026-09-14T22:24:03.000Z"
 excerpt: "By November 1923 the paper mark was about seven percent of the money Germans used. Private dollar-indexed notes and foreign cash had replaced it, and the stabilization was built on them. Episode 13 traces who survived, and Argentina's 2023 decree freeing the unit of account."
 feature_image: "/content/images/2026/09/Gemini_Generated_Image_14kht614kht614kh.jpeg"
-topics: ["The Druid Deep Dive","ddd"]
+topics: ["The Druid Deep Dive"]
 internal_tags: ["#the-druid-deep-dive","#ddd"]
 featured: true
 ---
