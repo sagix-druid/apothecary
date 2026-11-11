@@ -5,7 +5,7 @@ updated: "2026-09-02T23:57:58.000Z"
 excerpt: "Sky Protocol has five surplus quarters, a live Stage 2 buyback, and $82.40M of reserves growing at half of every month's surplus. What USDS earns at a 12%, 1% and unchanged Fed, and why the free float, not supply, decides the token."
 feature_image: "/content/images/2026/09/W0Ale.jpg"
 feature_image_caption: "Two engines, one running. Sky earns its keep on whichever the Fed switches on, and for the first time keeps half of what it makes."
-topics: ["sky","usds","Sagix Apothecary"]
+topics: ["sky","usds","Research"]
 internal_tags: ["#sky","#usds","#sagix-apothecary"]
 featured: true
 ---

@@ -5,7 +5,7 @@ updated: "2025-11-10T13:27:34.000Z"
 excerpt: "Bittensor alpha token analysis: Understand subnet economics, revenue sustainability, and Taoflow mechanics. Complete framework for evaluating which subnets generate value vs. extract emissions post-halving."
 feature_image: "/content/images/2025/11/image2-1.jpg"
 feature_image_caption: "The Bittensor emission topology: TAO radiates value to subnet alphas, but only those generating external revenue can reverse the flow and achieve long-term sustainability."
-topics: ["alpha","dtao","subnets","bittensor","Sagix Apothecary"]
+topics: ["alpha","dtao","subnets","bittensor","Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

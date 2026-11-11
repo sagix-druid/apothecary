@@ -4,7 +4,7 @@ date: "2026-07-12T19:31:08.000Z"
 updated: "2026-07-25T18:40:05.000Z"
 excerpt: "Sagix files its first ixEDEL rebalance proposal on Reserve: a fixed January and July cadence, Ondo's USDY at 10% for direct Treasury backing, and a request to route Frankencoin's savings vault. The basket absorbed a 36% Bitcoin drop as a 9% loss."
 feature_image: "/content/images/2026/07/Gemini_Generated_Image_8x9u1s8x9u1s8x9u.png"
-topics: ["Sagix Apothecary","ixedel"]
+topics: ["Research","ixedel"]
 internal_tags: ["#sagix-apothecary","#ixedel"]
 ---
 

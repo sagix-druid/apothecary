@@ -4,7 +4,7 @@ date: "2025-11-29T23:55:44.000Z"
 updated: "2025-11-29T23:55:44.000Z"
 excerpt: "Comprehensive Chainlink analysis covering institutional adoption (SWIFT, UBS, J.P. Morgan), tokenomics evolution, and competitive landscape vs Pyth and Chronicle. At record $100B TVS, is LINK the infrastructure play for tokenized finance? Research the thesis and risks."
 feature_image: "/content/images/2025/11/chainlink.svg"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#link","#chainlink","#sagix-apothecary"]
 ---
 

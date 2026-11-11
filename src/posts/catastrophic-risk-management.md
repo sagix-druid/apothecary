@@ -5,7 +5,7 @@ updated: "2025-12-22T18:01:30.000Z"
 excerpt: "Learn how Fukushima, 2008 financial crisis, and Nassim Taleb's Black Swan theory reveal catastrophic risk patterns in DeFi. Discover why ergodicity, tail risk hedging, and Sagix prioritize survival over maximum yields in volatile crypto markets."
 feature_image: "/content/images/2025/10/image-17-.jpg"
 feature_image_caption: "<em>In the world of finance, the phrase \"it hasn't happened before\" has become the epitaph of countless failed strategies. This mantra, whether whispered in boardrooms, coded into risk models, or assumed in protocol design, leads to the same destination: ruin.</em>"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

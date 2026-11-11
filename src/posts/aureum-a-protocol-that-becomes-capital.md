@@ -4,7 +4,7 @@ date: "2026-09-26T11:32:48.000Z"
 updated: "2026-09-30T19:59:51.000Z"
 excerpt: "Aureum's specification states its aim in two sentences: the protocol should not own capital, it should become capital. A protocol analysis of the 21M AuMM cap, the Continuous Central Bank, der Bodensee reserve, LP-weighted governance and the path to launch."
 feature_image: "/content/images/2026/09/bodensee.jpeg"
-topics: ["Sagix Apothecary","aumm","tokenomics","aureum"]
+topics: ["Research","aumm","tokenomics","aureum"]
 internal_tags: ["#sagix-apothecary","#tokenomics"]
 featured: true
 ---

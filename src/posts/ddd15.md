@@ -65,7 +65,7 @@ Chainalysis, which sells surveillance software to the exchanges and regulators t
 
 First, count the trust points, not the branches. The Medici appeared in eight cities on the 1458 tax return and ran on one name and one general manager's judgment; Multichain appeared on dozens of chains and ran on one person's keys; rsETH appeared on more than twenty networks and ran on one verifier's attestation \[1, 8, 14\]. A network's survival is set by the number of independent things that must fail, and a deployment map says nothing about that number. The hub layer of the [four-layer framework](/our-layer-framework/) asks this of the routing asset; ask it of the bridge.
 
-## Sign up for Sagix Apothecary
+## Sign up for Sagix
 
 <!-- signup -->
 

@@ -4,7 +4,7 @@ date: "2026-02-02T07:44:18.000Z"
 updated: "2026-03-13T12:19:11.000Z"
 excerpt: "Club Edelweiss (ixEDEL) is a defensive DTF on Reserve Protocol implementing risk parity principles on-chain. The portfolio balances yield-bearing stablecoins, tokenized gold, overcollateralized Swiss Franc, and Bitcoin to weather any economic regime, delivering crypto upside while cutting drawdowns."
 feature_image: "/content/images/2026/03/ixedle_Brand-image.png"
-topics: ["Sagix Apothecary","defi"]
+topics: ["Research","defi"]
 internal_tags: ["#defi"]
 ---
 

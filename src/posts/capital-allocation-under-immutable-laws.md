@@ -4,7 +4,7 @@ date: "2026-09-26T10:38:47.000Z"
 updated: "2026-09-26T11:42:08.000Z"
 excerpt: "Bitcoin put monetary policy beyond the reach of its governors. DeFi still allocates capital by committee. An essay on treasuries, reserves and why capital allocation will follow incentives and clear immutable rules, from Compound to Frankencoin."
 feature_image: "/content/images/2026/09/image_54299faa.jpg"
-topics: ["tokenomics","governance","aureum","aumm","Sagix Apothecary"]
+topics: ["tokenomics","governance","aureum","aumm","Research"]
 internal_tags: ["#tokenomics","#sagix-apothecary"]
 featured: true
 ---

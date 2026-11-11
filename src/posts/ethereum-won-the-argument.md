@@ -4,7 +4,7 @@ date: "2026-08-27T15:00:00.000Z"
 updated: "2026-08-27T15:00:00.000Z"
 excerpt: "BlackRock tokenized fund shares on Ethereum L1. JPMorgan and Coinbase went to Base. Robinhood built its own rollup. All of it settles on a base layer that captured 4.9 percent of the fees its applications generated last quarter, and whose maintenance now runs on staking yield."
 feature_image: "/content/images/2026/08/Gemini_Generated_Image_lrdwiglrdwiglrdw.jpg"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary","#ethereum","#eth"]
 featured: true
 ---

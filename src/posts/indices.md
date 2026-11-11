@@ -4,7 +4,7 @@ date: "2025-12-16T15:21:43.000Z"
 updated: "2025-12-22T12:14:58.000Z"
 excerpt: "Documenting how we allocate capital across traditional markets and DeFi infrastructure"
 feature_image: "/content/images/2025/12/image.jpg-1.jpg"
-topics: ["Sagix Apothecary","video","videos"]
+topics: ["Research","video","videos"]
 internal_tags: ["#sagix-apothecary","#video","#videos"]
 featured: true
 ---

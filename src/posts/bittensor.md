@@ -5,7 +5,7 @@ updated: "2025-11-05T17:42:25.000Z"
 excerpt: "Can currency be backed by intelligence instead of gold? Bittensor's proof-of-intelligence where AI production creates value. Learn how Dynamic TAO distributes 7,200 TAO daily across competing subnets, December 2025 halving impact, allocation frameworks balancing security with growth."
 feature_image: "/content/images/2025/11/btt.001.jpeg"
 feature_image_caption: "<em>The Bittensor network: A decentralized neural architecture where thousands of participants compete to produce and validate artificial intelligence, creating the world's first \"proof-of-intelligence\" monetary system.</em>"
-topics: ["bittensor","tao","Sagix Apothecary"]
+topics: ["bittensor","tao","Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

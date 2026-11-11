@@ -4,7 +4,7 @@ date: "2026-03-29T12:19:39.000Z"
 updated: "2026-03-29T12:24:06.000Z"
 excerpt: "Balancer emissions elimination fails: superior tech alone won't attract DeFi liquidity. Falling TVL, exploits, and brand damage demand risk premiums; capital exits without compensation. Focus incentives on V3 pools."
 feature_image: "/content/images/2026/03/header.jpg"
-topics: ["Sagix Apothecary","bal"]
+topics: ["Research","bal"]
 internal_tags: ["#sagix-apothecary","#bal"]
 ---
 

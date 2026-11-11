@@ -5,7 +5,7 @@ updated: "2026-03-16T13:14:09.000Z"
 excerpt: "Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers (yield drift, NAV, cross-anchor) for deeper liquidity and volume, beyond single-hub designs."
 feature_image: "/content/images/2026/03/Gemini_Generated_Image_g5arbug5arbug5ar.png"
 feature_image_caption: "The&nbsp;<strong>Milliarium Aureum</strong>&nbsp;(Latin for \"Golden Milestone\") was&nbsp;a monument erected by Emperor Augustus in 20 BC in the Roman Forum to serve as the symbolic \"point zero\" of the Roman Empire's road system. <i><strong class=\"italic\">\"Mille viae ducunt homines per saecula Romam\" (A thousand roads lead men forever to Rome). </strong></i>"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

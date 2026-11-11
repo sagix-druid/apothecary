@@ -5,7 +5,7 @@ updated: "2025-12-22T18:02:01.000Z"
 excerpt: "Personal investing lessons: time and contributions beat chasing APY. Holding stocks like JNJ and CSCO, I've learned that patience with quality businesses creates compound wealth while 90-97% of traders lose money to speculation and scams."
 feature_image: "/content/images/2025/09/feature_sagix_way.jpg"
 feature_image_caption: "<em>Time and mathematics: The exponential power of patient investing</em>"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

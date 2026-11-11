@@ -14,7 +14,7 @@ internal_tags: ["#fii"]
 
 ## Sobre este portfólio
 
-Este é o portfólio pessoal de fundos imobiliários do Druida, compartilhado aqui no Sagix Apothecary com propósito exclusivamente educacional. Trata-se de uma carteira real, construída ao longo do tempo segundo critérios próprios de diversificação setorial, gestora e exposição a juros. **Não é uma recomendação de investimento.** Cada investidor possui objetivos, horizonte de tempo e tolerância a risco diferentes. Use este material apenas como referência de estudo e sempre faça sua própria análise antes de tomar qualquer decisão financeira.
+Este é o portfólio pessoal de fundos imobiliários do Druida, compartilhado aqui no Sagix com propósito exclusivamente educacional. Trata-se de uma carteira real, construída ao longo do tempo segundo critérios próprios de diversificação setorial, gestora e exposição a juros. **Não é uma recomendação de investimento.** Cada investidor possui objetivos, horizonte de tempo e tolerância a risco diferentes. Use este material apenas como referência de estudo e sempre faça sua própria análise antes de tomar qualquer decisão financeira.
 
 ---
 

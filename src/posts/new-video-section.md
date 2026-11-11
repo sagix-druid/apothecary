@@ -15,7 +15,7 @@ Yes, we do!
 
 check them out at:
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/videos/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix Apothecary (Page 1)</div><div class="kg-bookmark-description"></div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-39.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/btt.001-6.jpeg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/videos/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix videos</div><div class="kg-bookmark-description"></div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-39.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/btt.001-6.jpeg" alt=""></div></a></figure>
 
 or directly at our YouTube channel
 

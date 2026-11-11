@@ -4,7 +4,7 @@ date: "2025-12-07T16:11:32.000Z"
 updated: "2025-12-09T16:08:16.000Z"
 excerpt: "\nDecember 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056. Not getting rich quick in 2026. See exactly how we practice what we preach."
 feature_image: "/content/images/2025/12/tortoise1.jpg"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

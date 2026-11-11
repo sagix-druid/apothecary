@@ -5,7 +5,7 @@ updated: "2025-09-16T13:25:15.000Z"
 excerpt: "Just like thyme and Parmesan are magical together but terrible alone, successful investing is about blending quality assets in the right proportions: buying laggards, avoiding hype, and trusting the recipe over timing the market.”"
 feature_image: "/content/images/2025/09/WhatsApp-Image-2025-09-15-at-16.12.09.jpeg"
 feature_image_caption: "<em>Minestrone soup: The magic isn't in any single ingredient, but in how they blend together</em>"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

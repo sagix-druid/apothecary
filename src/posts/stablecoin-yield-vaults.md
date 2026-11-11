@@ -4,7 +4,7 @@ date: "2026-01-30T14:25:15.000Z"
 updated: "2026-01-30T14:36:21.000Z"
 excerpt: "Discover the booming stablecoin yield vaults: sUSDS (APY from protocol revenue & RWAs), syrupUSDC (via institutional lending), and steakUSDC (through curated DeFi markets). Compare yields, risks, and strategies in our detailed guide. Grow your USD holdings "
 feature_image: "/content/images/2026/01/f17f9f39-a997-4e94-a731-a984cd57668d.jpg"
-topics: ["stablecoins","stable","Sagix Apothecary"]
+topics: ["stablecoins","stable","Research"]
 internal_tags: ["#stablecoins","#stable","#sagix-apothecary"]
 ---
 

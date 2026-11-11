@@ -5,7 +5,7 @@ updated: "2026-03-16T13:28:51.000Z"
 excerpt: "The complete DDD Episode 9 four-layer liquidity framework: pool depth, backstops, pipes, and hubs. From Jackson's Bank War to Rothschild's London nexus, 200 years of financial plumbing failures reveal what actually makes a DeFi position liquid under stress."
 feature_image: "/content/images/2026/03/Gemini_Generated_Image_8ctyua8ctyua8cty.png"
 feature_image_caption: "The&nbsp;<strong>Milliarium Aureum</strong>&nbsp;(Latin for \"Golden Milestone\") was&nbsp;a monument erected by Emperor Augustus in 20 BC in the Roman Forum to serve as the symbolic \"point zero\" of the Roman Empire's road system. <i><strong class=\"italic\">\"Mille viae ducunt homines per saecula Romam\" (A thousand roads lead men forever to Rome). </strong></i>"
-topics: ["Sagix Apothecary","video","videos"]
+topics: ["Research","video","videos"]
 internal_tags: ["#sagix-apothecary","#video","#videos"]
 ---
 

@@ -5,7 +5,7 @@ updated: "2025-12-22T18:00:36.000Z"
 excerpt: "Why leverage, yield chasing, and concentration destroy crypto portfolios while diversification, position sizing, and long-term holding build wealth. Apply timeless Hare and Tortoise wisdom to DeFi investing for resilient returns in volatile markets."
 feature_image: "/content/images/2025/10/image-4-.jpg"
 feature_image_caption: "<em>Why patient, disciplined strategies outlast impulsive speculation in volatile markets</em>"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

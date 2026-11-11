@@ -1,6 +1,6 @@
 {
-  "title": "Sagix Apothecary",
-  "description": "Sophisticated DeFi portfolio strategies for all market conditions. Sagix Apothecary combines historical financial wisdom with expert analysis for discerning enthusiasts willing to learn..",
+  "title": "Sagix",
+  "description": "Sophisticated DeFi portfolio strategies for all market conditions. Sagix combines historical financial wisdom with expert analysis for discerning enthusiasts willing to learn..",
   "url": "https://www.sagix.io",
   "theme": "casper",
   "colorScheme": "auto",
@@ -9,7 +9,7 @@
   "authorImage": "/content/images/2025/09/IMG_6106-7.JPG",
   "twitter": "sagixapothecary",
   "copyright": "The Genesis Address Publishing LLC",
-  "notice": "Sagix Apothecary is a publication of The Genesis Address Publishing LLC. It shares educational content, research and hands-on experience, for educational and informational purposes only. Nothing on this site is investment advice, financial planning guidance or a professional recommendation, and using it creates no advisory, fiduciary or client relationship. Past performance does not predict future results. All investments carry risk of loss, and DeFi protocols add risks of their own, including smart contract vulnerabilities, regulatory changes and market volatility. Never invest more than you can afford to lose. Consult a qualified professional for personal financial, legal or regulatory guidance. The Genesis Address Publishing LLC is not responsible for errors, omissions or consequences arising from use of this information, and readers are responsible for their own financial decisions.",
+  "notice": "Sagix is a publication of The Genesis Address Publishing LLC. It shares educational content, research and hands-on experience, for educational and informational purposes only. Nothing on this site is investment advice, financial planning guidance or a professional recommendation, and using it creates no advisory, fiduciary or client relationship. Past performance does not predict future results. All investments carry risk of loss, and DeFi protocols add risks of their own, including smart contract vulnerabilities, regulatory changes and market volatility. Never invest more than you can afford to lose. Consult a qualified professional for personal financial, legal or regulatory guidance. The Genesis Address Publishing LLC is not responsible for errors, omissions or consequences arising from use of this information, and readers are responsible for their own financial decisions.",
   "noticeLink": { "text": "See the About page for the full disclaimers.", "url": "/about/" },
   "timezone": "America/New_York",
   "icon": "/content/images/2025/09/IMG_6106.JPG",
@@ -22,7 +22,7 @@
   "cloudflareAnalyticsToken": "",
   "nav": [
     { "label": "Home", "url": "/" },
-    { "label": "Sagix Apothecary", "url": "/sagix-apothecary/" },
+    { "label": "Research", "url": "/research/" },
     { "label": "The Druid Deep Dive", "url": "/the-druid-deep-dive/" },
     { "label": "Tokenomics", "url": "/tokenomics/" },
     { "label": "Videos", "url": "/videos/" },
@@ -31,7 +31,7 @@
     { "label": "About", "url": "/about/" }
   ],
   "channels": [
-    { "name": "Sagix Apothecary", "slug": "sagix-apothecary", "tag": "#sagix-apothecary" },
+    { "name": "Research", "slug": "research", "tag": "#sagix-apothecary" },
     { "name": "The Druid Deep Dive", "slug": "the-druid-deep-dive", "tag": "#the-druid-deep-dive" },
     { "name": "Videos", "slug": "videos", "tag": "#videos" }
   ]

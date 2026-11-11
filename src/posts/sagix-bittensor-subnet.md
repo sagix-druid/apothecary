@@ -5,7 +5,7 @@ updated: "2025-11-26T11:23:33.000Z"
 excerpt: "Discover why portfolio analysis needs objective validation in the AI era. Bittensor subnet creates a competition where miners provide scored insights. Drawing from financial history, it prioritizes survival, true diversification, and mathematical rigor for trustworthy guidance."
 feature_image: "/content/images/2025/11/conected.jpg"
 feature_image_caption: "<i><strong class=\"italic\">Where competing intelligence meets objective truth. Sagix brings the missing layer to AI finance: validators that provide trust through math.</strong></i>"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 ---
 

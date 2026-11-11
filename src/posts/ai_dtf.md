@@ -4,7 +4,7 @@ date: "2026-07-30T20:50:14.000Z"
 updated: "2026-07-30T21:03:35.000Z"
 excerpt: "Reserve’s five AI Index DTFs (BUILDOUT, POWER, PHOTON, NEOCLOUD, ROBOTS) launched July 2026 on BNB Chain. Tokenized US equities via Ondo, 0.3% mint + 0.6% TVL. What’s inside the baskets, how the wrapper works, and the risks the tear sheets leave open."
 feature_image: "/content/images/2026/07/Reserve-DTFs-XbDQ3ImqKnySN11mUmctufjkknkGLJ.jpg"
-topics: ["ai","Sagix Apothecary","dtf","reserve"]
+topics: ["ai","Research","dtf","reserve"]
 internal_tags: ["#ai","#sagix-apothecary","#dtf"]
 ---
 

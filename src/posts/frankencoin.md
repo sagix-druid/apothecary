@@ -4,7 +4,7 @@ date: "2026-01-16T19:12:44.000Z"
 updated: "2026-03-02T03:28:17.000Z"
 excerpt: "Frankencoin (ZCHF): Swiss franc stablecoin with oracle-free design from University of Zurich PhD research. Vs MakerDAO/Terra comparisons, risk analysis, FPS governance, yield mechanics, and DeFi portfolio considerations.\n"
 feature_image: "/content/images/2026/01/e035ba60-b982-4e92-9928-ac069e456a91.jpg"
-topics: ["frankencoin","Sagix Apothecary","stablecoins","stable"]
+topics: ["frankencoin","Research","stablecoins","stable"]
 internal_tags: ["#frankencoin","#sagix-apothecary","#stable","#stablecoins"]
 ---
 

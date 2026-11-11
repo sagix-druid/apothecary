@@ -1,15 +1,15 @@
 ---
-title: "About Sagix Apothecary"
+title: "About Sagix"
 date: "2025-09-10T19:50:21.000Z"
 updated: "2025-12-03T18:24:05.000Z"
-excerpt: "Sagix Apothecary - Where financial history meets portfolio strategy"
+excerpt: "Sagix: where financial history meets portfolio strategy"
 feature_image: "/content/images/2025/09/image-1-.jpg"
 topics: []
 ---
 
 # Ancient Wisdom for Modern DeFi
 
-Sagix Apothecary crafts sophisticated portfolio strategies by applying centuries of financial wisdom to today's decentralized finance landscape. We believe that understanding historical patterns provides the deepest insights for navigating current market conditions.
+Sagix crafts sophisticated portfolio strategies by applying centuries of financial wisdom to today's decentralized finance landscape. We believe that understanding historical patterns provides the deepest insights for navigating current market conditions.
 
 ## Our Philosophy: The Druid's Approach
 
@@ -43,6 +43,6 @@ Our flagship strategy applies lessons from successful monetary systems throughou
 
 ---
 
-*Sagix Apothecary - Where financial history meets portfolio strategy*
+*Sagix: where financial history meets portfolio strategy*
 
 *Published by The Genesis Address Publishing LLC*

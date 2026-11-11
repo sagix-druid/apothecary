@@ -4,7 +4,7 @@ date: "2026-10-22T15:05:11.000Z"
 updated: "2026-10-22T15:05:56.000Z"
 excerpt: "Tom Lee and a retail trading stream agree crypto is a downstream AI story. We test the iPhone-to-Uber case against the x402 Foundation roster, a16z's $1.6M monthly figure, and Solana's Alpenglow activation."
 feature_image: "/content/images/2026/10/image_ce121e05.jpg"
-topics: ["Sagix Apothecary"]
+topics: ["Research"]
 internal_tags: ["#sagix-apothecary"]
 featured: true
 ---

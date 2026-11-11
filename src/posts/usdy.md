@@ -4,7 +4,7 @@ date: "2026-07-12T19:09:44.000Z"
 updated: "2026-07-12T19:09:44.000Z"
 excerpt: "\nUSDY explained: Ondo's tokenized note backed by short-term US Treasuries, now past $2 billion. How the rising redemption value works, the Reg S structure behind permissionless transfers, risks vs USDC and BUIDL, and why it fits DeFi portfolios where whitelisted Treasury tokens cannot."
 feature_image: "/content/images/2026/07/Gemini_Generated_Image_1sgj6h1sgj6h1sgj.png"
-topics: ["usdy","Sagix Apothecary"]
+topics: ["usdy","Research"]
 internal_tags: ["#sagix-apothecary"]
 featured: true
 ---
