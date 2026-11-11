@@ -1,0 +1,50 @@
+{#- The data box at the top of a scorecard. Needs `t` (an entry of tokens.json) and `m` (its live figures from market.js). -#}
+<div class="scorecard">
+  <div class="scorecard-head">
+    <span class="scorecard-glyph" aria-hidden="true">{{ t.glyph }}</span>
+    <span class="scorecard-symbol">{{ t.symbol }}</span>
+    <span class="scorecard-name">{{ t.name }}</span>
+  </div>
+  {%- if m.price %}
+  <div class="scorecard-price">
+    <span class="scorecard-price-value">{{ m.price | usd }}</span>
+    {%- if m.sparkline and m.sparkline.length > 1 %}
+    <svg class="scorecard-sparkline {{ 'is-up' if m.change7d >= 0 else 'is-down' }}" viewBox="0 0 200 48" preserveAspectRatio="none" role="img" aria-label="{{ t.name }} price over the last 7 days">
+      <polyline fill="none" stroke="currentColor" stroke-width="2" vector-effect="non-scaling-stroke" points="{{ m.sparkline | sparklinePoints(200, 48) }}" />
+    </svg>
+    {%- endif %}
+    {%- if m.change7d != null %}
+    <span class="scorecard-change {{ 'is-up' if m.change7d >= 0 else 'is-down' }}">{{ m.change7d | pct }} <small>7d</small></span>
+    {%- endif %}
+  </div>
+  {%- endif %}
+  <dl class="scorecard-stats">
+    {%- if t.coingecko %}
+    <div><dt>Market cap</dt><dd>{{ m.marketCap | compactUsd if m.marketCap else "not available" }}</dd></div>
+    {%- endif %}
+    {%- if t.defillama %}
+    <div><dt>{{ "DeFi TVL" if t.defillama.chain else "Protocol TVL" }}</dt><dd>{{ m.tvl | compactUsd if m.tvl else "not available" }}</dd></div>
+    {%- endif %}
+    {%- if t.lightning %}
+    <div><dt>Lightning capacity</dt><dd>{{ (m.lightningBtc | compactNumber) + " BTC" if m.lightningBtc else "not available" }}</dd></div>
+    {%- endif %}
+  </dl>
+  <dl class="scorecard-grid">
+    {%- for label, value in t.grid %}
+    <div><dt>{{ label }}</dt><dd class="scorecard-pill scorecard-pill-{{ value | lower | replace(' ', '-') }}">{{ value }}</dd></div>
+    {%- endfor %}
+  </dl>
+  <dl class="scorecard-profile">
+    {%- for label, value in t.profile %}
+    <div><dt>{{ label }}</dt><dd>{{ value }}</dd></div>
+    {%- endfor %}
+  </dl>
+  <p class="scorecard-links">
+    {%- for label, url in t.links %}<a href="{{ url }}"{% if not url.startsWith('/') %} target="_blank" rel="noopener"{% endif %}>{{ label }}{% if not url.startsWith('/') %} ↗{% endif %}</a>{% endfor -%}
+  </p>
+  {%- set sources = [] %}
+  {%- if t.coingecko %}{% set sources = (sources.push("prices from CoinGecko"), sources) %}{% endif %}
+  {%- if t.defillama %}{% set sources = (sources.push("TVL from DeFiLlama"), sources) %}{% endif %}
+  {%- if t.lightning %}{% set sources = (sources.push("Lightning from mempool.space"), sources) %}{% endif %}
+  <p class="scorecard-asof">Market data: {{ sources | join(", ") }}, as of {{ market.updated | utcTime }}.</p>
+</div>

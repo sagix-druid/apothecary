@@ -1,0 +1,18 @@
+---
+layout: page.njk
+---
+{#- A tokenomics scorecard. The page's facts live in src/_data/tokens.json under its file name; live figures come from
+    src/_data/market.js. The data box goes where the page has <!-- scorecard -->, or at the top if it has none. -#}
+{%- set t = tokens[page.fileSlug] %}
+{%- set m = market.tokens[page.fileSlug] or {} %}
+{%- set card %}{% include "scorecard-card.njk" %}{% endset %}
+{%- if "<!-- scorecard -->" in content %}
+{{ content | replace("<!-- scorecard -->", card) | safe }}
+{%- else %}
+{{ card | safe }}
+{{ content | safe }}
+{%- endif %}
+<aside class="scorecard-note">
+  <h3>Research starting point</h3>
+  <p>This scorecard provides a research foundation. We encourage readers to conduct further research at CoinGecko, DeFiLlama and other authoritative web resources before making investment decisions. Historical performance does not guarantee future results. Cryptocurrency investments carry significant risks including total loss of capital.</p>
+</aside>

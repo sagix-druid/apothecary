@@ -125,6 +125,7 @@ Only after your own browser shows the new site, with no "Powered by Ghost" in th
 
   Put pictures in `src/content/images/YYYY/MM/` and run `npm run images`.
 - **Change the look:** `src/assets/css/colors.css` for the accent, `src/assets/css/custom.css` for anything else. Casper's own files are in `src/assets/themes/casper/built/`, and they are better left alone.
+- **Tokenomics scorecards:** each scorecard page has `layout: scorecard.njk`, and its facts (symbol, the yes/no grid, the portfolio profile, the CoinGecko id and DeFiLlama chain or protocol) live in `src/_data/tokens.json` under the page's file name. `src/_data/market.js` fetches prices, market caps and TVL at build time, and the workflow rebuilds every 6 hours, so the figures stay current with no script in the reader's browser. To add a scorecard, add an entry to `tokens.json` and a page with that layout; give it a `hub` block to show it as a card on `/tokenomics/`. Every scorecard is also listed in the table there. If CoinGecko starts refusing the build, add a free CoinGecko demo key as the repo secret `COINGECKO_API_KEY`.
 - **Try another Ghost theme:** copy its `assets/built/` into `src/assets/themes/<name>/built/`, rewrite its Handlebars templates as `src/_includes/themes/<name>/` (`base`, `home`, `listing`, `post`, `page`, `card`, `feed`, `404`), and preview it with `THEME=<name> npm start`. Check its licence first: Ghost's own themes are MIT, but some paid themes forbid publishing their files, and this repo is public.
 
 ## Things that went wrong the first time

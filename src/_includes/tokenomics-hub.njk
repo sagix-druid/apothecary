@@ -1,0 +1,45 @@
+{#- The scorecard listing on /tokenomics/, built from src/_data/tokens.json and the live figures in market.js. -#}
+<h2>Blockchain scorecards</h2>
+<div class="hub-cards">
+  {%- for slug, t in tokens %}{% if t.hub %}
+  {%- set m = market.tokens[slug] or {} %}
+  <div class="hub-card">
+    <div class="hub-card-head">
+      <a class="hub-card-title" href="/{{ slug }}/">{{ t.glyph }} {{ t.name }}</a>
+      <span class="hub-card-rating">{{ t.hub.rating }}/10</span>
+    </div>
+    <p>{{ t.symbol }}{% if m.price %} · {{ m.price | usd }}{% if m.change7d != null %} <span class="scorecard-change {{ 'is-up' if m.change7d >= 0 else 'is-down' }}">{{ m.change7d | pct }}</span>{% endif %}{% endif %}</p>
+    <p>{{ t.hub.blurb }}</p>
+    <p class="hub-card-links"><a href="/{{ slug }}/">Scorecard →</a>{% for label, url in t.hub.ecosystem %}<a href="{{ url }}">{{ label }}</a>{% endfor %}</p>
+  </div>
+  {%- endif %}{% endfor %}
+  <div class="hub-card">
+    <div class="hub-card-head"><a class="hub-card-title" href="/stablecoins/">💵 Stablecoins</a></div>
+    <p>Market guide</p>
+    <p>Complete analysis of 37+ stablecoins covering USDC, USDT, yield protocols, institutional Treasury tokens, GENIUS Act compliance, and regulatory classifications.</p>
+    <p class="hub-card-links"><a href="/stablecoins/">Explore the guide →</a></p>
+  </div>
+</div>
+{%- set groups = [["Networks", "network", null], ["Ethereum protocols", "protocol", "Ethereum"], ["Solana protocols", "protocol", "Solana"]] %}
+<h2>Every scorecard, with live figures</h2>
+<div class="hub-table-wrap">
+<table class="hub-table">
+  <thead><tr><th>Scorecard</th><th class="num">Price</th><th class="num">7d</th><th class="num">Market cap</th><th class="num">TVL</th></tr></thead>
+  {%- for group in groups %}
+  <tbody>
+    <tr><th colspan="5">{{ group[0] }}</th></tr>
+    {%- for slug, t in tokens %}{% if t.group == group[1] and (not group[2] or t.origin == group[2]) %}
+    {%- set m = market.tokens[slug] or {} %}
+    <tr>
+      <td><span class="hub-glyph" aria-hidden="true">{{ t.glyph }}</span><a href="/{{ slug }}/">{{ t.name }}</a> <small>{{ t.symbol }}</small></td>
+      <td class="num">{{ m.price | usd if m.price else "–" }}</td>
+      <td class="num {{ ('is-up' if m.change7d >= 0 else 'is-down') if m.change7d != null }}">{{ m.change7d | pct if m.change7d != null else "–" }}</td>
+      <td class="num">{{ m.marketCap | compactUsd if m.marketCap else "–" }}</td>
+      <td class="num">{{ m.tvl | compactUsd if m.tvl else "–" }}</td>
+    </tr>
+    {%- endif %}{% endfor %}
+  </tbody>
+  {%- endfor %}
+</table>
+</div>
+<p class="scorecard-asof">Prices and market caps from CoinGecko, TVL from DeFiLlama, as of {{ market.updated | utcTime }}. Base has no token of its own.</p>

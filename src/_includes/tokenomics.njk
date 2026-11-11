@@ -1,0 +1,6 @@
+---
+layout: page.njk
+---
+{#- The /tokenomics/ hub: the page's own text, with the scorecard listing where it has <!-- scorecards -->. -#}
+{%- set hub %}{% include "tokenomics-hub.njk" %}{% endset %}
+{{ content | replace("<!-- scorecards -->", hub) | safe }}

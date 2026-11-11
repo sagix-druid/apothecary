@@ -129,6 +129,22 @@ export default function (eleventyConfig) {
     const mine = new Set((current.topics || []).map(slugify));
     return posts.filter((post) => post.url !== current.page.url && (post.data.topics || []).some((t) => mine.has(slugify(t)))).slice(0, 3);
   });
+  // Market figures on the tokenomics scorecards (see src/_data/market.js).
+  const compactUsd = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD", notation: "compact", maximumFractionDigits: 1 });
+  eleventyConfig.addFilter("usd", (n) =>
+    n >= 1 ? "$" + n.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) : "$" + n.toPrecision(4),
+  );
+  eleventyConfig.addFilter("compactUsd", (n) => compactUsd.format(n));
+  eleventyConfig.addFilter("compactNumber", (n) => Math.round(n).toLocaleString("en-US"));
+  eleventyConfig.addFilter("pct", (n) => (n > 0 ? "+" : "") + n.toFixed(1) + "%");
+  eleventyConfig.addFilter("utcTime", (iso) => new Date(iso).toISOString().slice(0, 16).replace("T", " ") + " UTC");
+  eleventyConfig.addFilter("sparklinePoints", (prices, width, height) => {
+    const min = Math.min(...prices);
+    const range = Math.max(...prices) - min || 1;
+    return prices
+      .map((p, i) => `${((i / (prices.length - 1)) * width).toFixed(1)},${(height - 2 - ((p - min) / range) * (height - 4)).toFixed(1)}`)
+      .join(" ");
+  });
   eleventyConfig.addFilter("srcset", srcsetOf);
   // Taller-than-wide pictures, so cards can treat portraits differently.
   eleventyConfig.addFilter("isPortrait", (image) => Boolean(imageSizes[image] && imageSizes[image].height > imageSizes[image].width));

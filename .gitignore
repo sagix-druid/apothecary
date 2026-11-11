@@ -14,3 +14,4 @@ CLAUDE.md
 .DS_Store
 node_modules/
 _site/
+.cache/

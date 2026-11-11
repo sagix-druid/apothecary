@@ -66,3 +66,108 @@
     white-space: pre-wrap;
     word-break: break-word;
 }
+
+/* Tokenomics scorecards (src/_includes/scorecard-card.njk). Colors come from the theme, so they work in light and dark. */
+.gh-content .scorecard {
+    margin: 2em 0;
+    padding: 24px;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    border-radius: 8px;
+    font-family: var(--font-sans);
+    font-size: 1.6rem;
+}
+.scorecard { --sc-up: #1f9d55; --sc-down: #e0464b; }
+.scorecard-head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+.scorecard-name { font-weight: 400; opacity: 0.65; }
+.scorecard-price {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 20px;
+    margin-top: 8px;
+}
+.scorecard-price-value { font-size: 3rem; font-weight: 700; }
+.scorecard-sparkline { width: 160px; height: 40px; }
+.scorecard-sparkline.is-up, .scorecard-change.is-up { color: var(--sc-up); }
+.scorecard-sparkline.is-down, .scorecard-change.is-down { color: var(--sc-down); }
+.scorecard-change { font-weight: 600; }
+.gh-content .scorecard dl {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 12px 20px;
+    margin: 20px 0 0;
+    padding: 20px 0 0;
+    border-top: 1px solid rgba(128, 128, 128, 0.3);
+}
+.gh-content .scorecard dt {
+    float: none;
+    width: auto;
+    margin: 0;
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: inherit;
+    opacity: 0.6;
+}
+.gh-content .scorecard dd { margin: 2px 0 0; padding: 0; color: inherit; font-weight: 600; }
+.gh-content .scorecard .scorecard-pill {
+    display: inline-block;
+    margin-top: 4px;
+    padding: 1px 10px;
+    border-radius: 999px;
+    font-size: 1.3rem;
+    background: rgba(128, 128, 128, 0.15);
+}
+.gh-content .scorecard .scorecard-pill-yes { background: color-mix(in srgb, var(--sc-up) 22%, transparent); }
+@media (max-width: 600px) {
+    .gh-content .scorecard { padding: 16px; }
+    .gh-content .scorecard dl { grid-template-columns: 1fr 1fr; }
+}
+.gh-content .scorecard-links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 20px 0 0; }
+.gh-content .scorecard-asof { margin: 8px 0 0; font-size: 1.3rem; opacity: 0.6; }
+.gh-content .scorecard-note {
+    margin-top: 3em;
+    padding: 20px 24px;
+    border-left: 3px solid var(--custom-accent);
+    font-size: 1.6rem;
+}
+.gh-content .scorecard-note h3 { margin: 0 0 8px; }
+.gh-content .scorecard-note p { margin: 0; }
+
+/* The /tokenomics/ hub (src/_includes/tokenomics-hub.njk). */
+.gh-content .hub-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 16px;
+    margin: 1.5em 0;
+}
+.hub-card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 20px;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    border-radius: 8px;
+    font-family: var(--font-sans);
+    font-size: 1.5rem;
+}
+.gh-content .hub-card p { margin: 0; }
+.hub-card-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+.hub-card-title { font-size: 2rem; font-weight: 700; }
+.hub-card-rating { font-weight: 700; color: var(--custom-accent); white-space: nowrap; }
+.hub-card-links { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: auto !important; padding-top: 6px; }
+.gh-content .hub-table-wrap { overflow-x: auto; margin: 1em 0 2em; }
+.gh-content .hub-table { display: table; width: 100%; margin: 0; font-family: var(--font-sans); font-size: 1.5rem; }
+.gh-content .hub-table th, .gh-content .hub-table td { white-space: nowrap; }
+.hub-table .num { text-align: right; font-variant-numeric: tabular-nums; }
+.hub-table .is-up { color: #1f9d55; }
+.hub-table .is-down { color: #e0464b; }
+.hub-table .hub-glyph { display: inline-block; width: 1.6em; }
