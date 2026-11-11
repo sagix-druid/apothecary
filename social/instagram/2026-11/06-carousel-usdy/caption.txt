@@ -1,0 +1,9 @@
+Most tokenized Treasury products can only move between whitelisted wallets. USDY can move freely.
+
+Ondo's USDY holds short-term US Treasuries and passes the interest to holders through a redemption value that rises every day. It is offered under Regulation S to non-US persons, which is what allows permissionless transfers once the initial lockup ends.
+
+Our explainer covers the structure, how the yield follows the Fed, and the risks next to USDC and BUIDL. Full article on sagix.io, link in bio.
+
+USDY is not offered to US persons. Educational content, not financial advice.
+
+#tokenization #rwa #treasuries #stablecoins #defi #ethereum #sagix

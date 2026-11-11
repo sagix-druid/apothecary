@@ -1,0 +1,9 @@
+Most DeFi liquidity checks stop at pool depth. That is one quarter of the picture.
+
+The Druid Deep Dive's Episode 9 traced two hundred years of financial plumbing, from Jackson's Bank War to Rothschild's London, and it comes down to four questions: is the pool deep enough, is there a backstop, can the asset move, and is there a hub.
+
+The full framework is on sagix.io, link in bio.
+
+Educational content, not financial advice.
+
+#defi #liquidity #riskmanagement #financialhistory #stablecoins #crypto #thedruiddeepdive #sagix

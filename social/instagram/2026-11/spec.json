@@ -1,0 +1,471 @@
+{
+  "handle": "@sagix.io",
+  "time": "12:00 America/New_York",
+  "reels": [
+    {
+      "id": "01-reel-ddd18",
+      "date": "2026-11-12",
+      "post": "https://www.sagix.io/ddd18/",
+      "label": "The Druid Deep Dive · Episode 18",
+      "chord": [
+        73.42,
+        110.0,
+        146.83,
+        174.61,
+        220.0
+      ],
+      "cards": [
+        {
+          "img": "2026/11/ddd18-tudor-assay-table.jpg",
+          "head": "In 1544 the English Crown found a tax nobody had to vote for.",
+          "kind": "hook"
+        },
+        {
+          "img": "2026/11/ddd18-five-coins.jpg",
+          "head": "The silver in a penny fell from 0.639 grams to 0.108 grams.",
+          "sub": "A cut of 83 percent."
+        },
+        {
+          "img": "2026/11/ddd18-countermarking.jpg",
+          "head": "The mints struck about £4 million of coin in seven years.",
+          "sub": "The Crown kept about £1.27 million in profit."
+        },
+        {
+          "img": "2026/11/ddd18-sealed-writ.jpg",
+          "head": "Then a 1551 decree halved the face value of the silver coin.",
+          "sub": "The same holders paid again."
+        },
+        {
+          "img": "2026/11/ddd18-five-coins.jpg",
+          "head": "A loan is written in a unit.",
+          "sub": "In 1551 the unit changed twice between spring and autumn."
+        }
+      ],
+      "end": {
+        "img": "2026/11/ddd18-tudor-assay-table.jpg",
+        "title": "The Great Debasement",
+        "line": "When the Crown taxed the coin itself, 1544 to 1551"
+      },
+      "caption": "Henry VIII never asked Parliament for this tax. He took it out of the coins.\n\nBetween 1544 and 1551 the silver in an English penny fell by 83 percent, the mints struck about £4 million of coin, and the Crown kept roughly £1.27 million. Then a 1551 decree halved the face value of the silver coinage, and the people holding it paid a second time.\n\nEpisode 18 of The Druid Deep Dive follows who paid, both times, and reads the Fed's balance sheet against it. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#monetaryhistory #financialhistory #tudor #inflation #defi #economics #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "03-reel-ddd12",
+      "date": "2026-11-14",
+      "post": "https://www.sagix.io/ddd12/",
+      "label": "The Druid Deep Dive · Episode 12",
+      "chord": [
+        65.41,
+        98.0,
+        130.81,
+        155.56,
+        196.0
+      ],
+      "cards": [
+        {
+          "img": "2026/08/Gemini_Generated_Image_ocitjuocitjuocit.jpg",
+          "head": "Tulip mania is finance's favorite bubble story.",
+          "sub": "The archives tell a smaller one.",
+          "kind": "hook"
+        },
+        {
+          "img": "2026/08/Gemini_Generated_Image_v08rtav08rtav08r.jpg",
+          "head": "Ordinary Witte Croonen bulbs rose about 26-fold in January 1637.",
+          "sub": "Within a week in February they fell to a twentieth of the peak."
+        },
+        {
+          "img": "2026/08/Gemini_Generated_Image_ocitjuocitjuocit.jpg",
+          "head": "Most broken contracts settled for 3.5 to 10 percent of the price."
+        },
+        {
+          "img": "2026/08/Gemini_Generated_Image_v08rtav08rtav08r.jpg",
+          "head": "The historian Anne Goldgar found no bankruptcy caused by tulips.",
+          "sub": "The Dutch economy showed no measurable effect."
+        },
+        {
+          "img": "2026/08/Gemini_Generated_Image_ocitjuocitjuocit.jpg",
+          "head": "So where did the legend come from?",
+          "sub": "The same story machine now writes about memecoins."
+        }
+      ],
+      "end": {
+        "img": "2026/08/Gemini_Generated_Image_ocitjuocitjuocit.jpg",
+        "title": "Tulip mania",
+        "line": "The bubble that mostly wasn't, 1637"
+      },
+      "caption": "Everyone knows the tulip mania story. The archives know a smaller one.\n\nPrices did spike: ordinary Witte Croonen bulbs rose about 26-fold in January 1637 and lost most of it within a week. But most broken contracts settled for 3.5 to 10 percent of the price, and the historian Anne Goldgar found no bankruptcy caused by tulips.\n\nEpisode 12 of The Druid Deep Dive asks how a trade that small became the bubble every bubble is compared to. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#tulipmania #financialhistory #bubbles #memecoins #economics #history #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "05-reel-ddd10",
+      "date": "2026-11-16",
+      "post": "https://www.sagix.io/ddd10/",
+      "label": "The Druid Deep Dive · Episode 10",
+      "chord": [
+        61.74,
+        92.5,
+        123.47,
+        146.83,
+        185.0
+      ],
+      "cards": [
+        {
+          "img": "2026/04/ggXOL.jpg",
+          "head": "Twelve minutes. $285 million gone.",
+          "sub": "Drift Protocol, April 1, 2026.",
+          "kind": "hook"
+        },
+        {
+          "img": "2026/04/6cf24d26-b54f-40f9-83df-b30981726ec3.jpg",
+          "head": "In 1717 John Law ran the bank, the asset and the price.",
+          "sub": "All from one place."
+        },
+        {
+          "img": "2026/04/6cf24d26-b54f-40f9-83df-b30981726ec3.jpg",
+          "head": "Mississippi shares went from 500 livres to nearly 10,000 by December 1719."
+        },
+        {
+          "img": "2026/04/ggXOL.jpg",
+          "head": "Then from 9,000 to under 2,000 within weeks."
+        },
+        {
+          "img": "2026/04/50b95b91-3470-4713-8cb2-56a07b74d0f6.jpg",
+          "head": "The Drift attackers rebuilt the same closed loop.",
+          "sub": "The technique is three centuries old."
+        }
+      ],
+      "end": {
+        "img": "2026/04/ggXOL.jpg",
+        "title": "The Mississippi scheme and the Drift exploit",
+        "line": "Three centuries of the same trick"
+      },
+      "caption": "On April 1, 2026, attackers drained $285 million from Drift Protocol in twelve minutes.\n\nThe structure was not new. In 1717 John Law controlled the bank, the asset and the price at once, and Mississippi Company shares went from a 500 livre subscription to nearly 10,000 before falling from 9,000 to under 2,000 within weeks.\n\nEpisode 10 of The Druid Deep Dive lines the two up. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#defi #cryptosecurity #financialhistory #johnlaw #solana #economics #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "07-reel-ddd17",
+      "date": "2026-11-18",
+      "post": "https://www.sagix.io/ddd17/",
+      "label": "The Druid Deep Dive · Episode 17",
+      "chord": [
+        69.3,
+        103.83,
+        138.59,
+        164.81,
+        207.65
+      ],
+      "cards": [
+        {
+          "img": "2026/11/Gemini_Generated_Image_h6evu2h6evu2h6ev.jpeg",
+          "head": "The track was real. The traffic was not.",
+          "kind": "hook"
+        },
+        {
+          "img": "2026/11/Gemini_Generated_Image_tor1j0tor1j0tor1.jpeg",
+          "head": "From 1868 to 1873 American railroads laid over 31,000 miles of track.",
+          "sub": "On borrowed money."
+        },
+        {
+          "img": "2026/11/Gemini_Generated_Image_wqbjfdwqbjfdwqbj.jpeg",
+          "head": "Around 1870 railroads were 92.6 percent of the bonds listed on US exchanges."
+        },
+        {
+          "img": "2026/11/Gemini_Generated_Image_tor1j0tor1j0tor1.jpeg",
+          "head": "September 20, 1873: the New York Stock Exchange closed for the first time.",
+          "sub": "It stayed shut for ten days."
+        },
+        {
+          "img": "2026/11/Gemini_Generated_Image_h6evu2h6evu2h6ev.jpeg",
+          "head": "Between 1873 and 1875, 35.9 percent of the bond market defaulted.",
+          "sub": "The downturn lasted 65 months, the longest on the NBER's books."
+        }
+      ],
+      "end": {
+        "img": "2026/11/Gemini_Generated_Image_55b14q55b14q55b1-1.jpeg",
+        "title": "Railroad bond mania",
+        "line": "The track was real, the traffic was not, 1868 to 1879"
+      },
+      "caption": "The track was real. The traffic was not.\n\nAmerican railroads laid a little over 31,000 miles of line between 1868 and 1873, almost all of it on borrowed money, and by 1870 railroads made up 92.6 percent of the bonds listed on US exchanges. In September 1873 the New York Stock Exchange closed for the first time, and 35.9 percent of the bond market defaulted over the next three years.\n\nEpisode 17 of The Druid Deep Dive traces who built, who paid and who kept the rails. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#financialhistory #railroads #bonds #panicof1873 #economics #history #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "09-reel-ddd13",
+      "date": "2026-11-20",
+      "post": "https://www.sagix.io/ddd13/",
+      "label": "The Druid Deep Dive · Episode 13",
+      "chord": [
+        55.0,
+        82.41,
+        110.0,
+        130.81,
+        164.81
+      ],
+      "cards": [
+        {
+          "img": "2026/09/Gemini_Generated_Image_14kht614kht614kh.jpeg",
+          "head": "October 1923: prices in Germany doubled every 3.7 days.",
+          "kind": "hook"
+        },
+        {
+          "img": "2026/09/Gemini_Generated_Image_xnslihxnslihxnsl.jpeg",
+          "head": "From January 1922 to August 1923 wholesale prices rose 25,723-fold."
+        },
+        {
+          "img": "2026/09/Gemini_Generated_Image_tmhs04tmhs04tmhs.jpeg",
+          "head": "People stopped using the mark.",
+          "sub": "By November 1923 it was about 7 percent of the money in use."
+        },
+        {
+          "img": "2026/09/Gemini_Generated_Image_xnslihxnslihxnsl.jpeg",
+          "head": "Loans were written in rye, coal, potash, gold and sterling."
+        },
+        {
+          "img": "2026/09/Gemini_Generated_Image_14kht614kht614kh.jpeg",
+          "head": "The stabilization was built on money people had already chosen."
+        }
+      ],
+      "end": {
+        "img": "2026/09/Gemini_Generated_Image_tmhs04tmhs04tmhs.jpeg",
+        "title": "Weimar",
+        "line": "What survived the mark, 1921 to 1923"
+      },
+      "caption": "In October 1923 German prices doubled every 3.7 days.\n\nPeople did not wait for a fix. They moved to dollar-indexed private notes, foreign cash and loans written in rye, coal and gold, until the paper mark was about 7 percent of the money in use. The stabilization that followed was built on what they had already chosen.\n\nEpisode 13 of The Druid Deep Dive traces who came through, and reads Argentina's 2023 decree on the unit of account against it. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#hyperinflation #weimar #monetaryhistory #stablecoins #economics #history #thedruiddeepdive #sagix"
+    }
+  ],
+  "carousels": [
+    {
+      "id": "02-carousel-ddd16",
+      "date": "2026-11-13",
+      "post": "https://www.sagix.io/ddd16/",
+      "label": "The Druid Deep Dive · Episode 16",
+      "slides": [
+        {
+          "type": "cover",
+          "img": "2026/11/Gemini_Generated_Image_dqzdvadqzdvadqzd.jpeg",
+          "title": "Scotland ran on private banknotes for over a century, with no central bank."
+        },
+        {
+          "type": "fact",
+          "img": "2026/11/Gemini_Generated_Image_e4lh96e4lh96e4lh.jpeg",
+          "big": "31 → 36",
+          "text": "Banks in Scotland in 1772 and in 1830. Rival banks issued their own notes, cleared them weekly and held them at par."
+        },
+        {
+          "type": "fact",
+          "img": "2026/11/Gemini_Generated_Image_xp0ljyxp0ljyxp0l.jpeg",
+          "big": "4.0 vs 18.1",
+          "text": "Bank failures per thousand banks per year, 1809 to 1830, in Scotland against England."
+        },
+        {
+          "type": "fact",
+          "img": "2026/11/Gemini_Generated_Image_e4lh96e4lh96e4lh.jpeg",
+          "big": "Disputed",
+          "text": "Counted back to 1772, the rates were 14.88 and 14.90. Sechrest found the difference not significant."
+        },
+        {
+          "type": "fact",
+          "img": "2026/11/Gemini_Generated_Image_k86vifk86vifk86v.jpeg",
+          "big": "What held it",
+          "text": "A weekly note exchange, partners liable with their own estates, and London behind them."
+        },
+        {
+          "type": "fact",
+          "img": "2026/11/Gemini_Generated_Image_k86vifk86vifk86v.jpeg",
+          "big": "22 rollups",
+          "text": "Episode 16 checks them against that list. They have the exchange and the delay clause. They have no liability."
+        },
+        {
+          "type": "end",
+          "img": "2026/11/Gemini_Generated_Image_dqzdvadqzdvadqzd.jpeg",
+          "title": "Scottish free banking",
+          "line": "What held it up, 1727 to 1845"
+        }
+      ],
+      "caption": "For more than a century Scotland's money was issued by rival private banks, with no central bank at all.\n\nThe notes were cleared weekly and held at par. Between 1809 and 1830 Scottish banks failed at 4.0 per thousand a year against 18.1 in England, though counted back to 1772 the gap disappears, and the episode shows both readings.\n\nEpisode 16 of The Druid Deep Dive finds what held the system up and checks 22 rollups against it. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#freebanking #scotland #monetaryhistory #ethereum #layer2 #economics #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "04-carousel-ddd15",
+      "date": "2026-11-15",
+      "post": "https://www.sagix.io/ddd15/",
+      "label": "The Druid Deep Dive · Episode 15",
+      "slides": [
+        {
+          "type": "cover",
+          "img": "2026/10/Gemini_Generated_Image_cyzomjcyzomjcyzo.jpeg",
+          "title": "The Medici built a bank that no single branch could sink."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_h6h05bh6h05bh6h0.jpeg",
+          "big": "1383",
+          "text": "Florence's partnership system appears. Forty-eight existed in the city before 1400."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_h6h05bh6h05bh6h0.jpeg",
+          "big": "One name, many firms",
+          "text": "Each branch had its own name, capital and books. Branches charged each other commission like strangers."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_v8wvi0v8wvi0v8wv.jpeg",
+          "big": "It held in court",
+          "text": "When a Milanese merchant sued in Bruges, the separation between branches stood."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_h6h05bh6h05bh6h0.jpeg",
+          "big": "It failed in the ledger",
+          "text": "A branch manager lent twice the branch's capital to a duke. No structure stops that."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_v8wvi0v8wvi0v8wv.jpeg",
+          "big": "Today",
+          "text": "Episode 15 reads a Singapore judgment on a cross-chain bridge against the Medici design."
+        },
+        {
+          "type": "end",
+          "img": "2026/10/Gemini_Generated_Image_cyzomjcyzomjcyzo.jpeg",
+          "title": "The Medici network",
+          "line": "A holding company with no court above it, 1397 to 1494"
+        }
+      ],
+      "caption": "The Medici bank was not one firm. It was a chain of legally separate partnerships under one name, so that no branch could sink the house.\n\nThe design held when a Milanese merchant sued in Bruges. It did nothing when a branch manager lent twice the branch's capital to a duke.\n\nEpisode 15 of The Druid Deep Dive traces both, and reads a Singapore judgment on a cross-chain bridge against it. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#medici #florence #banking #financialhistory #defi #bridges #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "06-carousel-usdy",
+      "date": "2026-11-17",
+      "post": "https://www.sagix.io/usdy/",
+      "label": "Sagix research · Tokenized Treasuries",
+      "slides": [
+        {
+          "type": "cover",
+          "img": "2026/07/Gemini_Generated_Image_1sgj6h1sgj6h1sgj.png",
+          "title": "USDY: Treasury yield in a token you can actually transfer."
+        },
+        {
+          "type": "fact",
+          "img": "2026/07/Gemini_Generated_Image_bxmli3bxmli3bxml.png",
+          "big": "$1.00 → $1.13",
+          "text": "Launched in August 2023 at one dollar. Its redemption value rises daily as Treasury interest accrues (July 2026 figure)."
+        },
+        {
+          "type": "fact",
+          "img": "2026/07/Gemini_Generated_Image_du0vfkdu0vfkdu0v.png",
+          "big": "Why it moves",
+          "text": "Most tokenized Treasuries, BlackRock's BUIDL included, move only between whitelisted wallets. USDY is offered under Regulation S to non-US persons, so it transfers freely after a lockup."
+        },
+        {
+          "type": "fact",
+          "img": "2026/07/Gemini_Generated_Image_bxmli3bxmli3bxml.png",
+          "big": "What it tracks",
+          "text": "Short-term US Treasuries. When the Fed cuts, the yield falls within weeks."
+        },
+        {
+          "type": "fact",
+          "img": "2026/07/Gemini_Generated_Image_du0vfkdu0vfkdu0v.png",
+          "big": "The risks",
+          "text": "Issuer and structure, rates, banking, regulation, thin DEX liquidity and smart contracts. Not available to US persons."
+        },
+        {
+          "type": "end",
+          "img": "2026/07/Gemini_Generated_Image_1sgj6h1sgj6h1sgj.png",
+          "title": "USDY explained",
+          "line": "How it works, the structure and the risks"
+        }
+      ],
+      "caption": "Most tokenized Treasury products can only move between whitelisted wallets. USDY can move freely.\n\nOndo's USDY holds short-term US Treasuries and passes the interest to holders through a redemption value that rises every day. It is offered under Regulation S to non-US persons, which is what allows permissionless transfers once the initial lockup ends.\n\nOur explainer covers the structure, how the yield follows the Fed, and the risks next to USDC and BUIDL. Full article on sagix.io, link in bio.\n\nUSDY is not offered to US persons. Educational content, not financial advice.\n\n#tokenization #rwa #treasuries #stablecoins #defi #ethereum #sagix"
+    },
+    {
+      "id": "08-carousel-ddd14",
+      "date": "2026-11-19",
+      "post": "https://www.sagix.io/ddd14/",
+      "label": "The Druid Deep Dive · Episode 14",
+      "slides": [
+        {
+          "type": "cover",
+          "img": "2026/10/Gemini_Generated_Image_w2vsjyw2vsjyw2vs.jpg",
+          "title": "The day the peg broke: Bretton Woods to the Nixon shock."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_9s5q9x9s5q9x9s5q.jpg",
+          "big": "$35",
+          "text": "An ounce of gold, fixed in 1944 by 730 delegates from 44 nations. Every other currency pegged to the dollar within 1 percent."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_9s5q9x9s5q9x9s5q.jpg",
+          "big": "160% → 25%",
+          "text": "In 1955 US gold was worth about 160 percent more than official dollars abroad. By 1971 it covered 25 percent of them."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_vjmnf4vjmnf4vjmn.jpg",
+          "big": "$30 billion",
+          "text": "The US payments deficit by August 1971, up from $9 billion in 1970."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_jqkvv3jqkvv3jqkv.jpg",
+          "big": "August 15, 1971",
+          "text": "The gold window closed \"temporarily,\" with an exception written into the same sentence."
+        },
+        {
+          "type": "fact",
+          "img": "2026/10/Gemini_Generated_Image_vjmnf4vjmnf4vjmn.jpg",
+          "big": "$42",
+          "text": "Two devaluations later, in February 1973. Within a month nearly every major currency was floating."
+        },
+        {
+          "type": "end",
+          "img": "2026/10/Gemini_Generated_Image_w2vsjyw2vsjyw2vs.jpg",
+          "title": "The day the peg broke",
+          "line": "Bretton Woods to the Nixon shock, 1944 to 1973"
+        }
+      ],
+      "caption": "A peg is a promise until someone tests it.\n\nIn 1944 the dollar was fixed to gold at $35 an ounce and the world's currencies to the dollar. By 1971 US gold covered about a quarter of the official dollars held abroad, the payments deficit had reached $30 billion, and on August 15 the gold window closed, \"temporarily.\"\n\nEpisode 14 of The Druid Deep Dive reads the Gold Pool collapse and Nixon's exception clause against today's stablecoin rules. Full episode on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#brettonwoods #nixonshock #gold #stablecoins #monetaryhistory #economics #thedruiddeepdive #sagix"
+    },
+    {
+      "id": "10-carousel-four-layers",
+      "date": "2026-11-21",
+      "post": "https://www.sagix.io/our-layer-framework/",
+      "label": "Sagix research · Liquidity",
+      "slides": [
+        {
+          "type": "cover",
+          "img": "2026/03/Gemini_Generated_Image_fteop5fteop5fteo.png",
+          "title": "Is your DeFi position liquid? Pool depth is one quarter of the answer."
+        },
+        {
+          "type": "fact",
+          "img": "2026/03/Gemini_Generated_Image_35rb0035rb0035rb.png",
+          "big": "1 · Pool depth",
+          "text": "Is there enough market depth to absorb your exit?"
+        },
+        {
+          "type": "fact",
+          "img": "2026/03/Gemini_Generated_Image_dw4c7cdw4c7cdw4c.png",
+          "big": "2 · Backstop",
+          "text": "Is there a lender of last resort when confidence breaks? In 2008 the Fed lent nearly $600 billion through swap lines to cover offshore dollars."
+        },
+        {
+          "type": "fact",
+          "img": "2026/03/Gemini_Generated_Image_1b91dh1b91dh1b91.png",
+          "big": "3 · Pipes",
+          "text": "Can you move the asset to where depth exists? After Herstatt failed in 1974, interbank transfers fell about 60 percent in three days."
+        },
+        {
+          "type": "fact",
+          "img": "2026/03/Gemini_Generated_Image_fteop5fteop5fteo.png",
+          "big": "4 · Hub",
+          "text": "Is there a nexus that connects your asset's market to the others? Rothschild made London that node."
+        },
+        {
+          "type": "end",
+          "img": "2026/03/Gemini_Generated_Image_fteop5fteop5fteo.png",
+          "title": "The four-layer framework",
+          "line": "Two hundred years of plumbing failures, one checklist"
+        }
+      ],
+      "caption": "Most DeFi liquidity checks stop at pool depth. That is one quarter of the picture.\n\nThe Druid Deep Dive's Episode 9 traced two hundred years of financial plumbing, from Jackson's Bank War to Rothschild's London, and it comes down to four questions: is the pool deep enough, is there a backstop, can the asset move, and is there a hub.\n\nThe full framework is on sagix.io, link in bio.\n\nEducational content, not financial advice.\n\n#defi #liquidity #riskmanagement #financialhistory #stablecoins #crypto #thedruiddeepdive #sagix"
+    }
+  ]
+}
