@@ -5,6 +5,7 @@ updated: "2025-12-03T18:24:05.000Z"
 excerpt: "Sagix: where financial history meets portfolio strategy"
 feature_image: "/content/images/2025/09/image-1-.jpg"
 topics: []
+signup: true
 ---
 
 # Ancient Wisdom for Modern DeFi

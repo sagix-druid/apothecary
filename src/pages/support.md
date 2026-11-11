@@ -6,6 +6,7 @@ excerpt: ""
 feature_image: "/content/images/2025/09/IMG_6792.JPG"
 feature_image_caption: "<em>The Druid during his extensive research</em>"
 topics: []
+signup: true
 ---
 
 <!-- tip-card -->

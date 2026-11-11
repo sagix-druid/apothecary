@@ -6,6 +6,7 @@ excerpt: "Learn DeFi fundamentals with Sagix's deliberately boring, educational 
 feature_image: "/content/images/2025/09/nook-2.jpg"
 feature_image_caption: "<em>Deliberately boring design for serious financial decisions</em>"
 topics: []
+signup: true
 ---
 
 Decentralized Finance (DeFi) represents a revolutionary shift from traditional banking to blockchain-based financial services that operate without intermediaries. Built primarily on Ethereum and other smart contract platforms, DeFi protocols enable users to lend, borrow, trade, and earn yield on digital assets through automated systems governed by code rather than institutions. This permissionless financial infrastructure allows anyone with an internet connection to access sophisticated financial tools that were previously exclusive to banks and accredited investors, creating unprecedented opportunities for portfolio diversification and yield generation.

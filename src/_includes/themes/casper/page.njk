@@ -20,5 +20,9 @@ bodyClass: page-template
         <section class="gh-content gh-canvas">
             {{ content | safe }}
         </section>
+        {#- A page opts in to the subscribe box with `signup: true` in its front matter. -#}
+        {%- if signup and site.subscribeUrl and "<!-- signup -->" not in content %}
+        <section class="gh-content gh-canvas post-signup"><!-- signup --></section>
+        {%- endif %}
     </article>
 </main>
