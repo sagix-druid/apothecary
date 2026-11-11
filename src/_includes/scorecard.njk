@@ -6,11 +6,12 @@ layout: page.njk
 {%- set t = tokens[page.fileSlug] %}
 {%- set m = market.tokens[page.fileSlug] or {} %}
 {%- set card %}{% include "scorecard-card.njk" %}{% endset %}
-{%- if "<!-- scorecard -->" in content %}
-{{ content | replace("<!-- scorecard -->", card) | safe }}
+{%- set text = content | fillFigures(m) %}
+{%- if "<!-- scorecard -->" in text %}
+{{ text | replace("<!-- scorecard -->", card) | safe }}
 {%- else %}
 {{ card | safe }}
-{{ content | safe }}
+{{ text | safe }}
 {%- endif %}
 <aside class="scorecard-note">
   <h3>Research starting point</h3>

@@ -1,0 +1,20 @@
+---
+pagination:
+  data: redirects
+  size: 1
+  alias: redirect
+permalink: "{{ redirect.from }}index.html"
+eleventyExcludeFromCollections: true
+---
+{#- Old addresses that moved. Add a line to src/_data/redirects.json for each. -#}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ redirect.to }}">
+    <link rel="canonical" href="{{ site.url }}{{ redirect.to }}">
+    <meta name="robots" content="noindex">
+    <title>Moved</title>
+</head>
+<body><a href="{{ redirect.to }}">This page has moved.</a></body>
+</html>

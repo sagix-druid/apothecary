@@ -6,6 +6,7 @@ excerpt: "Solana DeFi guide: Jupiter DEX aggregator, Raydium, Orca, Drift perpet
 feature_image: "/content/images/2025/11/image-6-.jpg"
 topics: ["solana","defi"]
 internal_tags: ["#solana","#defi"]
+layout: live-tvl.njk
 ---
 
 Solana's high-performance architecture enables DeFi protocols that operate at speeds approaching centralized exchanges—processing 65,000+ theoretical transactions per second with sub-second finality and fees typically under $0.01. This performance advantage has attracted a thriving DeFi ecosystem with $8+ billion in TVL across trading, lending, and liquid staking.
@@ -28,32 +29,32 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
     <tr>
       <td><strong><a href="/jupiter" target="_blank">Jupiter</a></strong></td>
       <td>Dominant DEX aggregator with 62% market share, perpetuals & lending</td>
-      <td style="text-align: right;" id="tvl-jupiter">Loading...</td>
+      <td style="text-align: right;" data-tvl="jupiter">–</td>
     </tr>
     <tr>
       <td><strong><a href="/raydium" target="_blank">Raydium</a></strong></td>
       <td>Leading AMM with concentrated liquidity and order book hybrid</td>
-      <td style="text-align: right;" id="tvl-raydium">Loading...</td>
+      <td style="text-align: right;" data-tvl="raydium">–</td>
     </tr>
     <tr>
       <td><strong>Orca</strong></td>
       <td>User-friendly AMM with Whirlpools concentrated liquidity</td>
-      <td style="text-align: right;" id="tvl-orca">Loading...</td>
+      <td style="text-align: right;" data-tvl="orca">–</td>
     </tr>
     <tr>
       <td><strong>Phoenix</strong></td>
       <td>High-performance on-chain orderbook DEX</td>
-      <td style="text-align: right;" id="tvl-phoenix">Loading...</td>
+      <td style="text-align: right;" data-tvl="phoenix">–</td>
     </tr>
     <tr>
       <td><strong>Meteora</strong></td>
       <td>Dynamic liquidity pools with adaptive fees</td>
-      <td style="text-align: right;" id="tvl-meteora">Loading...</td>
+      <td style="text-align: right;" data-tvl="meteora">–</td>
     </tr>
     <tr>
       <td><strong>Drift Protocol</strong></td>
       <td>Perpetuals DEX with cross-margined positions</td>
-      <td style="text-align: right;" id="tvl-drift">Loading...</td>
+      <td style="text-align: right;" data-tvl="drift">–</td>
     </tr>
   </tbody>
 </table>
@@ -72,22 +73,22 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
     <tr>
       <td><strong>Kamino Finance</strong></td>
       <td>Automated liquidity and lending optimization platform</td>
-      <td style="text-align: right;" id="tvl-kamino">Loading...</td>
+      <td style="text-align: right;" data-tvl="kamino">–</td>
     </tr>
     <tr>
       <td><strong>MarginFi</strong></td>
       <td>Decentralized margin trading and lending protocol</td>
-      <td style="text-align: right;" id="tvl-marginfi">Loading...</td>
+      <td style="text-align: right;" data-tvl="marginfi">–</td>
     </tr>
     <tr>
       <td><strong>Solend</strong></td>
       <td>Algorithmic money market protocol</td>
-      <td style="text-align: right;" id="tvl-solend">Loading...</td>
+      <td style="text-align: right;" data-tvl="solend">–</td>
     </tr>
     <tr>
       <td><strong>Jupiter Lend</strong></td>
       <td>High LTV lending (90-95%) with Fluid protocol integration</td>
-      <td style="text-align: right;" id="tvl-jupiter-lend">Loading...</td>
+      <td style="text-align: right;" data-tvl="jupiter-lend">–</td>
     </tr>
   </tbody>
 </table>
@@ -106,22 +107,22 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
     <tr>
       <td><strong>Jito</strong></td>
       <td>MEV-optimized liquid staking with JitoSOL derivative</td>
-      <td style="text-align: right;" id="tvl-jito">Loading...</td>
+      <td style="text-align: right;" data-tvl="jito">–</td>
     </tr>
     <tr>
       <td><strong>Marinade Finance</strong></td>
       <td>Multi-validator liquid staking with mSOL token</td>
-      <td style="text-align: right;" id="tvl-marinade">Loading...</td>
+      <td style="text-align: right;" data-tvl="marinade">–</td>
     </tr>
     <tr>
       <td><strong>Jupiter (JupSOL)</strong></td>
       <td>Solana's second-largest validator with liquid staking</td>
-      <td style="text-align: right;" id="tvl-jupiter-sol">Loading...</td>
+      <td style="text-align: right;" data-tvl="jupiter-staked-sol">–</td>
     </tr>
     <tr>
       <td><strong>Sanctum</strong></td>
       <td>Liquid staking router aggregating multiple LST protocols</td>
-      <td style="text-align: right;" id="tvl-sanctum">Loading...</td>
+      <td style="text-align: right;" data-tvl="sanctum">–</td>
     </tr>
   </tbody>
 </table>
@@ -140,22 +141,22 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
     <tr>
       <td><strong>Wormhole</strong></td>
       <td>Leading cross-chain messaging protocol connecting 30+ chains</td>
-      <td style="text-align: right;" id="tvl-wormhole">Loading...</td>
+      <td style="text-align: right;" data-tvl="wormhole">–</td>
     </tr>
     <tr>
       <td><strong>AllBridge</strong></td>
       <td>Fast bridge for stablecoins and major assets</td>
-      <td style="text-align: right;" id="tvl-allbridge">Loading...</td>
+      <td style="text-align: right;" data-tvl="allbridge">–</td>
     </tr>
     <tr>
       <td><strong>Mayan Finance</strong></td>
       <td>Cross-chain swap aggregator with atomic swaps</td>
-      <td style="text-align: right;" id="tvl-mayan">Loading...</td>
+      <td style="text-align: right;" data-tvl="mayan-finance">–</td>
     </tr>
     <tr>
       <td><strong>deBridge</strong></td>
       <td>Cross-chain interoperability with native liquidity</td>
-      <td style="text-align: right;" id="tvl-debridge">Loading...</td>
+      <td style="text-align: right;" data-tvl="debridge">–</td>
     </tr>
   </tbody>
 </table>
@@ -174,12 +175,12 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
     <tr>
       <td><strong>Pyth Network</strong></td>
       <td>High-frequency oracle with 350+ price feeds from institutional sources</td>
-      <td style="text-align: right;" id="tvl-pyth">Loading...</td>
+      <td style="text-align: right;" data-tvl="pyth-network">–</td>
     </tr>
     <tr>
       <td><strong>Switchboard</strong></td>
       <td>Decentralized oracle network with customizable feeds</td>
-      <td style="text-align: right;" id="tvl-switchboard">Loading...</td>
+      <td style="text-align: right;" data-tvl="switchboard">–</td>
     </tr>
     <tr>
       <td><strong>Chainlink</strong></td>
@@ -203,17 +204,17 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
     <tr>
       <td><strong>Parcl</strong></td>
       <td>Real estate price exposure through synthetic assets</td>
-      <td style="text-align: right;" id="tvl-parcl">Loading...</td>
+      <td style="text-align: right;" data-tvl="parcl">–</td>
     </tr>
     <tr>
       <td><strong>Squads Protocol</strong></td>
       <td>Multi-signature wallet and treasury management</td>
-      <td style="text-align: right;" id="tvl-squads">Loading...</td>
+      <td style="text-align: right;" data-tvl="squads">–</td>
     </tr>
     <tr>
       <td><strong>Tensor</strong></td>
       <td>Professional NFT trading with advanced tools</td>
-      <td style="text-align: right;" id="tvl-tensor">Loading...</td>
+      <td style="text-align: right;" data-tvl="tensor">–</td>
     </tr>
     <tr>
       <td><strong>Helium</strong></td>
@@ -238,59 +239,4 @@ Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimi
 <hr>
 <p><small><strong>*TVL Data:</strong> Total Value Locked figures are fetched live from <a href="https://defillama.com" target="_blank">DeFiLlama</a>. Data updates automatically on page load. Some protocols may show N/A if TVL data is not tracked separately.</small></p>
 <p><small><strong>Research Disclaimer:</strong> These protocol listings serve as educational starting points for Solana DeFi research. Always conduct thorough due diligence, verify smart contract audits, and understand protocol risks before interacting with any DeFi application. Solana's high speed enables complex strategies but also requires careful risk assessment. Past performance does not guarantee future results.</small></p>
-<script>
-// Fetch TVL from DeFiLlama API
-async function fetchTVL(protocol, elementId) {
-  try {
-    const response = await fetch(`https://api.llama.fi/tvl/${protocol}`);
-    const tvlData = await response.json();
-    const tvlFormatted = tvlData > 1e12 
-      ? '$' + (tvlData / 1e12).toFixed(1) + 'T' 
-      : tvlData > 1e9 
-        ? '$' + (tvlData / 1e9).toFixed(1) + 'B'
-        : '$' + (tvlData / 1e6).toFixed(1) + 'M';
-    document.getElementById(elementId).textContent = tvlFormatted;
-  } catch (e) {
-    document.getElementById(elementId).textContent = 'N/A';
-  }
-}
-// Protocol mappings: [defillama-slug, element-id]
-const protocols = [
-  // DEX Aggregators & Trading
-  ['jupiter', 'tvl-jupiter'],
-  ['raydium', 'tvl-raydium'],
-  ['orca', 'tvl-orca'],
-  ['phoenix', 'tvl-phoenix'],
-  ['meteora', 'tvl-meteora'],
-  ['drift', 'tvl-drift'],
-  // Lending & Borrowing
-  ['kamino', 'tvl-kamino'],
-  ['marginfi', 'tvl-marginfi'],
-  ['solend', 'tvl-solend'],
-  ['jupiter-lend', 'tvl-jupiter-lend'],
-  // Liquid Staking
-  ['jito', 'tvl-jito'],
-  ['marinade', 'tvl-marinade'],
-  ['jupiter-staked-sol', 'tvl-jupiter-sol'],
-  ['sanctum', 'tvl-sanctum'],
-  // Cross-Chain Bridges
-  ['wormhole', 'tvl-wormhole'],
-  ['allbridge', 'tvl-allbridge'],
-  ['mayan-finance', 'tvl-mayan'],
-  ['debridge', 'tvl-debridge'],
-  // Oracles & Infrastructure
-  ['pyth-network', 'tvl-pyth'],
-  ['switchboard', 'tvl-switchboard'],
-  // Specialized Protocols
-  ['parcl', 'tvl-parcl'],
-  ['squads', 'tvl-squads'],
-  ['tensor', 'tvl-tensor']
-];
-// Fetch all TVLs on page load
-window.addEventListener('DOMContentLoaded', () => {
-  protocols.forEach(([protocol, elementId]) => {
-    fetchTVL(protocol, elementId);
-  });
-});
-</script>
 </div>

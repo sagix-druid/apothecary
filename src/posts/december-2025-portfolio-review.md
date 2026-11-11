@@ -1,5 +1,5 @@
 ---
-title: "The Sagix Compound in practice: December 2025 portfolio review"
+title: "Our barbell portfolio in practice: December 2025 review"
 date: "2025-12-07T16:11:32.000Z"
 updated: "2025-12-09T16:08:16.000Z"
 excerpt: "\nDecember 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056—not getting rich quick in 2026. See exactly how we practice what we preach."
@@ -14,7 +14,7 @@ internal_tags: ["#sagix-apothecary"]
 
 In a world where crypto Twitter screams about 100x plays and DeFi influencers chase unsustainable yields, we do something radical: we publish our actual portfolio. Not a theoretical model. Not a backtest. Real positions held by real people who plan to still be wealthy in 2036, 2046, and 2056.
 
-This is The Sagix Compound—our portfolio construction philosophy applied to actual capital.
+This is our portfolio construction philosophy applied to actual capital.
 
 ## Why we're showing you this
 
@@ -28,7 +28,7 @@ The point is to understand and believe in a thesis for each asset, so when the s
 
 ## The barbell structure: Why our tortoise outlives the hares 🐢
 
-Our portfolio follows a barbell architecture that we call The Sagix Compound. It's named for what it does: compounds wealth across decades through a carefully balanced structure.
+Our portfolio follows a barbell architecture, built to compound wealth across decades through a carefully balanced structure.
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/12/c66eadb2-8896-4339-b250-e7abb7ffd261.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2025/12/c66eadb2-8896-4339-b250-e7abb7ffd261.jpg 600w, /content/images/size/w1000/2025/12/c66eadb2-8896-4339-b250-e7abb7ffd261.jpg 1000w, /content/images/2025/12/c66eadb2-8896-4339-b250-e7abb7ffd261.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
@@ -165,7 +165,7 @@ Let's check our philosophy against reality:
 
 ## This is not the portfolio for getting rich in 2026
 
-Let's be direct about what The Sagix Compound is designed to accomplish:
+Let's be direct about what this portfolio is designed to accomplish:
 
 This is the portfolio for being wealthy in 2036, 2046, 2056—and sleeping like a baby when the next crypto winter hits.
 

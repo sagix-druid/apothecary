@@ -15,7 +15,7 @@ layout: scorecard.njk
 
 ## 📚 The Scholar's Assessment
 
-> Base represents Coinbase's strategic entry into Layer 2 infrastructure, built on Optimism's OP Stack for proven security and performance. With no native token, users pay gas fees in ETH while benefiting from institutional-grade infrastructure and compliance. The network has rapidly grown to ~$2B+ TVL, attracting both DeFi protocols and consumer applications. Base's success directly benefits Coinbase shareholders through increased transaction volume and ecosystem adoption.
+> Base represents Coinbase's strategic entry into Layer 2 infrastructure, built on Optimism's OP Stack for proven security and performance. With no native token, users pay gas fees in ETH while benefiting from institutional-grade infrastructure and compliance. The network has rapidly grown to [[tvl]] TVL, attracting both DeFi protocols and consumer applications. Base's success directly benefits Coinbase shareholders through increased transaction volume and ecosystem adoption.
 
 ## 📊 Investment Perspective
 
@@ -23,7 +23,7 @@ layout: scorecard.njk
 
 -   Coinbase institutional backing
 -   Proven OP Stack technology
--   Rapid ecosystem growth (~$2B+ TVL)
+-   Rapid ecosystem growth ([[tvl]] TVL)
 -   No token dilution risk
 
 ### ⚠️ Considerations
@@ -34,7 +34,7 @@ layout: scorecard.njk
 
 ## About Base
 
-Base, launched by Coinbase in 2023, is an Ethereum Layer 2 network built on Optimism's OP Stack. As a secure, low-cost, builder-friendly blockchain, Base leverages Coinbase's institutional infrastructure and compliance expertise. The network uses ETH for gas fees and has no native token, focusing purely on utility and adoption. Base has quickly grown to over $2B in TVL, hosting major DeFi protocols and consumer applications. Its success represents Coinbase's strategic expansion beyond exchange services into core blockchain infrastructure.
+Base, launched by Coinbase in 2023, is an Ethereum Layer 2 network built on Optimism's OP Stack. As a secure, low-cost, builder-friendly blockchain, Base leverages Coinbase's institutional infrastructure and compliance expertise. The network uses ETH for gas fees and has no native token, focusing purely on utility and adoption. Base has quickly grown to [[tvl]] in TVL, hosting major DeFi protocols and consumer applications. Its success represents Coinbase's strategic expansion beyond exchange services into core blockchain infrastructure.
 
 ## 🔬 Further Research
 

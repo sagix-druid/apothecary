@@ -25,9 +25,9 @@ To illustrate how different risk tolerances might influence allocation size, con
 
 The size of a cryptoasset allocation, as a portion of a total portfolio, is often a reflection of an individual’s capacity to tolerate risk and potential losses.
 
-### A philosophical parallel: The “All Weather” concept
+### A philosophical parallel: the four seasons concept
 
-To further explore the principles of portfolio construction, it’s useful to look at established philosophies from traditional finance. One of the most well-known is Ray Dalio’s “All Weather” investment philosophy, which offers a powerful mental model for thinking about risk.
+To further explore the principles of portfolio construction, it’s useful to look at established philosophies from traditional finance. One of the most well-known is Ray Dalio’s risk parity investment philosophy, which offers a powerful mental model for thinking about risk.
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://cdn-images-1.medium.com/max/800/0*42HccBwKPEGFxIk0" class="kg-image" alt="" loading="lazy" width="3024" height="4032"><figcaption>Photo by <a href="https://unsplash.com/@arthurlfranklin?utm_source=medium&amp;utm_medium=referral" target="_blank" rel="photo-creator noopener">Arthur Franklin</a> on&nbsp;<a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" target="_blank" rel="photo-source noopener">Unsplash</a></figcaption></figure>
 
@@ -51,11 +51,11 @@ These two factors can each be rising or falling, creating four potential economi
 
 *   *Assets that tend to do well:* Stocks, Government Bonds.
 
-The All Weather philosophy seeks to own a balanced mix of assets that can perform well in each of these four seasons. The goal isn’t to have equal dollar amounts in each asset, but to balance the *risk* so that the portfolio isn’t overly dependent on any single economic outcome.
+The risk parity philosophy seeks to own a balanced mix of assets that can perform well in each of these four seasons. The goal isn’t to have equal dollar amounts in each asset, but to balance the *risk* so that the portfolio isn’t overly dependent on any single economic outcome.
 
 #### Connecting this philosophy to digital assets
 
-The All Weather framework provides a compelling set of questions when considering digital assets, which can serve as excellent talking points for a discussion with a financial advisor:
+The four seasons framework provides a compelling set of questions when considering digital assets, which can serve as excellent talking points for a discussion with a financial advisor:
 
 *   **Where do digital assets fit?** The role of cryptocurrencies within this four-season framework is a subject of ongoing debate and research.
 *   **Are they an inflation hedge?** Some proponents argue that Bitcoin, with its fixed supply, could act like “digital gold” and perform well during periods of high inflation.

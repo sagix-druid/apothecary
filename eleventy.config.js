@@ -138,6 +138,16 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("compactNumber", (n) => Math.round(n).toLocaleString("en-US"));
   eleventyConfig.addFilter("pct", (n) => (n > 0 ? "+" : "") + n.toFixed(1) + "%");
   eleventyConfig.addFilter("utcTime", (iso) => new Date(iso).toISOString().slice(0, 16).replace("T", " ") + " UTC");
+  // Fills each <td data-tvl="defillama-slug">–</td> with that protocol's TVL from market.js.
+  eleventyConfig.addFilter("fillTvl", (html, protocolTvl = {}) =>
+    html.replace(/data-tvl="([^"]+)">–</g, (match, slug) => (protocolTvl[slug] != null ? `data-tvl="${slug}">${compactUsd.format(protocolTvl[slug])}<` : match)),
+  );
+  // Writes live figures into a scorecard's own text where it says [[tvl]] or [[market cap]].
+  eleventyConfig.addFilter("fillFigures", (html, figures = {}) =>
+    html
+      .replaceAll("[[tvl]]", figures.tvl != null ? compactUsd.format(figures.tvl) : "n/a")
+      .replaceAll("[[market cap]]", figures.marketCap != null ? compactUsd.format(figures.marketCap) : "n/a"),
+  );
   eleventyConfig.addFilter("sparklinePoints", (prices, width, height) => {
     const min = Math.min(...prices);
     const range = Math.max(...prices) - min || 1;

@@ -7,6 +7,7 @@ feature_image: "/content/images/2025/09/ethdefi.jpg"
 feature_image_caption: "<em>Ethereum's Layered Brilliance: Unleashing DeFi Through Smart Contracts</em>"
 topics: ["eth","ethereum","defi"]
 internal_tags: ["#defi"]
+layout: live-tvl.njk
 ---
 
 Smart contracts have transformed finance by enabling permissionless, transparent protocols that operate without intermediaries. Ethereum hosts the most mature DeFi ecosystem with billions in TVL across lending, trading, and yield generation.
@@ -29,52 +30,52 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
     <tr>
       <td><strong>Uniswap</strong></td>
       <td>Spot AMM with concentrated liquidity pools</td>
-      <td style="text-align: right;" id="tvl-uniswap">Loading...</td>
+      <td style="text-align: right;" data-tvl="uniswap">–</td>
     </tr>
     <tr>
       <td><strong>Curve Finance</strong></td>
       <td>Stablecoin-optimized spot AMM with low slippage</td>
-      <td style="text-align: right;" id="tvl-curve">Loading...</td>
+      <td style="text-align: right;" data-tvl="curve-dex">–</td>
     </tr>
     <tr>
       <td><strong>Hyperliquid</strong></td>
       <td>High-performance perpetuals orderbook with spot markets</td>
-      <td style="text-align: right;" id="tvl-hyperliquid">Loading...</td>
+      <td style="text-align: right;" data-tvl="hyperliquid">–</td>
     </tr>
     <tr>
       <td><strong>Aerodrome</strong></td>
       <td>ve(3,3) spot DEX with optimized liquidity incentives</td>
-      <td style="text-align: right;" id="tvl-aerodrome">Loading...</td>
+      <td style="text-align: right;" data-tvl="aerodrome">–</td>
     </tr>
     <tr>
       <td><strong>Balancer</strong></td>
       <td>Customizable spot AMM with multi-asset pools</td>
-      <td style="text-align: right;" id="tvl-balancer">Loading...</td>
+      <td style="text-align: right;" data-tvl="balancer">–</td>
     </tr>
     <tr>
       <td><strong>GMX</strong></td>
       <td>Zero-slippage perpetuals with spot swaps via GLP pools</td>
-      <td style="text-align: right;" id="tvl-gmx">Loading...</td>
+      <td style="text-align: right;" data-tvl="gmx">–</td>
     </tr>
     <tr>
       <td><strong>Synthetix</strong></td>
       <td>Synthetic assets and perpetuals with debt pool model</td>
-      <td style="text-align: right;" id="tvl-synthetix">Loading...</td>
+      <td style="text-align: right;" data-tvl="synthetix">–</td>
     </tr>
     <tr>
       <td><strong>SushiSwap</strong></td>
       <td>Multi-chain spot AMM with governance rewards</td>
-      <td style="text-align: right;" id="tvl-sushiswap">Loading...</td>
+      <td style="text-align: right;" data-tvl="sushiswap">–</td>
     </tr>
     <tr>
       <td><strong>dYdX</strong></td>
       <td>Orderbook perpetuals with high leverage on dedicated L1</td>
-      <td style="text-align: right;" id="tvl-dydx">Loading...</td>
+      <td style="text-align: right;" data-tvl="dydx">–</td>
     </tr>
     <tr>
       <td><strong>Gains Network</strong></td>
       <td>Leveraged trading with oracle-based synthetic perps</td>
-      <td style="text-align: right;" id="tvl-gains">Loading...</td>
+      <td style="text-align: right;" data-tvl="gains-network">–</td>
     </tr>
   </tbody>
 </table>
@@ -93,27 +94,27 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
     <tr>
       <td><strong><a href="/aave" target="_blank">Aave</a></strong></td>
       <td>Leading money market with flash loans</td>
-      <td style="text-align: right;" id="tvl-aave">Loading...</td>
+      <td style="text-align: right;" data-tvl="aave">–</td>
     </tr>
     <tr>
 <td><strong><a href="/makerdao-scorecard" target="_blank">Sky (formerly MakerDAO)</a></strong></td>
             <td>USDS stablecoin minting through collateral vaults</td>
-      <td style="text-align: right;" id="tvl-makerdao">Loading...</td>
+      <td style="text-align: right;" data-tvl="makerdao">–</td>
     </tr>
     <tr>
       <td><strong>Morpho</strong></td>
       <td>Optimized lending with peer-to-peer matching</td>
-      <td style="text-align: right;" id="tvl-morpho">Loading...</td>
+      <td style="text-align: right;" data-tvl="morpho">–</td>
     </tr>
     <tr>
       <td><strong>Compound</strong></td>
       <td>Autonomous interest rate protocol</td>
-      <td style="text-align: right;" id="tvl-compound">Loading...</td>
+      <td style="text-align: right;" data-tvl="compound-finance">–</td>
     </tr>
     <tr>
 <td><strong><a href="/spark" target="_blank">Spark Protocol</a></strong></td>
       <td>Sky's lending arm with USDS integration</td>
-      <td style="text-align: right;" id="tvl-spark">Loading...</td>
+      <td style="text-align: right;" data-tvl="spark">–</td>
     </tr>
   </tbody>
 </table>
@@ -132,17 +133,17 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
     <tr>
        <td><strong><a href="/lido" target="_blank">Lido</a></strong></td>
       <td>Dominant liquid staking with stETH derivative</td>
-      <td style="text-align: right;" id="tvl-lido">Loading...</td>
+      <td style="text-align: right;" data-tvl="lido">–</td>
     </tr>
     <tr>
       <td><strong>Rocket Pool</strong></td>
       <td>Decentralized node operator network</td>
-      <td style="text-align: right;" id="tvl-rocketpool">Loading...</td>
+      <td style="text-align: right;" data-tvl="rocket-pool">–</td>
     </tr>
     <tr>
       <td><strong>Frax Ether</strong></td>
       <td>Dual-token model with frxETH and sfrxETH</td>
-      <td style="text-align: right;" id="tvl-fraxether">Loading...</td>
+      <td style="text-align: right;" data-tvl="frax-ether">–</td>
     </tr>
   </tbody>
 </table>
@@ -161,17 +162,17 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
     <tr>
       <td><strong>Convex Finance</strong></td>
       <td>Curve yield booster with locked CRV</td>
-      <td style="text-align: right;" id="tvl-convex">Loading...</td>
+      <td style="text-align: right;" data-tvl="convex-finance">–</td>
     </tr>
     <tr>
       <td><strong>Yearn Finance</strong></td>
       <td>Pioneer yield optimizer with battle-tested vaults</td>
-      <td style="text-align: right;" id="tvl-yearn">Loading...</td>
+      <td style="text-align: right;" data-tvl="yearn-finance">–</td>
     </tr>
     <tr>
       <td><strong>Beefy Finance</strong></td>
       <td>Multi-chain auto-compounding vaults</td>
-      <td style="text-align: right;" id="tvl-beefy">Loading...</td>
+      <td style="text-align: right;" data-tvl="beefy">–</td>
     </tr>
   </tbody>
 </table>
@@ -190,27 +191,27 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
     <tr>
       <td><strong>Stargate (LayerZero)</strong></td>
       <td>Unified liquidity pools across chains</td>
-      <td style="text-align: right;" id="tvl-stargate">Loading...</td>
+      <td style="text-align: right;" data-tvl="stargate">–</td>
     </tr>
     <tr>
       <td><strong>Across Protocol</strong></td>
       <td>Optimistic bridge with fast transfers</td>
-      <td style="text-align: right;" id="tvl-across">Loading...</td>
+      <td style="text-align: right;" data-tvl="across">–</td>
     </tr>
     <tr>
       <td><strong>Hop Protocol</strong></td>
       <td>Purpose-built for L2 to L2 transfers</td>
-      <td style="text-align: right;" id="tvl-hop">Loading...</td>
+      <td style="text-align: right;" data-tvl="hop-protocol">–</td>
     </tr>
     <tr>
       <td><strong>Synapse</strong></td>
       <td>Cross-chain bridge with native liquidity</td>
-      <td style="text-align: right;" id="tvl-synapse">Loading...</td>
+      <td style="text-align: right;" data-tvl="synapse">–</td>
     </tr>
     <tr>
       <td><strong>Orbiter Finance</strong></td>
       <td>Specialized for fast L2 bridging</td>
-      <td style="text-align: right;" id="tvl-orbiter">Loading...</td>
+      <td style="text-align: right;" data-tvl="orbiter-finance">–</td>
     </tr>
   </tbody>
 </table>
@@ -229,17 +230,17 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
     <tr>
       <td><strong>EigenLayer</strong></td>
       <td>Pioneer restaking protocol for shared security</td>
-      <td style="text-align: right;" id="tvl-eigenlayer">Loading...</td>
+      <td style="text-align: right;" data-tvl="eigenlayer">–</td>
     </tr>
     <tr>
       <td><strong>Renzo Protocol</strong></td>
       <td>Liquid restaking with ezETH derivative token</td>
-      <td style="text-align: right;" id="tvl-renzo">Loading...</td>
+      <td style="text-align: right;" data-tvl="renzo">–</td>
     </tr>
     <tr>
       <td><strong><a href="/ether-fi/">Ether.fi</a></strong></td>
       <td>Non-custodial liquid restaking with weETH, eBTC, eUSD</td>
-      <td style="text-align: right;" id="tvl-etherfi">Loading...</td>
+      <td style="text-align: right;" data-tvl="ether.fi">–</td>
     </tr>
   </tbody>
 </table>
@@ -254,72 +255,12 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
 <h3>Explore More Ethereum Analysis:</h3>
 <p>
   <a href="/ethereum-scorecard">← Ethereum Scorecard</a> | 
-  <a href="/ethereum-infrastructure">Infrastructure Protocols →</a> | 
+  <a href="/link/">Chainlink Scorecard →</a> | 
   <a href="/ethereum-layer2">Layer 2 Solutions →</a>
 </p>
 <hr>
 <p><small><strong>*TVL Data:</strong> Total Value Locked figures are fetched live from <a href="https://defillama.com" target="_blank">DeFiLlama</a>. Data updates automatically on page load.</small></p>
 <p><small><strong>Research Disclaimer:</strong> These protocol listings serve as educational starting points for DeFi research. Always conduct thorough due diligence, verify smart contract audits, and understand protocol risks before interacting with any DeFi application. Past performance does not guarantee future results.</small></p>
-<script>
-// Fetch TVL from DeFiLlama API
-async function fetchTVL(protocol, elementId) {
-  try {
-    const response = await fetch(`https://api.llama.fi/tvl/${protocol}`);
-    const tvlData = await response.json();
-    const tvlFormatted = tvlData > 1e12 
-      ? '$' + (tvlData / 1e12).toFixed(1) + 'T' 
-      : tvlData > 1e9 
-        ? '$' + (tvlData / 1e9).toFixed(1) + 'B'
-        : '$' + (tvlData / 1e6).toFixed(1) + 'M';
-    document.getElementById(elementId).textContent = tvlFormatted;
-  } catch (e) {
-    document.getElementById(elementId).textContent = 'N/A';
-  }
-}
-// Protocol mappings: [defillama-slug, element-id]
-const protocols = [
-  // Trading Protocols
-  ['uniswap', 'tvl-uniswap'],
-  ['curve-dex', 'tvl-curve'],
-  ['hyperliquid', 'tvl-hyperliquid'],
-  ['aerodrome', 'tvl-aerodrome'],
-  ['balancer', 'tvl-balancer'],
-  ['gmx', 'tvl-gmx'],
-  ['synthetix', 'tvl-synthetix'],
-  ['sushiswap', 'tvl-sushiswap'],
-  ['dydx', 'tvl-dydx'],
-  ['gains-network', 'tvl-gains'],
-  // Bridges
-  ['stargate', 'tvl-stargate'],
-  ['across', 'tvl-across'],
-  ['hop-protocol', 'tvl-hop'],
-  ['synapse', 'tvl-synapse'],
-  ['orbiter-finance', 'tvl-orbiter'],
-  // Lending & Borrowing
-  ['aave', 'tvl-aave'],
-  ['makerdao', 'tvl-makerdao'],
-  ['morpho', 'tvl-morpho'],
-  ['compound-finance', 'tvl-compound'],
-  ['spark', 'tvl-spark'],
-  // Liquid Staking
-  ['lido', 'tvl-lido'],
-  ['rocket-pool', 'tvl-rocketpool'],
-  ['frax-ether', 'tvl-fraxether'],
-  // Yield Aggregators
-  ['convex-finance', 'tvl-convex'],
-  ['yearn-finance', 'tvl-yearn'],
-  ['beefy', 'tvl-beefy'],
-  // Restaking
-  ['eigenlayer', 'tvl-eigenlayer'],
-  ['renzo', 'tvl-renzo']
-];
-// Fetch all TVLs on page load
-window.addEventListener('DOMContentLoaded', () => {
-  protocols.forEach(([protocol, elementId]) => {
-    fetchTVL(protocol, elementId);
-  });
-});
-</script>
 </div>
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/reserve/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Reserve Protocol: permissionless infrastructure for asset-backed currencies, decentralized token folios (DTF)</div><div class="kg-bookmark-description">Reserve Protocol builds stable, non-inflating money by bundling assets like stocks, bonds, gold, and crypto into on-chain stablecoins (Yield DTFs) and ETF-like indices (Index DTFs). Founded in 2017, it operates on Ethereum, Base, and Bnb.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-85.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/WhatsApp-Image-2026-01-31-at-13.57.17-1.jpeg" alt=""></div></a></figure>

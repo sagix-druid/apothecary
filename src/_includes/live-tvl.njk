@@ -1,0 +1,6 @@
+---
+layout: page.njk
+---
+{#- A page with live protocol TVL: each <td data-tvl="defillama-slug">–</td> is filled at build time from market.js. -#}
+{{ content | fillTvl(market.protocolTvl) | safe }}
+<p class="scorecard-asof">TVL from DeFiLlama, as of {{ market.updated | utcTime }}. A dash means DeFiLlama had no figure for that protocol.</p>

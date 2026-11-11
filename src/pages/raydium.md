@@ -17,7 +17,7 @@ Solana's leading AMM with Serum orderbook integration. Hard cap of 555 million t
 
 ## 📚 The Scholar's Assessment
 
-> Raydium represents Solana's answer to Ethereum's Uniswap—a high-performance AMM leveraging Solana's speed and Serum's central limit order book. With ~$1B+ in TVL and integration across the Solana ecosystem, it's the dominant DEX for the network. The RAY token captures 0.03% of all trading fees through staking, creating direct value accrual from the protocol's $500M+ daily volume. Unlike inflationary farm tokens, RAY has a hard cap of 555M tokens with 12% of fees used for buybacks.
+> Raydium represents Solana's answer to Ethereum's Uniswap—a high-performance AMM leveraging Solana's speed and Serum's central limit order book. With [[tvl]] in TVL and integration across the Solana ecosystem, it's the dominant DEX for the network. The RAY token captures 0.03% of all trading fees through staking, creating direct value accrual from the protocol's $500M+ daily volume. Unlike inflationary farm tokens, RAY has a hard cap of 555M tokens with 12% of fees used for buybacks.
 
 ---
 
@@ -25,7 +25,7 @@ Solana's leading AMM with Serum orderbook integration. Hard cap of 555 million t
 
 ### ✅ Strengths
 
--   Dominant Solana DEX (~$1B+ TVL)
+-   Dominant Solana DEX ([[tvl]] TVL)
 -   Hard cap with buyback mechanism
 -   Direct fee revenue sharing via staking
 -   Serum orderbook integration

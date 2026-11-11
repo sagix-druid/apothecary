@@ -2,7 +2,7 @@
 title: "Sky"
 date: "2025-11-12T16:37:46.000Z"
 updated: "2025-11-12T16:37:46.000Z"
-excerpt: "Discover Sky: Evolved MakerDAO with $6.8B TVL & $6.5B+ stablecoin reserves. Pioneer DeFi bridging TradFi via USDS, Sky Savings, staking & RWAs. Deflationary SKY token for governance. Dive into multi-chain insights on Sagix.io."
+excerpt: "Discover Sky: Evolved MakerDAO with $6.5B+ stablecoin reserves. Pioneer DeFi bridging TradFi via USDS, Sky Savings, staking & RWAs. Deflationary SKY token for governance. Dive into multi-chain insights on Sagix.io."
 feature_image: "/content/images/2025/11/sky.jpeg"
 topics: ["defi","sky","makerdao"]
 internal_tags: ["#defi","#eth","#sky","#makerDAO"]
@@ -15,14 +15,14 @@ layout: scorecard.njk
 
 ## 📚 The Scholar's Assessment
 
-> Sky, the evolved MakerDAO, pioneers DeFi with $6.8B TVL and $6.5B+ in stablecoin reserves, generating over $400M in annualized fees. The protocol's deflationary SKY governance token facilitates staking and decision-making in a multi-chain ecosystem bridging TradFi and DeFi through RWAs and lending. Despite strong fundamentals and recent upgrades, the token trades significantly below potential, highlighting both resilience and market volatility risks.
+> Sky, the evolved MakerDAO, pioneers DeFi with [[tvl]] TVL and $6.5B+ in stablecoin reserves, generating over $400M in annualized fees. The protocol's deflationary SKY governance token facilitates staking and decision-making in a multi-chain ecosystem bridging TradFi and DeFi through RWAs and lending. Despite strong fundamentals and recent upgrades, the token trades significantly below potential, highlighting both resilience and market volatility risks.
 
 ## 📊 Portfolio Perspective
 
 ### ✅ Strengths
 
 -   Leading stablecoin issuer with $6.5B+ reserves
--   High TVL ($6.8B) across multiple chains
+-   High TVL ([[tvl]]) across multiple chains
 -   Deflationary tokenomics with burn mechanisms
 -   Multi-chain deployment (Ethereum, Base, Arbitrum)
 -   Integration with real-world assets and TradFi

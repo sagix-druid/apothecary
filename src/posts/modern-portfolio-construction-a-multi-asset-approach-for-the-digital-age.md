@@ -12,7 +12,7 @@ internal_tags: ["#sagix-apothecary"]
 
 The modern investor must embrace complexity while adhering to timeless principles. The correlation matrix is your compass, diversification is your strategy, and patience is your greatest asset.
 
-**Date:** July 19, 2025**.** Synthesizing insights from Ray Dalio’s All Weather Philosophy, Peter Lynch’s Growth at Reasonable Price, and Warren Buffett’s Value Investing Principles
+**Date:** July 19, 2025**.** Synthesizing insights from Ray Dalio’s Risk Parity Philosophy, Peter Lynch’s Growth at Reasonable Price, and Warren Buffett’s Value Investing Principles
 
 Executive summary
 
@@ -36,7 +36,7 @@ Our key finding is the emergence of what we term the **“Global Risk-On Cluster
 
 ### 1\. Philosophical foundation: Learning from the masters
 
-#### Ray Dalio’s All Weather Wisdom
+#### Ray Dalio’s Risk Parity Wisdom
 
 Dalio’s fundamental insight remains as relevant today as ever: don’t try to predict the future; build a portfolio that can weather any economic season. The four economic environments — higher/lower than expected growth and inflation
 
@@ -44,7 +44,7 @@ These two factors can each be rising or falling, creating four potential economi
 
 **Economic Season**
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1-2dhpvndqeneofenicqn_yw.png" class="kg-image" alt="" loading="lazy" width="647" height="207" srcset="/content/images/size/w600/2025/09/1-2dhpvndqeneofenicqn_yw.png 600w, /content/images/2025/09/1-2dhpvndqeneofenicqn_yw.png 647w"><figcaption>4 economic seasons derived from Bridgewater's All Weather paper by the&nbsp;Author</figcaption></figure>
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1-2dhpvndqeneofenicqn_yw.png" class="kg-image" alt="" loading="lazy" width="647" height="207" srcset="/content/images/size/w600/2025/09/1-2dhpvndqeneofenicqn_yw.png 600w, /content/images/2025/09/1-2dhpvndqeneofenicqn_yw.png 647w"><figcaption>4 economic seasons derived from Bridgewater's risk parity research by the&nbsp;Author</figcaption></figure>
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1-5rr4dkhovq4cgxocowhoja.png" class="kg-image" alt="" loading="lazy" width="482" height="254"><figcaption>Photo: Created by Author using&nbsp;AI</figcaption></figure>
 
@@ -196,7 +196,7 @@ Rather than treating crypto as a separate allocation, integrate it within the gr
 
 #### The four-pillar framework
 
-Drawing from Dalio’s All Weather philosophy, we propose a four-pillar approach adapted for modern markets:
+Drawing from Dalio’s risk parity philosophy, we propose a four-pillar approach adapted for modern markets:
 
 *   **Pillar 1: Core Growth Engine (40–50% allocation)**
 *   US Large Cap (SPY): 20–25%
@@ -279,7 +279,7 @@ Synthesizing the insights above, we propose three model portfolios:
 *   Bitcoin (BTC): 10%
 *   Ethereum (ETH): 5%
 
-*Philosophy: Tilted toward growth and crypto while maintaining all-weather characteristics.*
+*Philosophy: Tilted toward growth and crypto while staying resilient across market regimes.*
 
 #### Dynamic rebalancing framework
 
@@ -316,7 +316,7 @@ Synthesizing the insights above, we propose three model portfolios:
 
 #### The timeless principles ppplied
 
-*   **Ray Dalio’s All Weather:** Build for resilience across economic seasons, not for prediction of specific outcomes.
+*   **Ray Dalio’s risk parity:** Build for resilience across economic seasons, not for prediction of specific outcomes.
 *   **Peter Lynch’s Understanding:** Know what you own — especially critical for crypto assets where the technology and use cases are evolving rapidly.
 *   **Warren Buffett’s Patience:** Maintain long-term focus despite the short-term volatility introduced by digital assets.
 

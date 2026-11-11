@@ -35,9 +35,9 @@ The indices nest inside each other like matryoshka dolls:
 
 The nesting works like this: Tortoise holds 30% in Tech. Tech holds 30% in Elixir. So Tortoise's 9% crypto exposure comes from 30% × 30% = 9%. One framework, three risk profiles.
 
-## The Sagix Compound: buying what's down
+## Monthly laggard contributions: buying what's down
 
-Beyond the static allocations, we employ a monthly contribution strategy we call the Sagix Compound.
+Beyond the static allocations, we follow a monthly contribution strategy.
 
 Every month on the 1st, we add $1,000 to the worst-performing category within each index. If ETH liquid staking is lagging in Elixir, that's where the money goes. If the AI ETF is down more than the others in Tech, we buy more of it.
 
@@ -687,7 +687,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                 <span class="brand-name">Sagix Apothecary</span>
             </div>
             <h1 class="main-title">Sagix Indices</h1>
-            <p class="subtitle">Three nested indices spanning conservative diversification to pure DeFi conviction—each built on the Sagix Compound philosophy.</p>
+            <p class="subtitle">Three nested indices spanning conservative diversification to pure DeFi conviction—each built on the Sagix philosophy.</p>
         </header>
         <!-- Index Overview -->
         <div class="indices-grid">
@@ -776,7 +776,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
         </section>
         <!-- Compound Strategy -->
         <section class="section">
-            <h2 class="section-title">The Sagix Compound</h2>
+            <h2 class="section-title">Monthly laggard contributions</h2>
             <p class="section-intro">Beyond the static index allocations, we employ a monthly contribution strategy that systematically adds capital to lagging assets—automating the "buy low" discipline.</p>
             <div class="compound-box">
                 <div class="compound-header">
@@ -802,7 +802,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                     </div>
                 </div>
                 <div class="compound-note">
-                    <strong>Why laggard rebalancing?</strong> Concentration risk destroys wealth regardless of skill level. By systematically buying what's down, we enforce diversification discipline and avoid the behavioral trap of chasing performance. Time appears in the exponent of compound interest—the Sagix Compound strategy is designed for decades, not quarters.
+                    <strong>Why laggard rebalancing?</strong> Concentration risk destroys wealth regardless of skill level. By systematically buying what's down, we enforce diversification discipline and avoid the behavioral trap of chasing performance. Time appears in the exponent of compound interest—the strategy is designed for decades, not quarters.
                 </div>
             </div>
         </section>
@@ -1306,7 +1306,7 @@ Second, education. The DeFi space is full of noise—leverage, yield farming, al
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-druid-deep-dive-episode-5-the-panic-of-1837-portfolio-strategies-that-survived/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive episode 5: The panic of 1837: Portfolio strategies that survived and thrived</div><div class="kg-bookmark-description">When Jackson’s Specie Circular delegitimized paper money overnight, 40% of American banks failed. But investors in New England’s Suffolk Banking System survived. The parallels to SEC enforcement shocks and China crypto bans reveal timeless portfolio strategies for policy-induced volatility.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-51.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/752afe13-c3d4-4966-b84a-58d55bf12951.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-sagix-compound-in-practice-december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Sagix Compound in practice: December 2025 portfolio review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056—not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-44.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-1.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056—not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-44.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-1.jpg" alt=""></div></a></figure>
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/modern-portfolio-construction-a-multi-asset-approach-for-the-digital-age/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Modern portfolio construction: A multi-asset approach for the digital age</div><div class="kg-bookmark-description">Integrating Traditional Wisdom with Contemporary Realities</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-45.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/71382bd5-a661-45db-b93f-af8593157505-3.jpg" alt=""></div></a></figure>
 

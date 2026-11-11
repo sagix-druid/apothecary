@@ -15,7 +15,7 @@ Solana (SOL) revolutionized blockchain performance with Proof of History, a cryp
 
 ## 📚 The Scholar's Assessment
 
-> Solana emerged as the high-performance alternative to Ethereum, achieving 65,000+ theoretical TPS with sub-cent transaction costs through its innovative Proof of History consensus mechanism. Despite past network stability challenges, the ecosystem has matured significantly with over $10B in DeFi TVL and dominant positions in NFTs and consumer applications. The network's raw speed and low costs make it ideal for applications requiring high throughput, from DeFi protocols to real-world payment systems.
+> Solana emerged as the high-performance alternative to Ethereum, achieving 65,000+ theoretical TPS with sub-cent transaction costs through its innovative Proof of History consensus mechanism. Despite past network stability challenges, the ecosystem has matured significantly with [[tvl]] in DeFi TVL and dominant positions in NFTs and consumer applications. The network's raw speed and low costs make it ideal for applications requiring high throughput, from DeFi protocols to real-world payment systems.
 
 ---
 
@@ -25,7 +25,7 @@ Solana (SOL) revolutionized blockchain performance with Proof of History, a cryp
 
 -   Exceptional speed (65,000+ TPS theoretical)
 -   Ultra-low transaction costs ($0.00025 avg)
--   Rapidly growing DeFi ecosystem ($10B+ TVL)
+-   Rapidly growing DeFi ecosystem ([[tvl]] TVL)
 -   Strong consumer application adoption
 -   Staking yields (6-8%)
 
@@ -40,11 +40,11 @@ Solana (SOL) revolutionized blockchain performance with Proof of History, a cryp
 
 ## About Solana
 
-Solana, launched in 2020 by Anatoly Yakovenko and the Solana Labs team, introduced a novel Proof of History (PoH) consensus mechanism that enables exceptional blockchain performance. By creating a verifiable passage of time between events, Solana achieves theoretical throughput of 65,000+ transactions per second with average costs under $0.001. The network hosts over $10B in DeFi TVL across protocols like Jupiter, Raydium, and MarginFi, while also dominating NFT trading volume. SOL tokens are used for transaction fees, staking (with 6-8% yields), and governance, with an inflationary supply schedule that decreases annually toward a long-term 1.5% rate.
+Solana, launched in 2020 by Anatoly Yakovenko and the Solana Labs team, introduced a novel Proof of History (PoH) consensus mechanism that enables exceptional blockchain performance. By creating a verifiable passage of time between events, Solana achieves theoretical throughput of 65,000+ transactions per second with average costs under $0.001. The network hosts [[tvl]] in DeFi TVL across protocols like Jupiter, Raydium, and MarginFi, while also dominating NFT trading volume. SOL tokens are used for transaction fees, staking (with 6-8% yields), and governance, with an inflationary supply schedule that decreases annually toward a long-term 1.5% rate.
 
 ---
 
 ## 🌐 Explore Solana Ecosystem
 
 -   [💰 DeFi Protocols](/solana-defi) - Jupiter, Raydium, MarginFi, Drift
--   [🏗️ Infrastructure](/solana-infrastructure) - Pyth, Jito, Wormhole, Helium
+-   [🏗️ Infrastructure](/solana-defi/) - Pyth, Jito, Wormhole, Helium

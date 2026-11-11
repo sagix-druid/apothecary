@@ -5,7 +5,7 @@
 // A source that fails leaves that figure out, and the page shows "not available". With MARKET_REQUIRED=1 (the scheduled
 // build sets it) a failed CoinGecko call stops the build instead, so the live site keeps its last good figures.
 // Set COINGECKO_API_KEY to a free CoinGecko demo key if their public rate limit starts refusing the build.
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const tokens = JSON.parse(readFileSync(new URL("./tokens.json", import.meta.url)));
 const cacheFile = new URL("../../.cache/market.json", import.meta.url);
@@ -21,7 +21,7 @@ async function getJson(url, headers = {}) {
 }
 
 async function fetchAll() {
-  const result = { updated: new Date().toISOString(), tokens: {}, failed: [] };
+  const result = { updated: new Date().toISOString(), tokens: {}, protocolTvl: {}, failed: [] };
   const entry = (slug) => (result.tokens[slug] ??= {});
 
   const ids = Object.values(tokens).map((t) => t.coingecko).filter(Boolean);
@@ -55,18 +55,29 @@ async function fetchAll() {
     result.failed.push(`DeFiLlama chains: ${error.message}`);
   }
 
-  await Promise.all(
-    Object.entries(tokens)
-      .filter(([, token]) => token.defillama?.protocol)
-      .map(async ([slug, token]) => {
-        try {
-          const tvl = await getJson(`https://api.llama.fi/tvl/${token.defillama.protocol}`);
-          if (typeof tvl === "number") entry(slug).tvl = tvl;
-        } catch (error) {
-          result.failed.push(`DeFiLlama ${token.defillama.protocol}: ${error.message}`);
-        }
-      }),
+  // Protocol TVL: every scorecard protocol, plus every <td data-tvl="slug"> on a page (the DeFi landing pages use these).
+  const pageSlugs = ["pages", "posts"].flatMap((dir) =>
+    readdirSync(new URL(`../${dir}/`, import.meta.url))
+      .filter((file) => file.endsWith(".md"))
+      .flatMap((file) => [...readFileSync(new URL(`../${dir}/${file}`, import.meta.url), "utf8").matchAll(/data-tvl="([^"]+)"/g)].map((m) => m[1])),
   );
+  const protocolSlugs = [...new Set([...Object.values(tokens).map((t) => t.defillama?.protocol).filter(Boolean), ...pageSlugs])];
+  const queue = [...protocolSlugs];
+  const worker = async () => {
+    for (let slug; (slug = queue.shift()); ) {
+      try {
+        const tvl = await getJson(`https://api.llama.fi/tvl/${slug}`);
+        if (typeof tvl === "number") result.protocolTvl[slug] = tvl;
+      } catch (error) {
+        result.failed.push(`DeFiLlama ${slug}: ${error.message}`);
+      }
+    }
+  };
+  await Promise.all(Array.from({ length: 6 }, worker)); // six at a time, to stay polite to the free API
+  for (const [slug, token] of Object.entries(tokens)) {
+    const tvl = result.protocolTvl[token.defillama?.protocol];
+    if (tvl != null) entry(slug).tvl = tvl;
+  }
 
   for (const [slug, token] of Object.entries(tokens).filter(([, t]) => t.lightning)) {
     try {
@@ -82,7 +93,7 @@ async function fetchAll() {
 export default async function () {
   if (existsSync(cacheFile)) {
     const cached = JSON.parse(readFileSync(cacheFile, "utf8"));
-    if (Date.now() - Date.parse(cached.updated) < cacheMinutes * 60000 && !cached.failed.length) return cached;
+    if (Date.now() - Date.parse(cached.updated) < cacheMinutes * 60000 && cached.protocolTvl && !cached.failed.some((p) => p.startsWith("CoinGecko"))) return cached;
   }
   const result = await fetchAll();
   for (const problem of result.failed) console.warn(`[market] ${problem}`);

@@ -41,8 +41,8 @@ There’s an old song in my country that says life comes in waves like the ocean
 
 I had learned to build a resilient financial plan that included an emergency fund and sound debt management. These weren’t just abstract concepts; they were my personal life rafts, allowing me to weather the storms without having to sell my long-term investments at a loss.
 
-My view on All-Weather and personal suitability
+My view on risk parity and personal suitability
 
-I’ve come to appreciate strategies like Ray Dalio’s All-Weather portfolio. I see the value in its design — to perform well in any market season. It is, in my opinion, a great way to generate value over a long period of time.
+I’ve come to appreciate strategies like Ray Dalio’s risk parity portfolio. I see the value in its design — to perform well in any market season. It is, in my opinion, a great way to generate value over a long period of time.
 
-But I know, with absolute certainty, that even a strategy this well-conceived isn’t a silver bullet. The market can be all-weather, but my life, with its constant changes, requires a deeper, more personal form of suitability. It’s the most important lesson I’ve learned, and it’s what has allowed me to navigate my financial journey with a measure of peace.
+But I know, with absolute certainty, that even a strategy this well-conceived isn’t a silver bullet. A portfolio can be built for every market season, but my life, with its constant changes, requires a deeper, more personal form of suitability. It’s the most important lesson I’ve learned, and it’s what has allowed me to navigate my financial journey with a measure of peace.

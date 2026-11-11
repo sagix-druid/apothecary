@@ -23,7 +23,7 @@ Our flagship content series explores pivotal moments in monetary history - from 
 
 We synthesize research from Federal Reserve economists, academic journals, and authoritative historical sources to provide institutional-grade analysis. Our approach emphasizes quantitative data over popular narratives, helping readers distinguish between genuine opportunities and repeated historical mistakes.
 
-## The Sagix Compound
+## The Sagix philosophy
 
 Our flagship strategy applies lessons from successful monetary systems throughout history to create diversified DeFi portfolios designed to weather multiple market cycles. Like ancient apothecaries preparing remedies for different conditions, we craft financial strategies for varying market environments.
 

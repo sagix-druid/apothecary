@@ -16,7 +16,7 @@ layout: scorecard.njk
 
 ## 📚 The Scholar's Assessment
 
-> Arbitrum One is a leading Ethereum Layer 2 solution using Optimistic Rollups, offering ~4,000-7,000 TPS and low transaction fees (~$0.01–0.1 USD, paid in ETH). With ~$3B in TVL, it powers a thriving DeFi ecosystem including GMX and SushiSwap. The ARB token enables decentralized governance via the Arbitrum DAO, positioning it as a scalable, cost-effective platform for dApps and a key component of Ethereum's scaling infrastructure.
+> Arbitrum One is a leading Ethereum Layer 2 solution using Optimistic Rollups, offering ~4,000-7,000 TPS and low transaction fees (~$0.01–0.1 USD, paid in ETH). With [[tvl]] in TVL, it powers a thriving DeFi ecosystem including GMX and SushiSwap. The ARB token enables decentralized governance via the Arbitrum DAO, positioning it as a scalable, cost-effective platform for dApps and a key component of Ethereum's scaling infrastructure.
 
 ## 📊 Portfolio Perspective
 
@@ -24,7 +24,7 @@ layout: scorecard.njk
 
 -   High scalability (~4,000-7,000 TPS)
 -   Ultra-low fees (~$0.01–0.1 USD in ETH)
--   Robust DeFi ecosystem (~$3B TVL)
+-   Robust DeFi ecosystem ([[tvl]] TVL)
 -   Full EVM compatibility
 
 ### ⚠️ Considerations
@@ -35,7 +35,7 @@ layout: scorecard.njk
 
 ## About Arbitrum
 
-Arbitrum, developed by Offchain Labs and launched in 2021, is a leading Ethereum Layer 2 scaling solution using Optimistic Rollups. It processes transactions off-chain with Ethereum mainnet security, achieving ~4,000-7,000 TPS and fees of ~$0.01–0.1 USD (paid in ETH). Arbitrum One, its primary chain, hosts ~$3B in TVL across DeFi protocols like GMX and SushiSwap. The ARB token, launched in 2023 with a 10B token cap, powers decentralized governance via the Arbitrum DAO, enabling holders to vote on protocol upgrades and ecosystem funding.
+Arbitrum, developed by Offchain Labs and launched in 2021, is a leading Ethereum Layer 2 scaling solution using Optimistic Rollups. It processes transactions off-chain with Ethereum mainnet security, achieving ~4,000-7,000 TPS and fees of ~$0.01–0.1 USD (paid in ETH). Arbitrum One, its primary chain, hosts [[tvl]] in TVL across DeFi protocols like GMX and SushiSwap. The ARB token, launched in 2023 with a 10B token cap, powers decentralized governance via the Arbitrum DAO, enabling holders to vote on protocol upgrades and ecosystem funding.
 
 ## 🔬 Further Research
 

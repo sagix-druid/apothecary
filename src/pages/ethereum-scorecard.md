@@ -16,13 +16,13 @@ Ethereum (ETH) transformed blockchain with smart contracts, self-executing agree
 
 ## 📚 The Scholar's Assessment
 
-> Ethereum transformed from "world computer" to institutional-grade infrastructure through the Merge to Proof of Stake and EIP-1559's fee burning mechanism. With $80B+ in DeFi TVL and unmatched developer ecosystem, it remains the platform where financial innovation happens first. The transition to deflationary issuance makes it a compelling store of value with utility.
+> Ethereum transformed from "world computer" to institutional-grade infrastructure through the Merge to Proof of Stake and EIP-1559's fee burning mechanism. With [[tvl]] in DeFi TVL and unmatched developer ecosystem, it remains the platform where financial innovation happens first. The transition to deflationary issuance makes it a compelling store of value with utility.
 
 ## 📊 Portfolio Perspective
 
 ### ✅ Strengths
 
--   Dominant DeFi ecosystem ($80B+ TVL)
+-   Dominant DeFi ecosystem ([[tvl]] TVL)
 -   Strong institutional adoption
 -   Deflationary with fee burning
 -   Staking yields (3-5%)
@@ -35,7 +35,7 @@ Ethereum (ETH) transformed blockchain with smart contracts, self-executing agree
 
 ## About Ethereum
 
-Ethereum, launched in 2015 by Vitalik Buterin, introduced programmable smart contracts to blockchain technology. As the foundation of decentralized finance (DeFi), it hosts over $80 billion in total value locked across thousands of protocols. The successful transition to Proof of Stake in 2022 reduced energy consumption by 99% while introducing staking rewards. With EIP-1559's fee burning mechanism and growing institutional adoption, Ethereum has evolved into both a utility platform and deflationary store of value.
+Ethereum, launched in 2015 by Vitalik Buterin, introduced programmable smart contracts to blockchain technology. As the foundation of decentralized finance (DeFi), it hosts [[tvl]] in total value locked across thousands of protocols. The successful transition to Proof of Stake in 2022 reduced energy consumption by 99% while introducing staking rewards. With EIP-1559's fee burning mechanism and growing institutional adoption, Ethereum has evolved into both a utility platform and deflationary store of value.
 
 ## 🌐 Explore Ethereum Ecosystem
 

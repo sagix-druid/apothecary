@@ -2,7 +2,7 @@
 title: "Spark"
 date: "2025-11-12T16:25:20.000Z"
 updated: "2025-11-12T16:26:10.000Z"
-excerpt: "Discover Spark Protocol: Sky's multi-chain lending powerhouse with $3.8B+ TVL. Earn transparent yields on stablecoins via SparkLend, Savings, and Liquidity Layer. Backed by $6.5B reserves. Explore SPK governance token & DeFi insights on Sagix.io."
+excerpt: "Discover Spark Protocol: Sky's multi-chain lending powerhouse. Earn transparent yields on stablecoins via SparkLend, Savings, and Liquidity Layer. Backed by $6.5B reserves. Explore SPK governance token & DeFi insights on Sagix.io."
 feature_image: "/content/images/2025/11/spk.png"
 topics: ["defi","eth","ethereum","spk"]
 internal_tags: ["#defi","#eth","#ethereum","#spk","#spark"]
@@ -11,13 +11,13 @@ layout: scorecard.njk
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://spark.fi/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Spark: Earn on your stablecoins</div><div class="kg-bookmark-description">Maximize your DeFi experience with transparent rates</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/favicon.png" alt=""><span class="kg-bookmark-author">spark</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/OpenGraph.png" alt=""></div></a></figure>
 
-Sky's lending infrastructure with $3.8B+ TVL across Ethereum, Base, and Arbitrum. Governance-defined rates backed by $6.5B+ in stablecoin reserves.
+Sky's lending infrastructure with [[tvl]] TVL across Ethereum, Base, and Arbitrum. Governance-defined rates backed by $6.5B+ in stablecoin reserves.
 
 <!-- scorecard -->
 
 ## 📚 The Scholar's Assessment
 
-> Spark Protocol represents Sky's strategic expansion into lending infrastructure, building on Aave v3 technology with governance-defined interest rates. With $3.8B+ in total value locked across SparkLend, Spark Savings, and the Spark Liquidity Layer, it serves as the lending and capital allocation engine for Sky's $6.5B+ stablecoin reserves. The SPK token enables governance participation and staking rewards, positioning holders at the center of DeFi's largest capital allocator bridging traditional and decentralized finance.
+> Spark Protocol represents Sky's strategic expansion into lending infrastructure, building on Aave v3 technology with governance-defined interest rates. With [[tvl]] in total value locked across SparkLend, Spark Savings, and the Spark Liquidity Layer, it serves as the lending and capital allocation engine for Sky's $6.5B+ stablecoin reserves. The SPK token enables governance participation and staking rewards, positioning holders at the center of DeFi's largest capital allocator bridging traditional and decentralized finance.
 
 ## 📊 Portfolio Perspective
 
