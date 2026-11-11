@@ -1,0 +1,34 @@
+---
+permalink: /feeds/crosspost.xml
+eleventyExcludeFromCollections: true
+---
+{#- The posts copied to Substack and Medium: The Druid Deep Dive, the Sagix Apothecary series and the videos. Same format as rss.xml. -#}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}/</link>
+    <atom:link href="{{ site.url }}/feeds/crosspost.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    {%- for post in collections.posts %}
+    {%- set tags = post.data.internal_tags or [] %}
+    {%- set topics = post.data.topics or [] %}
+    {%- set title = post.data.title | lower %}
+    {%- if "#the-druid-deep-dive" in tags or "#ddd" in tags or "The Druid Deep Dive" in topics or "druid deep dive" in title or "#sagix-apothecary" in tags or "#videos" in tags or "#video" in tags or title.startsWith("video") or title.startsWith("new video") %}
+    <item>
+        <title>{{ post.data.title }}</title>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <dc:creator>{{ site.author }}</dc:creator>
+        <pubDate>{{ post.date | rfc822 }}</pubDate>
+        <description>{{ post.data.excerpt | trimText }}</description>
+        {%- if post.data.feature_image %}
+        <media:content url="{{ site.url }}{{ post.data.feature_image }}" medium="image"/>
+        {%- endif %}
+        <content:encoded><![CDATA[{% if post.data.feature_image %}<img src="{{ site.url }}{{ post.data.feature_image }}" alt="">{% endif %}{{ post.content | forFeed | safe }}]]></content:encoded>
+    </item>
+    {%- endif %}
+    {%- endfor %}
+</channel>
+</rss>
