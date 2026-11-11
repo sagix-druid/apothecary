@@ -42,6 +42,10 @@ bodyClass: post-template
         <section class="gh-content gh-canvas">
             {{ content | safe }}
         </section>
+        {#- Every post ends with the subscribe box. A post that already has <!-- signup --> in its text shows it there instead. -#}
+        {%- if site.subscribeUrl and "<!-- signup -->" not in content %}
+        <section class="gh-content gh-canvas post-signup"><!-- signup --></section>
+        {%- endif %}
     </article>
 </main>
 

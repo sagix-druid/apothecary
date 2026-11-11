@@ -18,7 +18,7 @@ function signupCard() {
   return `<div class="kg-card custom-signup">
   <h2>Sign up for ${site.title}</h2>
   <p>${site.description}</p>
-  <a class="gh-btn custom-signup-button" href="${site.subscribeUrl}">Subscribe</a>
+  <a class="gh-btn custom-signup-button" href="${site.subscribeUrl}">${site.subscribeLabel || "Subscribe"}</a>
 </div>`;
 }
 
