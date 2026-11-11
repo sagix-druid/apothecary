@@ -13,7 +13,7 @@ internal_tags: ["#sagix-apothecary"]
 
 > *"The real safe haven was never the asset. It was the market depth."* (The bank war: central vs. decentralized money, [sagix.io/decentralized-money](/decentralized-money/))
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/our-layer-framework/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The four-layer framework: a complete liquidity risk assessment for DeFi</div><div class="kg-bookmark-description">The complete DDD Episode 9 four-layer liquidity framework: pool depth, backstops, pipes, and hubs. From Jackson’s Bank War to Rothschild’s London nexus, 200 years of financial plumbing failures reveal what actually makes a DeFi position liquid under stress.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-134.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_8ctyua8ctyua8cty.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/our-layer-framework/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The four-layer framework: a complete liquidity risk assessment for DeFi</div><div class="kg-bookmark-description">The complete DDD Episode 9 four-layer liquidity framework: pool depth, backstops, pipes, and hubs. From Jackson’s Bank War to Rothschild’s London nexus, 200 years of financial plumbing failures reveal what actually makes a DeFi position liquid under stress.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-134.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_8ctyua8ctyua8cty.png" alt=""></div></a></figure>
 
 The US dollar did not become the global settlement currency because the Federal Reserve mandated it. It became the global settlement currency because private banks in London discovered that routing transactions through dollars was cheaper than routing them through anything else. A French bank lending to a Japanese manufacturer settled in USD not because either party was American but because deep dollar markets already existed in both directions. Once enough markets connected through the dollar, the system fed itself: more liquidity attracted more usage, more usage deepened liquidity \[1\]. **By the mid-1980s, there were more Eurodollars circulating offshore than domestic dollars inside the United States** \[2\]. The dollar's dominance was an emergent property of market infrastructure, not a policy decision.
 
@@ -129,7 +129,7 @@ This article is part of the Druid Deep Dive series exploring historical parallel
 
 \[6\] Watts, Duncan J. & Strogatz, Steven H. "Collective dynamics of 'small-world' networks." Nature, Vol. 393 (1998): 440–442. Available: http://snap.stanford.edu/class/cs224w-readings/watts98smallworld.pdf
 
-\[7\] Sagix Apothecary. "Deep Markets for a Safer Frankencoin: Balancer Liquidity Infrastructure for Liquidation Stability and ZCHF Adoption." Technical proposal, March 2026.
+\[7\] Sagix. "Deep Markets for a Safer Frankencoin: Balancer Liquidity Infrastructure for Liquidation Stability and ZCHF Adoption." Technical proposal, March 2026.
 
 \[8\] BIP-913. "Enable Gauges for svZCHF/ZCHF and ixEDEL/USDC on Ethereum." Balancer Governance Forum. Available: https://forum.balancer.fi/t/bip-913-enable-gauges-for-svzchf-zchf-and-ixedel-usdc-on-ethereum/6970
 
@@ -165,14 +165,14 @@ This article is part of the Druid Deep Dive series exploring historical parallel
 
 **Accuracy and liability limitations:** While extensive effort has been made to ensure historical accuracy through authoritative sources, the authors make no warranties about completeness, accuracy, or currency of information. Historical interpretation involves scholarly judgment and academic debate. Economic data may contain revisions, measurement inconsistencies, or reporting variations across different time periods and institutional sources.
 
-**Liability protections:** The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. This includes any errors that may result from AI assistance in research, writing, or data analysis. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability protections:** The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. This includes any errors that may result from AI assistance in research, writing, or data analysis. Users assume full responsibility for any decisions or actions taken based on this content.
 
 **Investment risk warning:** Historical financial analysis does not constitute investment advice or recommendations. Past performance, whether historical or hypothetical, does not guarantee future results. All investments carry risk of loss, and readers should conduct their own research and consult qualified financial advisors before making investment decisions.
 
-**No professional relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
 
 **Methodological note:** This analysis synthesizes findings from multiple Federal Reserve Bank research departments, National Bureau of Economic Research publications, peer-reviewed academic journals, and authoritative government historical records. The numbered citation system allows readers to verify specific claims against original sources rather than relying on secondary interpretations. All quantitative data and statistical analyses are drawn from the referenced academic literature rather than independent calculation.
 
 **Contemporary financial systems:** References to modern financial systems, cryptocurrency protocols, or DeFi mechanisms are made for educational comparison purposes only. These comparisons do not constitute endorsements, recommendations, or predictions about the performance or suitability of any current financial products or services.
 
-Last updated: March 2026 | Series: The Druid Deep Dive |Publisher: The Genesis Address LLC
+Last updated: March 2026 | Series: The Druid Deep Dive |Publisher: The Genesis Address Publishing LLC

@@ -201,13 +201,13 @@ The race doesn't go to the swift. It goes to those still running when the swift 
 
 ---
 
-**Sagix Apothecary, December 2025**
+**Sagix, December 2025**
 
 *Real positions. Zero sales. Only sacred buying.*
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/philosophy/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Sagix philosophy: Why time and contributions beat chasing APY</div><div class="kg-bookmark-description">Personal investing lessons: time and contributions beat chasing APY. Holding stocks like JNJ and CSCO, I’ve learned that patience with quality businesses creates compound wealth while 90-97% of traders lose money to speculation and scams.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-40.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/feature_sagix_way-4.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/philosophy/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Sagix philosophy: Why time and contributions beat chasing APY</div><div class="kg-bookmark-description">Personal investing lessons: time and contributions beat chasing APY. Holding stocks like JNJ and CSCO, I’ve learned that patience with quality businesses creates compound wealth while 90-97% of traders lose money to speculation and scams.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-40.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/feature_sagix_way-4.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/video-we-never-thought-it-could-happen-here-lessons-in-catastrophic-risk-management-for-defi-and-beyond/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">VIDEO: We never thought it could happen here: Lessons in catastrophic risk management for DeFi and beyond</div><div class="kg-bookmark-description">Learn how Fukushima, 2008 financial crisis, and Nassim Taleb’s Black Swan theory reveal catastrophic risk patterns in DeFi. Discover why ergodicity, tail risk hedging, and Sagix prioritize survival over maximum yields in volatile crypto markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-41.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-17--4.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/video-we-never-thought-it-could-happen-here-lessons-in-catastrophic-risk-management-for-defi-and-beyond/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">VIDEO: We never thought it could happen here: Lessons in catastrophic risk management for DeFi and beyond</div><div class="kg-bookmark-description">Learn how Fukushima, 2008 financial crisis, and Nassim Taleb’s Black Swan theory reveal catastrophic risk patterns in DeFi. Discover why ergodicity, tail risk hedging, and Sagix prioritize survival over maximum yields in volatile crypto markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-41.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-17--4.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -223,6 +223,6 @@ The race doesn't go to the swift. It goes to those still running when the swift 
 
 **No professional relationship**: This content does not create any advisory or fiduciary relationship. Readers seeking professional guidance should consult qualified professionals licensed in their jurisdiction.
 
-**Liability**: The authors, Sagix Apothecary, and Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from use of this information. Users assume full responsibility for any decisions based on this content.
+**Liability**: The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from use of this information. Users assume full responsibility for any decisions based on this content.
 
-**Publication Information**: December 2025 | Series: Sagix Apothecary | Publisher: Genesis Address Publishing LLC
+**Publication Information**: December 2025 | Series: Sagix Research | Publisher: The Genesis Address Publishing LLC

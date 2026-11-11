@@ -171,7 +171,7 @@ The Genesis Address LLC operates ixEDEL, an Index DTF deployed on Reserve Protoc
 
 **Investment risk warning**: This analysis does not constitute investment advice or recommendations. Past performance, whether historical or hypothetical, does not guarantee future results. All investments carry risk of loss. Readers should conduct their own research and consult qualified financial advisors before making investment decisions.
 
-**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address LLC, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
 
 **Methodological note**: This analysis synthesizes findings from primary protocol documentation, issuer reference materials, onchain governance records, and third-party industry estimates as attributed. The numbered citation system allows readers to verify specific claims against original sources rather than relying on secondary interpretations.
 
@@ -179,9 +179,9 @@ The Genesis Address LLC operates ixEDEL, an Index DTF deployed on Reserve Protoc
 
 **International examples**: Analysis of tokenized-asset access rules and eligibility frameworks is presented for educational purposes. Different jurisdictions have varying regulatory frameworks, and this content should not be interpreted as applicable to any specific jurisdiction's current legal or regulatory environment.
 
-**Publication information**: Last updated: July 30, 2026 | Series: Protocol Analysis | Publisher: The Genesis Address LLC
+**Publication information**: Last updated: July 30, 2026 | Series: Protocol Analysis | Publisher: The Genesis Address Publishing LLC
 
-Publisher: The Genesis Address LLC
+Publisher: The Genesis Address Publishing LLC
 
 ---
 
@@ -231,4 +231,4 @@ Publisher: The Genesis Address LLC
 
 \[22\] Reserve. "Terms and conditions." https://reserve.org/terms\_and\_conditions
 
-Publisher: The Genesis Address LLC
+Publisher: The Genesis Address Publishing LLC

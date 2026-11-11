@@ -10,7 +10,7 @@ internal_tags: ["#link","#chainlink","#sagix-apothecary"]
 
 **Chainlink (LINK) has secured its position as crypto's essential middleware layer**, processing over **$26 trillion** in cumulative transaction value while capturing **67-70%** of the oracle market by Total Value Secured. With SWIFT, J.P. Morgan, and UBS now in production deployments using Chainlink infrastructure, the protocol has transitioned from DeFi-native utility to institutional-grade financial plumbing, though centralization concerns and emerging competition from Pyth Network warrant careful consideration.
 
-<figure class="kg-card kg-bookmark-card kg-card-hascaption"><a class="kg-bookmark-container" href="/link/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Chalinlink (Link)</div><div class="kg-bookmark-description">Discover Chainlink: Leading decentralized oracle network securing $50B+ in DeFi &amp; RWAs. Bridge smart contracts to real-world data with LINK utility token, CCIP cross-chain, and institutional integrations. Explore Web3 infrastructure insights on Sagix.io.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-30.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/link.jpg" alt=""></div></a><figcaption><p><em>Do not miss our Chainlink Score card</em>a</p></figcaption></figure>
+<figure class="kg-card kg-bookmark-card kg-card-hascaption"><a class="kg-bookmark-container" href="/link/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Chalinlink (Link)</div><div class="kg-bookmark-description">Discover Chainlink: Leading decentralized oracle network securing $50B+ in DeFi &amp; RWAs. Bridge smart contracts to real-world data with LINK utility token, CCIP cross-chain, and institutional integrations. Explore Web3 infrastructure insights on Sagix.io.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-30.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/link.jpg" alt=""></div></a><figcaption><p><em>Do not miss our Chainlink Score card</em>a</p></figcaption></figure>
 
 Trading at **$13.00** with a **$9.0 billion** market cap (rank #14), LINK sits 75% below its all-time high despite achieving record fundamentals: **$100+ billion TVS** (up 163% YoY), 2,400+ ecosystem projects, and the November 2025 launch of CRE, the orchestration layer Chainlink positions as equivalent to what Java was for internet development. The fundamental thesis hinges on whether LINK can translate institutional adoption momentum into sustainable fee-based economics before competitors erode its DeFi dominance.
 
@@ -271,7 +271,7 @@ For investors with conviction in blockchain infrastructure and RWA tokenization,
 
 ### From the Apothecary's Desk
 
-The thoughts, mental models, and observations shared here represent educational analysis of the Chainlink network's technical and economic mechanisms. This is not financial advice or investment recommendations. The Sagix Apothecary is a chronicle of network observation and analysis, not a prescription for investment decisions.
+The thoughts, mental models, and observations shared here represent educational analysis of the Chainlink network's technical and economic mechanisms. This is not financial advice or investment recommendations. Sagix is a chronicle of network observation and analysis, not a prescription for investment decisions.
 
 **This is an educational compendium, not a directive.** The frameworks and observations presented are for study and understanding, not replication. All digital commodities, tokens, and protocols mentioned carry immense and inherent risk. Participants must conduct their own research and due diligence.
 
@@ -281,7 +281,7 @@ The thoughts, mental models, and observations shared here represent educational 
 
 **Educational Purpose Only:** This content is provided exclusively for educational and research purposes. It should not be construed as investment advice, financial planning guidance, or official economic analysis. Any allocation strategies or portfolio discussions are presented as documentation of our own approach, not recommendations for action.
 
-**No Professional Relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary, its authors, or affiliated entities. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
+**No Professional Relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
 
 ### Risk Warnings
 
@@ -295,20 +295,20 @@ The thoughts, mental models, and observations shared here represent educational 
 
 **Accuracy Limitations:** While efforts have been made to ensure accuracy of subnet data, market capitalizations, and emission percentages, this information represents a snapshot in time and may not reflect current conditions. Readers should verify all data independently through official Bittensor network sources.
 
-**Liability Protections:** The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability Protections:** The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
 
 ### Intellectual Property
 
-**Original Analysis:** While this content draws upon publicly available information about the Bittensor network, the synthesis, thematic presentation, and allocation philosophy represent original analytical work by Sagix Apothecary.
+**Original Analysis:** While this content draws upon publicly available information about the Bittensor network, the synthesis, thematic presentation, and allocation philosophy represent original analytical work by The Genesis Address Publishing LLC.
 
-**Content Usage:** Readers may reference this content for educational purposes with proper attribution. Commercial use, redistribution, or republication requires express written permission from Sagix Apothecary.
+**Content Usage:** Readers may reference this content for educational purposes with proper attribution. Commercial use, redistribution, or republication requires express written permission from The Genesis Address Publishing LLC.
 
 ---
 
 **Publication Information  
 Last Updated:** November 29, 2025  
-**Series:** The Sagix Apothecary  
-**Publisher:** The Genesis Address LLC  
+**Series:** Sagix Research  
+**Publisher:** The Genesis Address Publishing LLC  
 **Website:** Sagix.io
 
 *This document may be updated periodically to reflect network changes, new subnet developments, or refinements to allocation frameworks. Readers should verify they are accessing the most current version.*

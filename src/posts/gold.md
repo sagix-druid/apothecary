@@ -175,9 +175,9 @@ The tokenized gold market's momentum reflects both gold's strong performance (up
 
 The core investment thesis remains consistent across all three tokens: allocated physical gold ownership with blockchain-native transferability, eliminating annual custody fees while enabling programmable finance applications impossible with physical bars or ETF shares. The differentiation lies in regulatory comfort, cost structure, and accessibility preferences, making each token suited to different investor profiles rather than competing for identical use cases.
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/frankencoin/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Frankencoin: A Swiss-made approach to decentralized stablecoins</div><div class="kg-bookmark-description">Frankencoin (ZCHF): Swiss franc stablecoin with oracle-free design from University of Zurich PhD research. Vs MakerDAO/Terra comparisons, risk analysis, FPS governance, yield mechanics, and DeFi portfolio considerations.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-68.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/e035ba60-b982-4e92-9928-ac069e456a91-4.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/frankencoin/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Frankencoin: A Swiss-made approach to decentralized stablecoins</div><div class="kg-bookmark-description">Frankencoin (ZCHF): Swiss franc stablecoin with oracle-free design from University of Zurich PhD research. Vs MakerDAO/Terra comparisons, risk analysis, FPS governance, yield mechanics, and DeFi portfolio considerations.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-68.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/e035ba60-b982-4e92-9928-ac069e456a91-4.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/stablecoin-yield-vaults/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Stablecoin yield vaults: sUSDS, syrupUSDC, and steakUSDC</div><div class="kg-bookmark-description">Discover the booming stablecoin yield vaults: sUSDS (APY from protocol revenue &amp; RWAs), syrupUSDC (via institutional lending), and steakUSDC (through curated DeFi markets). Compare yields, risks, and strategies in our detailed guide. Grow your USD holdings</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-74.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/f17f9f39-a997-4e94-a731-a984cd57668d.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/stablecoin-yield-vaults/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Stablecoin yield vaults: sUSDS, syrupUSDC, and steakUSDC</div><div class="kg-bookmark-description">Discover the booming stablecoin yield vaults: sUSDS (APY from protocol revenue &amp; RWAs), syrupUSDC (via institutional lending), and steakUSDC (through curated DeFi markets). Compare yields, risks, and strategies in our detailed guide. Grow your USD holdings</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-74.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/f17f9f39-a997-4e94-a731-a984cd57668d.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -189,18 +189,18 @@ The core investment thesis remains consistent across all three tokens: allocated
 
 **Accuracy and liability limitations**: While extensive effort has been made to ensure accuracy through authoritative sources, the authors make no warranties about completeness, accuracy, or currency of information. DeFi protocols evolve rapidly, and information may become outdated. Statistics, yields, and system parameters referenced may change without notice.
 
-**Liability protections**: The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability protections**: The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
 
 **Investment risk warning**: Cryptocurrency investments carry substantial risk of loss. Stablecoins, despite their name, can lose their peg and experience significant value fluctuations. DeFi protocols face smart contract risks, economic attack risks, and regulatory risks. Past stability does not guarantee future stability. You could lose your entire investment.
 
-**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
 
-**Conflict disclosure**: Sagix Apothecary and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis. This potential conflict should be considered when evaluating the information presented.
+**Conflict disclosure**: The Genesis Address Publishing LLC and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis. This potential conflict should be considered when evaluating the information presented.
 
 **Source verification**: Source verification: Data and claims in this article draw from official issuer sites (gold.tether.to, paxos.com, vnx.li), market data providers (CoinGecko, DeFiLlama), and third-party sources including CoinDesk and Kitco.
 
 **Publication information**:
 
 *   Last updated: January 2026
-*   Publisher: Sagix Apothecary - The Genesis Address LLC
+*   Publisher: The Genesis Address Publishing LLC
 *   Series: Protocol Analysis

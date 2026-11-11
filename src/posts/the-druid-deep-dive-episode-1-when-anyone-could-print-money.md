@@ -176,16 +176,16 @@ The free banking experience proves that permissionless systems require sophistic
 
 **Accuracy and Liability Limitations**: While extensive effort has been made to ensure historical accuracy through authoritative sources, the authors make no warranties about completeness, accuracy, or currency of information. Historical interpretation involves scholarly judgment and academic debate. Economic data may contain revisions, measurement inconsistencies, or reporting variations across different time periods and institutional sources.
 
-**Liability Protections**: The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. This includes any errors that may result from AI assistance in research, writing, or data analysis. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability Protections**: The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. This includes any errors that may result from AI assistance in research, writing, or data analysis. Users assume full responsibility for any decisions or actions taken based on this content.
 
 **Investment Risk Warning**: Historical financial analysis does not constitute investment advice or recommendations. Past performance, whether historical or hypothetical, does not guarantee future results. All investments carry risk of loss, and readers should conduct their own research and consult qualified financial advisors before making investment decisions.
 
-**No Professional Relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
+**No Professional Relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
 
 **Methodological Note**: This analysis synthesizes findings from multiple Federal Reserve Bank research departments, National Bureau of Economic Research publications, peer-reviewed academic journals, and authoritative government historical records. The numbered citation system allows readers to verify specific claims against original sources rather than relying on secondary interpretations. All quantitative data and statistical analyses are drawn from the referenced academic literature rather than independent calculation.
 
-**Publication Information**: Last Updated: August 30, 2025 | Series: The Druid Deep Dive | Publisher: Sagix Apothecary
+**Publication Information**: Last Updated: August 30, 2025 | Series: The Druid Deep Dive | Publisher: The Genesis Address Publishing LLC
 
 **Contemporary Financial Systems**: References to modern financial systems, cryptocurrency protocols, or DeFi mechanisms are made for educational comparison purposes only. These comparisons do not constitute endorsements, recommendations, or predictions about the performance or suitability of any current financial products or services.
 
-*The Druid Deep Dive is presented by Sagix Apothecary, crafting sophisticated portfolio strategies through the wisdom of financial history.*
+*The Druid Deep Dive is presented by Sagix, crafting sophisticated portfolio strategies through the wisdom of financial history.*

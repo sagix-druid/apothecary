@@ -190,15 +190,15 @@ It is not risk-free and it is not a stablecoin. It is short-term US government d
 
 **Accuracy and liability limitations**: While extensive effort has been made to ensure accuracy through authoritative sources, the authors make no warranties about completeness, accuracy, or currency of information. Tokenized asset products evolve rapidly, and information may become outdated. Statistics, yields, and structural parameters referenced may change without notice.
 
-**Liability protections**: The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability protections**: The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
 
 **Investment risk warning**: Cryptocurrency and tokenized asset investments carry substantial risk of loss. Yield-bearing tokens face issuer risk, structural risk, regulatory risk, and liquidity risk. Past yields do not guarantee future yields. You could lose your entire investment.
 
 **Jurisdictional restriction notice**: USDY is not available for sale or distribution to US persons and is not registered under the US Securities Act of 1933. Nothing in this article constitutes an offer or solicitation of USDY in any jurisdiction. Readers are responsible for compliance with the securities laws of their own jurisdiction.
 
-**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
 
-**Conflict disclosure**: Sagix Apothecary and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis, including USDY held within the ixEDEL portfolio. This potential conflict should be considered when evaluating the information presented.
+**Conflict disclosure**: The Genesis Address Publishing LLC and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis, including USDY held within the ixEDEL portfolio. This potential conflict should be considered when evaluating the information presented.
 
 **Source verification**: Data and claims in this article draw from official Ondo Finance documentation (ondo.finance), RWA.xyz analytics, DeFiLlama, CoinGecko, and Messari.
 
@@ -207,4 +207,4 @@ It is not risk-free and it is not a stablecoin. It is short-term US government d
 *   Last updated: July 2026
 *   Series: Protocol Analysis
 
-Publisher: The Genesis Address LLC
+Publisher: The Genesis Address Publishing LLC

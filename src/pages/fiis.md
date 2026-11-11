@@ -2,7 +2,7 @@
 title: "Portfólio de FIIs: alocação setorial e comparação com benchmarks"
 date: "2025-11-29T23:31:38.000Z"
 updated: "2025-11-30T00:11:03.000Z"
-excerpt: "FIIs 2025: portfólio diversificado de 31 fundos imobiliários com yield 10,80% isento. Setores: logístico, shopping, lajes corporativas, renda urbana, CRIs e FOFs. Comparação IFIX e Selic. Análise educacional Sagix Apothecary."
+excerpt: "FIIs 2025: portfólio diversificado de 31 fundos imobiliários com yield 10,80% isento. Setores: logístico, shopping, lajes corporativas, renda urbana, CRIs e FOFs. Comparação IFIX e Selic. Análise educacional Sagix."
 feature_image: "/content/images/2025/11/e52296f4-b726-45a3-93d8-f5bf44e33e3c.jpg"
 topics: ["fii"]
 internal_tags: ["#fii"]
@@ -579,9 +579,9 @@ O yield de 10,80% isento equivale a ~15-16% bruto em renda fixa tributada.
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/bittensor/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Can currency be backed by intelligence?</div><div class="kg-bookmark-description">Can currency be backed by intelligence instead of gold? Bittensor’s proof-of-intelligence where AI production creates value. Learn how Dynamic TAO distributes 7,200 TAO daily across competing subnets, December 2025 halving impact, allocation frameworks balancing security with growth.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-28.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/btt.001-4.jpeg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/bittensor/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Can currency be backed by intelligence?</div><div class="kg-bookmark-description">Can currency be backed by intelligence instead of gold? Bittensor’s proof-of-intelligence where AI production creates value. Learn how Dynamic TAO distributes 7,200 TAO daily across competing subnets, December 2025 halving impact, allocation frameworks balancing security with growth.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-28.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/btt.001-4.jpeg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/fable/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Slow and steady wins the race: Ancient fables meet modern DeFi investing</div><div class="kg-bookmark-description">Why leverage, yield chasing, and concentration destroy crypto portfolios while diversification, position sizing, and long-term holding build wealth. Apply timeless Hare and Tortoise wisdom to DeFi investing for resilient returns in volatile markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-29.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-4--1.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/fable/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Slow and steady wins the race: Ancient fables meet modern DeFi investing</div><div class="kg-bookmark-description">Why leverage, yield chasing, and concentration destroy crypto portfolios while diversification, position sizing, and long-term holding build wealth. Apply timeless Hare and Tortoise wisdom to DeFi investing for resilient returns in volatile markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-29.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-4--1.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -599,4 +599,4 @@ O yield de 10,80% isento equivale a ~15-16% bruto em renda fixa tributada.
 
 **Metodologia**: Dados de Funds Explorer, Status Invest e B3. Referência: 29/11/2025.
 
-**Publicação**: Sagix Apothecary | Atualizado: 29 de novembro de 2025 | The Genesis Address LLC
+**Publicação**: Atualizado: 29 de novembro de 2025 | The Genesis Address Publishing LLC

@@ -45,4 +45,4 @@ Our flagship strategy applies lessons from successful monetary systems throughou
 
 *Sagix Apothecary - Where financial history meets portfolio strategy*
 
-*Published by The Genesis Address LLC*
+*Published by The Genesis Address Publishing LLC*

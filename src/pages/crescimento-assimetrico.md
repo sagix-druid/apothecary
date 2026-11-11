@@ -75,7 +75,7 @@ O ixAqua então captura taxas de swap, juros de empréstimos e recompensas de go
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/investor-q-a/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix: Investor Q&amp;A</div><div class="kg-bookmark-description">Family Office · Conservative Professional · Fundo Multimercado Context March 2026 · Confidencial 1. O que você faz? (Quem é o Sérgio, e a Sagix?) Engenheiro com 25+ anos de experiência em investimentos, MBA pela FGV São Paulo. Construo fundos de índice onchain, como ETFs, mas sem banco, sem custódia de terceiros, sem</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-102.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_w3ojdxw3ojdxw3oj-1.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/investor-q-a/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix: Investor Q&amp;A</div><div class="kg-bookmark-description">Family Office · Conservative Professional · Fundo Multimercado Context March 2026 · Confidencial 1. O que você faz? (Quem é o Sérgio, e a Sagix?) Engenheiro com 25+ anos de experiência em investimentos, MBA pela FGV São Paulo. Construo fundos de índice onchain, como ETFs, mas sem banco, sem custódia de terceiros, sem</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-102.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_w3ojdxw3ojdxw3oj-1.png" alt=""></div></a></figure>
 
 ## Legal disclaimers and disclosures
 
@@ -85,18 +85,18 @@ O ixAqua então captura taxas de swap, juros de empréstimos e recompensas de go
 
 **Accuracy and liability limitations**: While extensive effort has been made to ensure accuracy through authoritative sources, the authors make no warranties about completeness, accuracy, or currency of information. DeFi protocols evolve rapidly, and information may become outdated. Statistics, yields, and system parameters referenced may change without notice.
 
-**Liability protections**: The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability protections**: The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
 
 **Investment risk warning**: Cryptocurrency investments carry substantial risk of loss. Stablecoins, despite their name, can lose their peg and experience significant value fluctuations. DeFi protocols face smart contract risks, economic attack risks, and regulatory risks. Past stability does not guarantee future stability. You could lose your entire investment.
 
-**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
 
-**Conflict disclosure**: Sagix Apothecary and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis. This potential conflict should be considered when evaluating the information presented.
+**Conflict disclosure**: The Genesis Address Publishing LLC and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis. This potential conflict should be considered when evaluating the information presented.
 
 **Source verification**: Data and claims in this article draw from official protocol documentation (Sky Protocol, Maple Finance, Morpho, Steakhouse Financial), security audit reports, and third-party data sources including DeFiLlama, CoinGecko, and Messari.
 
 **Publication information**:
 
 *   Last updated: March 2026
-*   Publisher: Sagix Apothecary - The Genesis Address LLC
+*   Publisher: The Genesis Address Publishing LLC
 *   Series: Protocol Analysis

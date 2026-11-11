@@ -253,13 +253,13 @@ That description is not a criticism. Banks are useful, and a transparent one wit
 
 **Accuracy and liability limitations**: While extensive effort has been made to ensure accuracy through authoritative sources, the authors make no warranties about completeness, accuracy, or currency of information. DeFi protocols evolve rapidly, and information may become outdated. Statistics, yields, and system parameters referenced may change without notice. The Sky Savings Rate in particular is a governance-set parameter subject to change at any time.
 
-**Liability protections**: The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability protections**: The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
 
 **Investment risk warning**: Cryptocurrency investments carry substantial risk of loss. Stablecoins, despite their name, can lose their peg and experience significant value fluctuations. DeFi protocols face smart contract risks, economic attack risks, credit risks from real-world asset exposure, and regulatory risks. Past stability does not guarantee future stability. You could lose your entire investment.
 
-**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
 
-**Conflict disclosure**: Sagix Apothecary and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis, including sUSDS held within the ixEDEL portfolio. This potential conflict should be considered when evaluating the information presented.
+**Conflict disclosure**: The Genesis Address Publishing LLC and its affiliates may hold positions in cryptocurrencies and tokens discussed in this analysis, including sUSDS held within the ixEDEL portfolio. This potential conflict should be considered when evaluating the information presented.
 
 **Source verification**: Data and claims in this article draw from official Sky Protocol documentation (sky.money, skyeco.com, developers.sky.money), S&P Global Ratings publications, The Block, Messari, DeFiLlama, and independent protocol research as cited above.
 
@@ -268,6 +268,6 @@ That description is not a criticism. Banks are useful, and a transparent one wit
 *   Last updated: July 2026
 *   Series: Protocol Analysis
 
-Publisher: The Genesis Address LLC
+Publisher: The Genesis Address Publishing LLC
 
 ---

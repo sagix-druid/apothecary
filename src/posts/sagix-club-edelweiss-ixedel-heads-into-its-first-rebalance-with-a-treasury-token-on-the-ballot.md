@@ -104,7 +104,7 @@ USDY is the interesting addition. Every stablecoin in the current sleeve earns i
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2026/07/Gemini_Generated_Image_du0vfkdu0vfkdu0v-1.png" class="kg-image" alt="" loading="lazy" width="1584" height="672" srcset="/content/images/size/w600/2026/07/Gemini_Generated_Image_du0vfkdu0vfkdu0v-1.png 600w, /content/images/size/w1000/2026/07/Gemini_Generated_Image_du0vfkdu0vfkdu0v-1.png 1000w, /content/images/2026/07/Gemini_Generated_Image_du0vfkdu0vfkdu0v-1.png 1584w" sizes="(min-width: 720px) 720px"></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/usdy/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">USDY: Treasury yield in a token you can actually transfer</div><div class="kg-bookmark-description">USDY explained: Ondo’s tokenized note backed by short-term US Treasuries, now past $2 billion. How the rising redemption value works, the Reg S structure behind permissionless transfers, risks vs USDC and BUIDL, and why it fits DeFi portfolios where whitelisted Treasury tokens cannot.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-29485e19-ec0a-469b-91e6-1e2bf608992b.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_1sgj6h1sgj6h1sgj-593e913b-1bbd-4363-a7e4-7b26ab91ef4a.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/usdy/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">USDY: Treasury yield in a token you can actually transfer</div><div class="kg-bookmark-description">USDY explained: Ondo’s tokenized note backed by short-term US Treasuries, now past $2 billion. How the rising redemption value works, the Reg S structure behind permissionless transfers, risks vs USDC and BUIDL, and why it fits DeFi portfolios where whitelisted Treasury tokens cannot.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-29485e19-ec0a-469b-91e6-1e2bf608992b.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_1sgj6h1sgj6h1sgj-593e913b-1bbd-4363-a7e4-7b26ab91ef4a.png" alt=""></div></a></figure>
 
 ---
 
@@ -120,7 +120,7 @@ The proposal is live on the Reserve governance forum.
 
 **AI-assisted research disclosure**: This article was researched and written with substantial assistance from artificial intelligence technology (Claude, Anthropic). While efforts were made to verify all statistical claims against on-chain data and primary sources, readers should independently verify any information before relying on it.
 
-**Accuracy and liability limitations**: The authors make no warranties about completeness, accuracy, or currency of information. On-chain data reflects a point in time and changes continuously. The authors, publishers, and The Genesis Address LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information.
+**Accuracy and liability limitations**: The authors make no warranties about completeness, accuracy, or currency of information. On-chain data reflects a point in time and changes continuously. The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information.
 
 **Investment risk warning**: Past performance, whether historical or hypothetical, does not guarantee future results. All digital assets carry risk of total loss. Readers should conduct their own research and consult qualified financial advisors before making investment decisions.
 
@@ -128,4 +128,4 @@ The proposal is live on the Reserve governance forum.
 
 **Contemporary financial systems**: References to cryptocurrency protocols or DeFi mechanisms are made for educational purposes only. These comparisons do not constitute endorsements, recommendations, or predictions about the performance or suitability of any current financial products or services.
 
-Publisher: The Genesis Address LLC
+Publisher: The Genesis Address Publishing LLC

@@ -101,9 +101,9 @@ The framework this publication has applied to earlier episodes fits. In [the ban
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/decentralized-money/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive, Episode 9, Part 1: The bank war: Central vs. decentralized money</div><div class="kg-bookmark-description">The Bank War’s deepest lesson: “The real safe haven was never the asset. It was the market depth.” Explore the 1830s Panic and why liquidity infrastructure is the “money shot” for the future of decentralized money. Historical lessons for modern DeFi survival.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-c17b5c14-d185-4bcb-bf7b-a81ba38167dd.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_35rb0035rb0035rb-151baff4-5335-447c-b8fc-4d11096506ac.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/decentralized-money/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive, Episode 9, Part 1: The bank war: Central vs. decentralized money</div><div class="kg-bookmark-description">The Bank War’s deepest lesson: “The real safe haven was never the asset. It was the market depth.” Explore the 1830s Panic and why liquidity infrastructure is the “money shot” for the future of decentralized money. Historical lessons for modern DeFi survival.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-c17b5c14-d185-4bcb-bf7b-a81ba38167dd.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_35rb0035rb0035rb-151baff4-5335-447c-b8fc-4d11096506ac.png" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/ddd6/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive, Episode 6: JP Morgan’s 1907 liquidity crisis: when there’s no one to lock the bankers in the library</div><div class="kg-bookmark-description">In 1907, JP Morgan locked bankers in his library to halt a panic. On October 10, 2025, $19 billion in crypto liquidated in hours, with no one to coordinate rescue. Explore what trust company runs and DeFi cascades teach about leverage, liquidity, and building portfolios that don’t need saving.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-bd75d3cc-1826-462a-9dc7-2bbb19105883.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/86950304-7d02-4cf4-882b-d2b3ed1b368e-0ee2b939-7000-441a-8e9c-9990223a3a02.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/ddd6/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive, Episode 6: JP Morgan’s 1907 liquidity crisis: when there’s no one to lock the bankers in the library</div><div class="kg-bookmark-description">In 1907, JP Morgan locked bankers in his library to halt a panic. On October 10, 2025, $19 billion in crypto liquidated in hours, with no one to coordinate rescue. Explore what trust company runs and DeFi cascades teach about leverage, liquidity, and building portfolios that don’t need saving.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-bd75d3cc-1826-462a-9dc7-2bbb19105883.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/86950304-7d02-4cf4-882b-d2b3ed1b368e-0ee2b939-7000-441a-8e9c-9990223a3a02.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -119,13 +119,13 @@ The framework this publication has applied to earlier episodes fits. In [the ban
 
 **Investment risk warning**: Financial analysis does not constitute investment advice or recommendations. Past performance, whether historical or hypothetical, does not guarantee future results. All investments carry risk of loss. Readers should conduct their own research and consult qualified financial advisors before making investment decisions.
 
-**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address LLC, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
+**No professional relationship**: This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities. Readers seeking financial, investment, legal, regulatory, or policy guidance should consult qualified professionals licensed in their jurisdiction.
 
 **Methodological note**: This analysis synthesizes primary corporate filings, protocol documentation, foundation publications, and established financial media reporting. The numbered citation system allows readers to verify specific claims against original sources rather than relying on secondary interpretations.
 
 **Contemporary financial systems**: References to modern financial systems, cryptocurrency protocols, or DeFi mechanisms are made for educational comparison purposes only. These comparisons do not constitute endorsements, recommendations, or predictions about the performance or suitability of any current financial products or services.
 
-**Publication information**: Last updated: August 25, 2026 | Series: Sagix news | Publisher: The Genesis Address LLC
+**Publication information**: Last updated: August 25, 2026 | Series: Sagix news | Publisher: The Genesis Address Publishing LLC
 
 ---
 
@@ -185,4 +185,4 @@ The framework this publication has applied to earlier episodes fits. In [the ban
 
 \[27\] Gillen, John. "Wartime Ethereum: Blitzkrieg." X. August 22, 2026. https://x.com/BitcoinJesusETH/status/2091272786572345702
 
-Publisher: The Genesis Address LLC
+Publisher: The Genesis Address Publishing LLC

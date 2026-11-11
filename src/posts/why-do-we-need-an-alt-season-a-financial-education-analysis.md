@@ -145,8 +145,8 @@ The next cycle will certainly arrive. Market history guarantees this. However, t
 
 **Author Holdings Disclosure**: As of the time of publication, the author holds positions in Bitcoin, Ethereum, Solana, Chainlink, Cosmos, and other cryptocurrencies mentioned in this analysis. These holdings may create potential conflicts of interest in the analysis presented. Readers should consider this when evaluating the content and should not interpret any discussion as recommendations to buy or sell specific assets.
 
-**No Professional Relationship**: This content does not create any advisory or client relationship between the reader and Sagix Apothecary. Readers seeking investment advice should consult qualified professionals licensed in their jurisdiction.
+**No Professional Relationship**: This content does not create any advisory or client relationship between the reader and The Genesis Address Publishing LLC. Readers seeking investment advice should consult qualified professionals licensed in their jurisdiction.
 
 **Accuracy Limitations**: While efforts have been made to ensure accuracy, cryptocurrency markets are highly volatile and information can change rapidly. The authors make no warranties about completeness or accuracy of information presented.
 
-**Publication Information**: Published by Sagix Apothecary for educational purposes. This analysis represents general market commentary rather than personalized investment advice.
+**Publication Information**: Published by The Genesis Address Publishing LLC for educational purposes. This analysis represents general market commentary rather than personalized investment advice.

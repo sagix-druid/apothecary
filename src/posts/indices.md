@@ -684,7 +684,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
         <header class="header">
             <div class="logo-row">
                 <span class="logo-mark">🧪</span>
-                <span class="brand-name">Sagix Apothecary</span>
+                <span class="brand-name">Sagix</span>
             </div>
             <h1 class="main-title">Sagix Indices</h1>
             <p class="subtitle">Three nested indices spanning conservative diversification to pure DeFi conviction, each built on the Sagix philosophy.</p>
@@ -719,7 +719,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
         <!-- About Sagix -->
         <section class="section">
             <h2 class="section-title">What is Sagix?</h2>
-            <p class="section-intro">Sagix Apothecary is an educational platform documenting one investor's approach to long-term wealth building. These indices represent a personal investment framework, publicly tracked for transparency and educational discussion.</p>
+            <p class="section-intro">Sagix is an educational platform documenting one investor's approach to long-term wealth building. These indices represent a personal investment framework, publicly tracked for transparency and educational discussion.</p>
             <div class="about-grid">
                 <div class="about-card">
                     <h4>📚 Educational documentation</h4>
@@ -1268,13 +1268,13 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
             <h4>Important disclosures</h4>
             <p><strong>Educational purpose only:</strong> This document is provided exclusively for educational and informational purposes. It should not be construed as investment advice, financial planning guidance, or a solicitation to buy or sell any securities or cryptocurrency tokens.</p>
             <p><strong>Personal portfolio documentation:</strong> The Sagix indices represent documentation of personal investment decisions. They are not investment products, funds, or managed accounts. Readers should not interpret this as a recommendation to replicate these allocations.</p>
-            <p><strong>No professional relationship:</strong> This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary, its authors, or affiliated entities.</p>
+            <p><strong>No professional relationship:</strong> This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities.</p>
             <p><strong>Risk warning:</strong> All investments carry risk of loss. Cryptocurrency investments are particularly volatile. Past performance does not guarantee future results. You may lose some or all of your invested capital.</p>
             <p><strong>AI-assisted research:</strong> This document was prepared with artificial intelligence assistance. Readers should independently verify any information before making investment decisions.</p>
         </div>
         <!-- Footer -->
         <footer class="footer">
-            <p>Sagix Apothecary · <a href="/" target="_blank">www.sagix.io</a></p>
+            <p>Sagix · <a href="/" target="_blank">www.sagix.io</a></p>
             <p>December 2025</p>
         </footer>
     </div>
@@ -1304,11 +1304,11 @@ Second, education. The DeFi space is full of noise: leverage, yield farming, alg
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-druid-deep-dive-episode-5-the-panic-of-1837-portfolio-strategies-that-survived/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive episode 5: The panic of 1837: Portfolio strategies that survived and thrived</div><div class="kg-bookmark-description">When Jackson’s Specie Circular delegitimized paper money overnight, 40% of American banks failed. But investors in New England’s Suffolk Banking System survived. The parallels to SEC enforcement shocks and China crypto bans reveal timeless portfolio strategies for policy-induced volatility.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-51.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/752afe13-c3d4-4966-b84a-58d55bf12951.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-druid-deep-dive-episode-5-the-panic-of-1837-portfolio-strategies-that-survived/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive episode 5: The panic of 1837: Portfolio strategies that survived and thrived</div><div class="kg-bookmark-description">When Jackson’s Specie Circular delegitimized paper money overnight, 40% of American banks failed. But investors in New England’s Suffolk Banking System survived. The parallels to SEC enforcement shocks and China crypto bans reveal timeless portfolio strategies for policy-induced volatility.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-51.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/752afe13-c3d4-4966-b84a-58d55bf12951.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056, not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-44.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-1.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056, not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-44.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-1.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/modern-portfolio-construction-a-multi-asset-approach-for-the-digital-age/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Modern portfolio construction: A multi-asset approach for the digital age</div><div class="kg-bookmark-description">Integrating Traditional Wisdom with Contemporary Realities</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-45.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/71382bd5-a661-45db-b93f-af8593157505-3.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/modern-portfolio-construction-a-multi-asset-approach-for-the-digital-age/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Modern portfolio construction: A multi-asset approach for the digital age</div><div class="kg-bookmark-description">Integrating Traditional Wisdom with Contemporary Realities</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-45.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/71382bd5-a661-45db-b93f-af8593157505-3.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -1318,7 +1318,7 @@ Second, education. The DeFi space is full of noise: leverage, yield farming, alg
 
 **Personal portfolio documentation:** The Sagix indices represent documentation of personal investment decisions. They are not investment products, funds, or managed accounts. Readers should not interpret this as a recommendation to replicate these allocations.
 
-**No professional relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary, its authors, or affiliated entities.
+**No professional relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities.
 
 **Risk warning:** All investments carry risk of loss. Cryptocurrency investments are particularly volatile. Past performance does not guarantee future results. You may lose some or all of your invested capital.
 

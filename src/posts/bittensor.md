@@ -127,7 +127,7 @@ Bittensor's architecture ensures that the most important technology of the centu
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/philosophy/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Sagix philosophy: Why time and contributions beat chasing APY</div><div class="kg-bookmark-description">Personal investing lessons: time and contributions beat chasing APY. Holding stocks like JNJ and CSCO, I’ve learned that patience with quality businesses creates compound wealth while 90-97% of traders lose money to speculation and scams.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-15.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/feature_sagix_way-2.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/philosophy/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Sagix philosophy: Why time and contributions beat chasing APY</div><div class="kg-bookmark-description">Personal investing lessons: time and contributions beat chasing APY. Holding stocks like JNJ and CSCO, I’ve learned that patience with quality businesses creates compound wealth while 90-97% of traders lose money to speculation and scams.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-15.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/feature_sagix_way-2.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -702,7 +702,7 @@ As of November 3, 2025, TAO trades at approximately **$450**, with a circulating
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/catastrophic-risk-management/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">We never thought it could happen here: Lessons in catastrophic risk management for DeFi and beyond</div><div class="kg-bookmark-description">Learn how Fukushima, 2008 financial crisis, and Nassim Taleb’s Black Swan theory reveal catastrophic risk patterns in DeFi. Discover why ergodicity, tail risk hedging, and Sagix prioritize survival over maximum yields in volatile crypto markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-14.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-17--1.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/catastrophic-risk-management/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">We never thought it could happen here: Lessons in catastrophic risk management for DeFi and beyond</div><div class="kg-bookmark-description">Learn how Fukushima, 2008 financial crisis, and Nassim Taleb’s Black Swan theory reveal catastrophic risk patterns in DeFi. Discover why ergodicity, tail risk hedging, and Sagix prioritize survival over maximum yields in volatile crypto markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-14.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-17--1.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -875,7 +875,7 @@ The dTAO economy is highly dynamic. Alpha prices, emission allocations, and APRs
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/fable/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Slow and steady wins the race: Ancient fables meet modern DeFi investing</div><div class="kg-bookmark-description">Why leverage, yield chasing, and concentration destroy crypto portfolios while diversification, position sizing, and long-term holding build wealth. Apply timeless Hare and Tortoise wisdom to DeFi investing for resilient returns in volatile markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-13.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-4-.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/fable/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Slow and steady wins the race: Ancient fables meet modern DeFi investing</div><div class="kg-bookmark-description">Why leverage, yield chasing, and concentration destroy crypto portfolios while diversification, position sizing, and long-term holding build wealth. Apply timeless Hare and Tortoise wisdom to DeFi investing for resilient returns in volatile markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-13.JPG" alt=""><span class="kg-bookmark-author">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-4-.jpg" alt=""></div></a></figure>
 
 ---
 
@@ -1025,7 +1025,7 @@ Early stage means very high risks; teams like Sturdy (Pantera/YC) have firepower
 
 ### From the Apothecary's Desk
 
-The thoughts, mental models, and observations shared here represent educational analysis of the Bittensor network's technical and economic mechanisms. This is not financial advice or investment recommendations. The Sagix Apothecary is a chronicle of network observation and analysis, not a prescription for investment decisions.
+The thoughts, mental models, and observations shared here represent educational analysis of the Bittensor network's technical and economic mechanisms. This is not financial advice or investment recommendations. Sagix is a chronicle of network observation and analysis, not a prescription for investment decisions.
 
 **This is an educational compendium, not a directive.** The frameworks and observations presented are for study and understanding, not replication. All digital commodities, tokens, and protocols mentioned carry immense and inherent risk. Participants must conduct their own research and due diligence.
 
@@ -1035,7 +1035,7 @@ The thoughts, mental models, and observations shared here represent educational 
 
 **Educational Purpose Only:** This content is provided exclusively for educational and research purposes. It should not be construed as investment advice, financial planning guidance, or official economic analysis. Any allocation strategies or portfolio discussions are presented as documentation of our own approach, not recommendations for action.
 
-**No Professional Relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and Sagix Apothecary, its authors, or affiliated entities. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
+**No Professional Relationship:** This content does not create any professional, advisory, fiduciary, or client relationship between the reader and The Genesis Address Publishing LLC, its authors, or affiliated entities. Readers seeking financial, investment, or legal guidance should consult qualified professionals licensed in their jurisdiction.
 
 ### Risk Warnings
 
@@ -1053,20 +1053,20 @@ The thoughts, mental models, and observations shared here represent educational 
 
 **Accuracy Limitations:** While efforts have been made to ensure accuracy of subnet data, market capitalizations, and emission percentages, this information represents a snapshot in time and may not reflect current conditions. Readers should verify all data independently through official Bittensor network sources.
 
-**Liability Protections:** The authors, publishers, and Sagix Apothecary assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
+**Liability Protections:** The authors and The Genesis Address Publishing LLC assume no responsibility for errors, omissions, or consequences arising from the use of this information. Users assume full responsibility for any decisions or actions taken based on this content.
 
 ### Intellectual Property
 
-**Original Analysis:** While this content draws upon publicly available information about the Bittensor network, the synthesis, thematic presentation, and allocation philosophy represent original analytical work by Sagix Apothecary.
+**Original Analysis:** While this content draws upon publicly available information about the Bittensor network, the synthesis, thematic presentation, and allocation philosophy represent original analytical work by The Genesis Address Publishing LLC.
 
-**Content Usage:** Readers may reference this content for educational purposes with proper attribution. Commercial use, redistribution, or republication requires express written permission from Sagix Apothecary.
+**Content Usage:** Readers may reference this content for educational purposes with proper attribution. Commercial use, redistribution, or republication requires express written permission from The Genesis Address Publishing LLC.
 
 ---
 
 **Publication Information  
 Last Updated:** November 5, 2025  
-**Series:** The Sagix Apothecary  
-**Publisher:** The Genesis Address LLC  
+**Series:** Sagix Research  
+**Publisher:** The Genesis Address Publishing LLC  
 **Website:** Sagix.io
 
 *This document may be updated periodically to reflect network changes, new subnet developments, or refinements to allocation frameworks. Readers should verify they are accessing the most current version.*
