@@ -9,7 +9,7 @@ topics: ["ethereum","eth","tokenomics","layer2"]
 internal_tags: ["#tokenomics"]
 ---
 
-*Ethereum Layer 2 (L2) solutions tackle the blockchain trilemma by significantly enhancing scalability while inheriting Ethereum's decentralization and security. The trilemma suggests blockchains face trade-offs between these three properties—decentralization, security, and scalability. Ethereum's base layer prioritizes the first two, achieving strong security through thousands of validators and maintaining decentralization, but this results in limited throughput (~15 TPS) and high fees during congestion.*
+*Ethereum Layer 2 (L2) solutions tackle the blockchain trilemma by significantly enhancing scalability while inheriting Ethereum's decentralization and security. The trilemma suggests blockchains face trade-offs between these three properties: decentralization, security, and scalability. Ethereum's base layer prioritizes the first two, achieving strong security through thousands of validators and maintaining decentralization, but this results in limited throughput (~15 TPS) and high fees during congestion.*
 
 *Leading L2 protocols have emerged to address these constraints through different approaches.*
 
@@ -37,4 +37,4 @@ internal_tags: ["#tokenomics"]
 
 *Specialized solutions like Immutable (IMX) optimize for gaming applications, while modular approaches like Mantle (MNT) combine rollup technology with data availability innovations.*
 
-*These L2s collectively achieve 1,000-10,000+ TPS across their networks while submitting compressed transaction data to Ethereum as the settlement layer. Rather than fully "resolving" the trilemma, this multi-layer architecture represents an elegant **optimization**—scaling throughput through specialized execution environments while leveraging Ethereum's established security and decentralization as the foundational trust layer. This ecosystem approach makes decentralized applications practically viable for mainstream adoption.*
+*These L2s collectively achieve 1,000-10,000+ TPS across their networks while submitting compressed transaction data to Ethereum as the settlement layer. Rather than fully "resolving" the trilemma, this multi-layer architecture represents an elegant **optimization**: scaling throughput through specialized execution environments while leveraging Ethereum's established security and decentralization as the foundational trust layer. This ecosystem approach makes decentralized applications practically viable for mainstream adoption.*

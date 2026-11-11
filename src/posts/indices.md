@@ -11,7 +11,7 @@ featured: true
 
 After 25 years of investing, the lessons that stick aren't about finding the next big winner. They're about avoiding the catastrophic losses that reset the clock on compounding. The Sagix indices represent our attempt to codify these lessons into a transparent, trackable framework.
 
-This isn't a product launch. We're not selling anything. What follows is documentation of how we personally allocate capital—published openly so others can learn from both our successes and our mistakes.
+This isn't a product launch. We're not selling anything. What follows is documentation of how we personally allocate capital, published openly so others can learn from both our successes and our mistakes.
 
 <figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/Ie5Oag06e-c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="18 December 2025"></iframe></figure>
 
@@ -19,7 +19,7 @@ This isn't a product launch. We're not selling anything. What follows is documen
 
 Concentration risk destroys wealth regardless of skill level. We've watched brilliant investors blow up because their "best idea" turned out to be wrong. Kodak employees held company stock. Enron employees held company stock. Smart people, concentrated bets, catastrophic outcomes.
 
-The uncomfortable truth: you cannot predict which of your positions will go to zero. You can only ensure that when it happens—and it will happen—the damage isn't fatal.
+The uncomfortable truth: you cannot predict which of your positions will go to zero. You can only ensure that when it happens (and it will happen), the damage isn't fatal.
 
 ## Three indices, one philosophy
 
@@ -27,11 +27,11 @@ The Sagix indices are built on a simple foundation: **survival over optimization
 
 The indices nest inside each other like matryoshka dolls:
 
-**🐢 Sagix Tortoise** — Conservative multi-asset allocation with 9% indirect crypto exposure. Global dividend equities, commodities, real estate, gold, and sector ETFs. This is the "sleep at night" portfolio. If crypto goes to zero tomorrow, Tortoise loses 9%. Painful, but not fatal.
+**🐢 Sagix Tortoise**: Conservative multi-asset allocation with 9% indirect crypto exposure. Global dividend equities, commodities, real estate, gold, and sector ETFs. This is the "sleep at night" portfolio. If crypto goes to zero tomorrow, Tortoise loses 9%. Painful, but not fatal.
 
-**🤖 Sagix Tech** — AI and technology growth blend with 30% crypto exposure. Combines institutional-grade AI/Tech ETFs with our DeFi allocation. For those who believe in the AI revolution but want exposure across both equity markets and on-chain protocols.
+**🤖 Sagix Tech**: AI and technology growth blend with 30% crypto exposure. Combines institutional-grade AI/Tech ETFs with our DeFi allocation. For those who believe in the AI revolution but want exposure across both equity markets and on-chain protocols.
 
-**🧪 Sagix Elixir** — Pure DeFi infrastructure. 36 tokens across 8 categories: ETH liquid staking, DeFi governance, Chainlink, yield-bearing stablecoins, Bitcoin, Bittensor AI network, and gold-backed tokens. This is the crypto-native allocation—100% on-chain, zero leverage, maximum diversification within the asset class.
+**🧪 Sagix Elixir**: Pure DeFi infrastructure. 36 tokens across 8 categories: ETH liquid staking, DeFi governance, Chainlink, yield-bearing stablecoins, Bitcoin, Bittensor AI network, and gold-backed tokens. This is the crypto-native allocation: 100% on-chain, zero leverage, maximum diversification within the asset class.
 
 The nesting works like this: Tortoise holds 30% in Tech. Tech holds 30% in Elixir. So Tortoise's 9% crypto exposure comes from 30% × 30% = 9%. One framework, three risk profiles.
 
@@ -57,7 +57,7 @@ We'll update monthly with full transparency on allocations, rebalancing decision
 
 ## Read the full methodology
 
-The complete breakdown—every holding, every weight, every benchmark—is available on our below. We've also published the technical infrastructure, risk comparisons, and the thinking behind each allocation decision.
+The complete breakdown (every holding, every weight, every benchmark) is available on our below. We've also published the technical infrastructure, risk comparisons, and the thinking behind each allocation decision.
 
 This is year one. Check back in a decade to see if the tortoise beats the hare.
 
@@ -687,7 +687,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                 <span class="brand-name">Sagix Apothecary</span>
             </div>
             <h1 class="main-title">Sagix Indices</h1>
-            <p class="subtitle">Three nested indices spanning conservative diversification to pure DeFi conviction—each built on the Sagix philosophy.</p>
+            <p class="subtitle">Three nested indices spanning conservative diversification to pure DeFi conviction, each built on the Sagix philosophy.</p>
         </header>
         <!-- Index Overview -->
         <div class="indices-grid">
@@ -719,7 +719,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
         <!-- About Sagix -->
         <section class="section">
             <h2 class="section-title">What is Sagix?</h2>
-            <p class="section-intro">Sagix Apothecary is an educational platform documenting one investor's approach to long-term wealth building. These indices represent a personal investment framework—publicly tracked for transparency and educational discussion.</p>
+            <p class="section-intro">Sagix Apothecary is an educational platform documenting one investor's approach to long-term wealth building. These indices represent a personal investment framework, publicly tracked for transparency and educational discussion.</p>
             <div class="about-grid">
                 <div class="about-card">
                     <h4>📚 Educational documentation</h4>
@@ -727,7 +727,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                 </div>
                 <div class="about-card">
                     <h4>🔍 Transparent tracking</h4>
-                    <p>We publish performance data, allocation changes, and methodology updates publicly. This transparency serves educational purposes—showing both successes and failures in real-time portfolio management.</p>
+                    <p>We publish performance data, allocation changes, and methodology updates publicly. This transparency serves educational purposes, showing both successes and failures in real-time portfolio management.</p>
                 </div>
                 <div class="about-card">
                     <h4>⏳ 25-year perspective</h4>
@@ -762,7 +762,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                     <span class="philosophy-icon">🌐</span>
                     <div class="philosophy-content">
                         <h4>True diversification</h4>
-                        <p>Diversified across asset classes, sectors, geographies—not just position count.</p>
+                        <p>Diversified across asset classes, sectors and geographies, not just position count.</p>
                     </div>
                 </div>
                 <div class="philosophy-item">
@@ -777,7 +777,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
         <!-- Compound Strategy -->
         <section class="section">
             <h2 class="section-title">Monthly laggard contributions</h2>
-            <p class="section-intro">Beyond the static index allocations, we employ a monthly contribution strategy that systematically adds capital to lagging assets—automating the "buy low" discipline.</p>
+            <p class="section-intro">Beyond the static index allocations, we employ a monthly contribution strategy that systematically adds capital to lagging assets, automating the "buy low" discipline.</p>
             <div class="compound-box">
                 <div class="compound-header">
                     <h3>Monthly laggard rebalancing</h3>
@@ -802,7 +802,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                     </div>
                 </div>
                 <div class="compound-note">
-                    <strong>Why laggard rebalancing?</strong> Concentration risk destroys wealth regardless of skill level. By systematically buying what's down, we enforce diversification discipline and avoid the behavioral trap of chasing performance. Time appears in the exponent of compound interest—the strategy is designed for decades, not quarters.
+                    <strong>Why laggard rebalancing?</strong> Concentration risk destroys wealth regardless of skill level. By systematically buying what's down, we enforce diversification discipline and avoid the behavioral trap of chasing performance. Time appears in the exponent of compound interest. The strategy is designed for decades, not quarters.
                 </div>
             </div>
         </section>
@@ -840,7 +840,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                         <p>9% indirect crypto exposure through nested allocation</p>
                     </div>
                 </div>
-                <p class="index-description">Combines global dividend equities, commodities, real estate, gold, and sector ETFs with a measured allocation to Sagix Tech—providing crypto upside while maintaining portfolio resilience.</p>
+                <p class="index-description">Combines global dividend equities, commodities, real estate, gold, and sector ETFs with a measured allocation to Sagix Tech, providing crypto upside while maintaining portfolio resilience.</p>
                 <div class="alloc-bar">
                     <div class="alloc-segment" style="width: 30%; background: #42a5f5;" title="Tech 30%"></div>
                     <div class="alloc-segment" style="width: 30%; background: #7e57c2;" title="Dividend 30%"></div>
@@ -884,7 +884,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                             <td><span class="color-dot" style="background: #ec407a;"></span>iShares UK Property</td>
                             <td class="ticker-label">IUKP</td>
                             <td class="weight-value">5%</td>
-                            <td>Real estate—UK</td>
+                            <td>Real estate, UK</td>
                         </tr>
                         <tr>
                             <td><span class="color-dot" style="background: #9ccc65;"></span>iShares MSCI World Energy</td>
@@ -896,7 +896,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                             <td><span class="color-dot" style="background: #26a69a;"></span>iShares US Property</td>
                             <td class="ticker-label">IUSP</td>
                             <td class="weight-value">5%</td>
-                            <td>Real estate—US</td>
+                            <td>Real estate, US</td>
                         </tr>
                         <tr>
                             <td><span class="color-dot" style="background: #ef5350;"></span>iShares US Healthcare</td>
@@ -987,7 +987,7 @@ This is year one. Check back in a decade to see if the tortoise beats the hare.
                         <p>36 tokens across 8 categories on Base</p>
                     </div>
                 </div>
-                <p class="index-description">A diversified basket of yield-generating stablecoins, liquid staking derivatives, DeFi governance tokens, oracle infrastructure, and Bittensor AI network exposure—designed as institutional-grade DeFi infrastructure.</p>
+                <p class="index-description">A diversified basket of yield-generating stablecoins, liquid staking derivatives, DeFi governance tokens, oracle infrastructure, and Bittensor AI network exposure, designed as institutional-grade DeFi infrastructure.</p>
                 <div class="alloc-bar">
                     <div class="alloc-segment" style="width: 20%; background: #5c6bc0;" title="ETH Staking 20%"></div>
                     <div class="alloc-segment" style="width: 20%; background: #7e57c2;" title="DeFi Gov 20%"></div>
@@ -1300,13 +1300,13 @@ Two reasons.
 
 First, accountability. Publishing forces rigor. When your decisions are public, you think harder before making them. The Sagix indices exist because writing them down made us confront our own assumptions.
 
-Second, education. The DeFi space is full of noise—leverage, yield farming, algorithmic stablecoins that implode. We think there's value in documenting a different approach: boring, diversified, long-term. If that resonates with even a few readers, the transparency is worth it.
+Second, education. The DeFi space is full of noise: leverage, yield farming, algorithmic stablecoins that implode. We think there's value in documenting a different approach: boring, diversified, long-term. If that resonates with even a few readers, the transparency is worth it.
 
 ---
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-druid-deep-dive-episode-5-the-panic-of-1837-portfolio-strategies-that-survived/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive episode 5: The panic of 1837: Portfolio strategies that survived and thrived</div><div class="kg-bookmark-description">When Jackson’s Specie Circular delegitimized paper money overnight, 40% of American banks failed. But investors in New England’s Suffolk Banking System survived. The parallels to SEC enforcement shocks and China crypto bans reveal timeless portfolio strategies for policy-induced volatility.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-51.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/752afe13-c3d4-4966-b84a-58d55bf12951.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056—not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-44.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-1.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056, not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-44.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-1.jpg" alt=""></div></a></figure>
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/modern-portfolio-construction-a-multi-asset-approach-for-the-digital-age/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Modern portfolio construction: A multi-asset approach for the digital age</div><div class="kg-bookmark-description">Integrating Traditional Wisdom with Contemporary Realities</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-45.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/71382bd5-a661-45db-b93f-af8593157505-3.jpg" alt=""></div></a></figure>
 

@@ -2,7 +2,7 @@
 title: "Sagix Miliarium Aureum"
 date: "2026-03-11T21:59:22.000Z"
 updated: "2026-03-16T13:14:09.000Z"
-excerpt: "Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers—yield drift, NAV, cross-anchor—for deeper liquidity and volume, beyond single-hub designs."
+excerpt: "Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers (yield drift, NAV, cross-anchor) for deeper liquidity and volume, beyond single-hub designs."
 feature_image: "/content/images/2026/03/Gemini_Generated_Image_g5arbug5arbug5ar.png"
 feature_image_caption: "The&nbsp;<strong>Milliarium Aureum</strong>&nbsp;(Latin for \"Golden Milestone\") was&nbsp;a monument erected by Emperor Augustus in 20 BC in the Roman Forum to serve as the symbolic \"point zero\" of the Roman Empire's road system. <i><strong class=\"italic\">\"Mille viae ducunt homines per saecula Romam\" (A thousand roads lead men forever to Rome). </strong></i>"
 topics: ["Sagix Apothecary"]
@@ -11,7 +11,7 @@ internal_tags: ["#sagix-apothecary"]
 
 **Dual-anchor AMMs and the small-world routing problem**
 
-> *"The real safe haven was never the asset. It was the market depth."* — The bank war: central vs. decentralized money, [sagix.io/decentralized-money](/decentralized-money/)
+> *"The real safe haven was never the asset. It was the market depth."* (The bank war: central vs. decentralized money, [sagix.io/decentralized-money](/decentralized-money/))
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/our-layer-framework/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The four-layer framework: a complete liquidity risk assessment for DeFi</div><div class="kg-bookmark-description">The complete DDD Episode 9 four-layer liquidity framework: pool depth, backstops, pipes, and hubs. From Jackson’s Bank War to Rothschild’s London nexus, 200 years of financial plumbing failures reveal what actually makes a DeFi position liquid under stress.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-134.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_8ctyua8ctyua8cty.png" alt=""></div></a></figure>
 
@@ -95,23 +95,23 @@ The Eurodollar system took two decades to reach critical mass. DeFi routing oper
 
 ---
 
-## **The Druid Deep Dive — Series Bibliography**
+## **The Druid Deep Dive: Series Bibliography**
 
 This article is part of the Druid Deep Dive series exploring historical parallels in monetary infrastructure. The full series is available at sagix.io:
 
-[Episode 3 — The Suffolk System: America’s First Clearing House](/episode-3-the-suffolk-system-americas-first-clearing-house/)
+[Episode 3, The Suffolk System: America’s First Clearing House](/episode-3-the-suffolk-system-americas-first-clearing-house/)
 
-[Episode 6 — The Panic of 1907: When One Man Became the Fed](/ddd6/)
+[Episode 6, The Panic of 1907: When One Man Became the Fed](/ddd6/)
 
-[Episode 7 — Baring Brothers: The Original “Too Big to Fail”](/baring/)
+[Episode 7, Baring Brothers: The Original “Too Big to Fail”](/baring/)
 
-[Episode 9, Part 1 — The Bank War: Central vs. Decentralized Money](/decentralized-money/)
+[Episode 9, Part 1, The Bank War: Central vs. Decentralized Money](/decentralized-money/)
 
-[Episode 9, Part 2 — The Eurodollar Shadow: When Dollars Escape Their Makers](/the-druid-deep-dive-episode-9-part-2-the-eurodollar-shadow-when-dollars-escape-their-makers/)
+[Episode 9, Part 2, The Eurodollar Shadow: When Dollars Escape Their Makers](/the-druid-deep-dive-episode-9-part-2-the-eurodollar-shadow-when-dollars-escape-their-makers/)
 
-[Episode 9, Part 3 — Eurodollar Mechanics and the Offshore Dollar Machine](/ddd-9-part-3/)
+[Episode 9, Part 3, Eurodollar Mechanics and the Offshore Dollar Machine](/ddd-9-part-3/)
 
-[Episode 9, Part 4 — From Eurodollars to DeFi: The Routing Thesis](/ddd9p4/)
+[Episode 9, Part 4, From Eurodollars to DeFi: The Routing Thesis](/ddd9p4/)
 
 [The Four-Layer Framework: A Complete Liquidity Risk Assessment for DeFi](/our-layer-framework/)
 

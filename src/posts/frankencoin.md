@@ -117,7 +117,7 @@ The dissertation provides formal analysis of:
 *   The game theory behind the oracle-free liquidation mechanism
 *   Quantitative risk assessment of Bitcoin as collateral
 *   The veto-based governance system
-*   The concept of "Continuous Capital Corporations" – companies that issue and redeem shares autonomously according to fixed rules
+*   The concept of "Continuous Capital Corporations": companies that issue and redeem shares autonomously according to fixed rules
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2026/01/e834a20c-faca-45f7-abb1-349359b2c4ba.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2026/01/e834a20c-faca-45f7-abb1-349359b2c4ba.jpg 600w, /content/images/size/w1000/2026/01/e834a20c-faca-45f7-abb1-349359b2c4ba.jpg 1000w, /content/images/2026/01/e834a20c-faca-45f7-abb1-349359b2c4ba.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
@@ -280,13 +280,13 @@ While audits reduce risk, they cannot eliminate it. A novel bug could still exis
 
 The Frankencoin system employs multiple layers of defense:
 
-1.  **No external oracle dependency** – eliminates manipulation vectors
-2.  **Overcollateralization** – provides buffer against price declines
-3.  **Multi-layered reserves** – losses absorbed in priority order
-4.  **Low governance threshold** – 2% can veto harmful proposals
-5.  **Holding duration requirements** – prevents flash loan governance attacks
-6.  **Multiple security audits** – reduces smart contract risk
-7.  **Swiss legal classification** – payment token status provides regulatory clarity
+1.  **No external oracle dependency**: eliminates manipulation vectors
+2.  **Overcollateralization**: provides buffer against price declines
+3.  **Multi-layered reserves**: losses absorbed in priority order
+4.  **Low governance threshold**: 2% can veto harmful proposals
+5.  **Holding duration requirements**: prevents flash loan governance attacks
+6.  **Multiple security audits**: reduces smart contract risk
+7.  **Swiss legal classification**: payment token status provides regulatory clarity
 
 ---
 

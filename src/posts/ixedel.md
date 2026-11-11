@@ -18,7 +18,7 @@ Mint ixedel here:
 
 ---
 
-*   **Resilient Portfolio Strategy**: Club Edelweiss (ixEDEL) uses risk parity to balance 40% yield-stablecoins, 20% tokenized gold, 20% Swiss Franc, and 20% Bitcoin for stability in any economic regime—inflation, deflation, growth, or stagnation.
+*   **Resilient Portfolio Strategy**: Club Edelweiss (ixEDEL) uses risk parity to balance 40% yield-stablecoins, 20% tokenized gold, 20% Swiss Franc, and 20% Bitcoin for stability in any economic regime: inflation, deflation, growth, or stagnation.
 *   **Crypto Upside with Reduced Risk**: Captures Bitcoin's potential with reduced through low-correlation assets, avoiding macro bets for engineered diversification.
 *   **Strong Performance Metrics**: Backtested Sharpe ratio of 1.24 (2020–2026) shows superior risk-adjusted returns compared to traditional holdings.
 *   **Transparent & Community-Driven**: On-chain Ethereum setup with yearly rebalancing via votes and a low 0.30% annual fee.
@@ -29,13 +29,13 @@ Mint ixedel here:
 
 Crypto investors face a familiar problem: the assets that deliver the highest returns also suffer the most devastating drawdowns. Bitcoin has historically dropped 75% or more during bear markets. Most portfolios built for growth become portfolios that struggle to survive.
 
-Club Edelweiss takes a different approach. Rather than chasing maximum returns, the strategy pursues engineered resilience—delivering meaningful crypto upside while cutting worst drawdowns in half.
+Club Edelweiss takes a different approach. Rather than chasing maximum returns, the strategy pursues engineered resilience, delivering meaningful crypto upside while cutting worst drawdowns in half.
 
 <figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/d-_0XgoT8QA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="Introducing ixEdel, Amber seals. Edelweiss endures. ixEDEL preserves. Sleep at night"></iframe></figure>
 
 This is achieved through **risk parity principles applied on-chain**: balancing exposures across growth and inflation environments through yield-bearing stablecoins, tokenized gold, overcollateralized Swiss Franc exposure, and Bitcoin.
 
-The goal is not to outperform in bull markets. The goal is to still be standing—and compounding—after the bears have done their damage.
+The goal is not to outperform in bull markets. The goal is to still be standing, and compounding, after the bears have done their damage.
 
 ---
 
@@ -69,9 +69,9 @@ The portfolio allocates across four strategic buckets:
 
 **Yield-bearing stablecoins (40%)** The stablecoin allocation splits across three [yield vault positions](/stablecoin-yield-vaults/):
 
-*   **sUSDS (20%)** — Sky Protocol's savings rate
-*   **steakUSDC (15%)** — Steakhouse USDC vault
-*   **syrupUSDC (5%)** — Maple Finance USDC vault
+*   **sUSDS (20%)**: Sky Protocol's savings rate
+*   **steakUSDC (15%)**: Steakhouse USDC vault
+*   **syrupUSDC (5%)**: Maple Finance USDC vault
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/stablecoin-yield-vaults/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Stablecoin yield vaults: sUSDS, syrupUSDC, and steakUSDC</div><div class="kg-bookmark-description">Discover the booming stablecoin yield vaults: sUSDS (APY from protocol revenue &amp; RWAs), syrupUSDC (via institutional lending), and steakUSDC (through curated DeFi markets). Compare yields, risks, and strategies in our detailed guide. Grow your USD holdings</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-91.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/f17f9f39-a997-4e94-a731-a984cd57668d-3.jpg" alt=""></div></a></figure>
 
@@ -81,7 +81,7 @@ This tiered approach balances yield optimization against protocol concentration 
 
 ## **Understanding the Correlation Matrix**
 
-A correlation matrix reveals how assets move in relation to each other — the foundation of true diversification. When two assets have high correlation (close to 1.0), they rise and fall together, offering no protection when one crashes. When correlation is low or negative, one asset's decline is cushioned by another's stability or gain. The ixEDEL basket is constructed around this principle: Bitcoin and gold share a low 0.15 correlation despite both being "hard money" narratives; the Swiss franc moves inversely to the US dollar (-0.65); and yield-bearing stablecoins remain steady while volatile assets swing. This isn't accidental diversification — it's engineered resilience. The matrix below quantifies these relationships, showing why a 40% drawdown in Bitcoin doesn't translate to a 40% drawdown in the basket, and why rebalancing between uncorrelated assets generates alpha over time.
+A correlation matrix reveals how assets move in relation to each other, the foundation of true diversification. When two assets have high correlation (close to 1.0), they rise and fall together, offering no protection when one crashes. When correlation is low or negative, one asset's decline is cushioned by another's stability or gain. The ixEDEL basket is constructed around this principle: Bitcoin and gold share a low 0.15 correlation despite both being "hard money" narratives; the Swiss franc moves inversely to the US dollar (-0.65); and yield-bearing stablecoins remain steady while volatile assets swing. This isn't accidental diversification. It's engineered resilience. The matrix below quantifies these relationships, showing why a 40% drawdown in Bitcoin doesn't translate to a 40% drawdown in the basket, and why rebalancing between uncorrelated assets generates alpha over time.
 
 **Correlation Matrix of Assets**
 
@@ -161,7 +161,7 @@ No prediction is required. The portfolio simply holds assets that respond differ
 
 ## Historical performance context
 
-Backtesting the underlying asset allocation from 2020–2026 yields a **Sharpe ratio of 1.24**—indicating favorable risk-adjusted returns.
+Backtesting the underlying asset allocation from 2020–2026 yields a **Sharpe ratio of 1.24**, indicating favorable risk-adjusted returns.
 
 Important caveats:
 
@@ -264,7 +264,7 @@ Frankencoin, the Swiss franc stablecoin at the heart of ixEDEL's currency divers
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/sagix-miliarium-aureum/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix Miliarium Aureum</div><div class="kg-bookmark-description">Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers—yield drift, NAV, cross-anchor—for deeper liquidity and volume, beyond single-hub designs.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-139.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_g5arbug5arbug5ar-1.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/sagix-miliarium-aureum/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix Miliarium Aureum</div><div class="kg-bookmark-description">Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers (yield drift, NAV, cross-anchor) for deeper liquidity and volume, beyond single-hub designs.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-139.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_g5arbug5arbug5ar-1.png" alt=""></div></a></figure>
 
 ---
 
@@ -272,7 +272,7 @@ Frankencoin, the Swiss franc stablecoin at the heart of ixEDEL's currency divers
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/ixassets/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix Club Ecosystem: ixAssets</div><div class="kg-bookmark-description">Decentralized Token Folio (DTF) Product Family Chain: ETH mainnet | Protocol: Reserve.org | Version 16.2 | January 16, 2026 1. Investment Strategy &amp; Methodology 1.1 Investment Thesis The Sagix Club DTF ecosystem (ixAssets) consists of a series of nested Decentralized Token Folios (DTFs) deployed on the reserve.org protocol providing diversified</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-93.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/ixedel_regimes_v11_2x-1.png" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056—not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-95.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-3.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/december-2025-portfolio-review/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Our barbell portfolio in practice: December 2025 review</div><div class="kg-bookmark-description">December 2025 portfolio review: real positions, zero sales, only sacred buying. Six-layer barbell structure designed for 2036, 2046, 2056. Not getting rich quick in 2026. See exactly how we practice what we preach.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-95.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/tortoise1-3.jpg" alt=""></div></a></figure>
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/episode-8-brazilian-hyperinflation-the-ultimate-portfolio-stress-test-1980-1994/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive episode 8: Brazilian hyperinflation: The ultimate portfolio stress test (1980-1994)</div><div class="kg-bookmark-description">Brazil’s hyperinflation (1980-1994) stemmed from decentralized money creation - state banks could print currency. Terra LUNA’s collapse shows how DeFi protocols can trigger similar spirals when multiple mechanism can trigger token creation simultaneously.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-92.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/IMG_6419-8.PNG" alt=""></div></a></figure>
 

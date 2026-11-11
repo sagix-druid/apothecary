@@ -17,7 +17,7 @@ Most protocols below are available on both Ethereum mainnet and Layer 2 networks
 <div class="html-card">
 <!-- Ethereum DeFi Landing Page - Ghost Theme Friendly -->
 <h2>💱 Trading Protocols</h2>
-<p>Decentralized exchanges for spot and leveraged trading. From simple token swaps via AMM pools to advanced perpetual futures with high leverage—all without centralized intermediaries.</p>
+<p>Decentralized exchanges for spot and leveraged trading. From simple token swaps via AMM pools to advanced perpetual futures with high leverage, all without centralized intermediaries.</p>
 <table>
   <thead>
     <tr>

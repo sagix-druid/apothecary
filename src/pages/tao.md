@@ -2,14 +2,14 @@
 title: "Bittensor"
 date: "2025-11-10T21:38:30.000Z"
 updated: "2025-11-10T21:59:59.000Z"
-excerpt: "Discover Bittensor (TAO): Pioneering decentralized AI infrastructure with Bitcoin-inspired tokenomics—21M hard cap, deflationary halvings starting Dec 2025. 128+ subnets generate real revenue ($20M+ ARR). Backed by $350M+ institutions. Explore staking (14-20% APY) and ecosystem insights."
+excerpt: "Discover Bittensor (TAO): Pioneering decentralized AI infrastructure with Bitcoin-inspired tokenomics: 21M hard cap, deflationary halvings starting Dec 2025. 128+ subnets generate real revenue ($20M+ ARR). Backed by $350M+ institutions. Explore staking (14-20% APY) and ecosystem insights."
 feature_image: "/content/images/2025/11/btt.001-1.jpeg"
 topics: ["tao","bittensor"]
 internal_tags: ["#tao","#bittensor"]
 layout: scorecard.njk
 ---
 
-Bittensor (TAO) is revolutionizing the intersection of blockchain and artificial intelligence by establishing a decentralized marketplace for machine intelligence. Launched in 2021, it draws inspiration from Bitcoin's tokenomics, featuring a strict 21 million TAO hard cap and deflationary halvings—the first set for December 2025—to ensure scarcity and value. With over 128 specialized subnets powering tasks from AI model training to protein folding, Bittensor transforms computational resources into economically valuable outputs, backed by over $350 million from top investors like Polychain Capital and Digital Currency Group. This infrastructure not only offers staking yields of 14-20% APY but also positions TAO as a key player in the future of decentralized AI.
+Bittensor (TAO) is revolutionizing the intersection of blockchain and artificial intelligence by establishing a decentralized marketplace for machine intelligence. Launched in 2021, it draws inspiration from Bitcoin's tokenomics, featuring a strict 21 million TAO hard cap and deflationary halvings (the first set for December 2025) to ensure scarcity and value. With over 128 specialized subnets powering tasks from AI model training to protein folding, Bittensor transforms computational resources into economically valuable outputs, backed by over $350 million from top investors like Polychain Capital and Digital Currency Group. This infrastructure not only offers staking yields of 14-20% APY but also positions TAO as a key player in the future of decentralized AI.
 
 <!-- scorecard -->
 

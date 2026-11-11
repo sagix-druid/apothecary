@@ -19,7 +19,7 @@ This is what I’ve come to call suitability. It’s the profound realization th
 
 My grandfather’s story: A lesson that stuck with me
 
-I still think about my late grandfather’s experience. Back in 2005, when he was 78, a bank manager sold him a retirement plan with a tax advantage. In my opinion, the manager didn’t give proper attention to his life situation. My grandfather had a heart condition and received a significant tax break because of it — a detail that made a long-term, illiquid plan completely unsuitable for him.
+I still think about my late grandfather’s experience. Back in 2005, when he was 78, a bank manager sold him a retirement plan with a tax advantage. In my opinion, the manager didn’t give proper attention to his life situation. My grandfather had a heart condition and received a significant tax break because of it. That detail made a long-term, illiquid plan completely unsuitable for him.
 
 What I took from that was a deep distrust for the “one-size-fits-all” approach. I learned that a good financial plan should be a reflection of your life, not just the market.
 
@@ -43,6 +43,6 @@ I had learned to build a resilient financial plan that included an emergency fun
 
 My view on risk parity and personal suitability
 
-I’ve come to appreciate strategies like Ray Dalio’s risk parity portfolio. I see the value in its design — to perform well in any market season. It is, in my opinion, a great way to generate value over a long period of time.
+I’ve come to appreciate strategies like Ray Dalio’s risk parity portfolio. I see the value in its design: to perform well in any market season. It is, in my opinion, a great way to generate value over a long period of time.
 
 But I know, with absolute certainty, that even a strategy this well-conceived isn’t a silver bullet. A portfolio can be built for every market season, but my life, with its constant changes, requires a deeper, more personal form of suitability. It’s the most important lesson I’ve learned, and it’s what has allowed me to navigate my financial journey with a measure of peace.

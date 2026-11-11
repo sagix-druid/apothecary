@@ -13,7 +13,7 @@ topics: []
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Miliarium Aureum — Liquidity Deployment Calculator</title>
+<title>Miliarium Aureum: Liquidity Deployment Calculator</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=JetBrains+Mono:wght@400;500&display=swap');
   *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
@@ -695,7 +695,7 @@ function renderStake(poolUsd) {
   grid.innerHTML = active.map(p => {
     const btnHtml = p.auraUrl
       ? `<a href="${p.auraUrl}" target="_blank" rel="noopener noreferrer" class="btn-primary-lg">Stake on Aura ↗</a>`
-      : `<span class="btn-primary-lg" style="opacity:0.4;cursor:default;">Gauge pending — coming soon</span>`;
+      : `<span class="btn-primary-lg" style="opacity:0.4;cursor:default;">Gauge pending, coming soon</span>`;
     return `<div class="action-card">
       <div class="action-card-header">
         <span class="action-card-name">${p.name}</span>
@@ -722,7 +722,7 @@ recalc();
 </html>
 </div>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/sagix-miliarium-aureum/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix Miliarium Aureum</div><div class="kg-bookmark-description">Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers—yield drift, NAV, cross-anchor—for deeper liquidity and volume, beyond single-hub designs.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-141.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_g5arbug5arbug5ar-3.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/sagix-miliarium-aureum/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix Miliarium Aureum</div><div class="kg-bookmark-description">Discover dual-anchor AMMs on Balancer V3: Inspired by Eurodollar hubs, they form small-world networks for resilient DeFi routing. Unlock three arbitrage layers (yield drift, NAV, cross-anchor) for deeper liquidity and volume, beyond single-hub designs.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-141.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_g5arbug5arbug5ar-3.png" alt=""></div></a></figure>
 
 ---
 

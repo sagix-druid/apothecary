@@ -9,14 +9,14 @@ internal_tags: ["#solana","#defi"]
 layout: live-tvl.njk
 ---
 
-Solana's high-performance architecture enables DeFi protocols that operate at speeds approaching centralized exchanges—processing 65,000+ theoretical transactions per second with sub-second finality and fees typically under $0.01. This performance advantage has attracted a thriving DeFi ecosystem with $8+ billion in TVL across trading, lending, and liquid staking.
+Solana's high-performance architecture enables DeFi protocols that operate at speeds approaching centralized exchanges, processing 65,000+ theoretical transactions per second with sub-second finality and fees typically under $0.01. This performance advantage has attracted a thriving DeFi ecosystem with $8+ billion in TVL across trading, lending, and liquid staking.
 
-Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimized Layer 1 design using Proof of History and parallel transaction processing. All protocols below operate on Solana mainnet, eliminating the need to bridge between networks. However, always verify token contract addresses and use official protocol interfaces to avoid counterfeit tokens—a particular concern in Solana's fast-moving memecoin culture.
+Unlike Ethereum's Layer 2 scaling approach, Solana achieves speed through optimized Layer 1 design using Proof of History and parallel transaction processing. All protocols below operate on Solana mainnet, eliminating the need to bridge between networks. However, always verify token contract addresses and use official protocol interfaces to avoid counterfeit tokens, a particular concern in Solana's fast-moving memecoin culture.
 
 <div class="html-card">
 <!-- Solana DeFi Landing Page - Ghost Theme Friendly -->
 <h2>💱 DEX Aggregators & Trading</h2>
-<p>Solana's high-speed infrastructure enables sophisticated trading platforms. From DEX aggregators routing across multiple liquidity sources to perpetual futures with up to 250x leverage—all with sub-second execution and minimal fees.</p>
+<p>Solana's high-speed infrastructure enables sophisticated trading platforms. From DEX aggregators routing across multiple liquidity sources to perpetual futures with up to 250x leverage, all with sub-second execution and minimal fees.</p>
 <table>
   <thead>
     <tr>

@@ -41,7 +41,7 @@ topics: []
 
 **Perfil:** Crescimento Balanceado.
 
-**O que é:** Uma composição 70/30 — 70% em Ethereum (gerando ~3% de staking) e 30% ancorado em ixEDEL.
+**O que é:** Uma composição 70/30: 70% em Ethereum (gerando ~3% de staking) e 30% ancorado em ixEDEL.
 
 **A Lógica:** É o "Ethereum com Cinto de Segurança". Se o ETH cair 50%, sua posição cai apenas ~35% devido à âncora defensiva. Permite que você mantenha a exposição à tese de tecnologia sem ser expulso do mercado pelo pânico.
 
@@ -75,7 +75,7 @@ O ixAqua então captura taxas de swap, juros de empréstimos e recompensas de go
 
 ---
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/investor-q-a/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix — Investor Q&amp;A</div><div class="kg-bookmark-description">Family Office · Conservative Professional · Fundo Multimercado Context March 2026 · Confidencial 1. O que você faz? (Quem é o Sérgio, e a Sagix?) Engenheiro com 25+ anos de experiência em investimentos, MBA pela FGV São Paulo. Construo fundos de índice onchain — como ETFs, mas sem banco, sem custódia de terceiros, sem</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-102.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_w3ojdxw3ojdxw3oj-1.png" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/investor-q-a/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Sagix: Investor Q&amp;A</div><div class="kg-bookmark-description">Family Office · Conservative Professional · Fundo Multimercado Context March 2026 · Confidencial 1. O que você faz? (Quem é o Sérgio, e a Sagix?) Engenheiro com 25+ anos de experiência em investimentos, MBA pela FGV São Paulo. Construo fundos de índice onchain, como ETFs, mas sem banco, sem custódia de terceiros, sem</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-102.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/Gemini_Generated_Image_w3ojdxw3ojdxw3oj-1.png" alt=""></div></a></figure>
 
 ## Legal disclaimers and disclosures
 

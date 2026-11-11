@@ -13,11 +13,11 @@ How Myth-Making Obscured the Real Causes of Financial System Failures (1837–18
 
 ### Historical setting: The birth of a financial myth
 
-For over a century, economic historians taught that America’s Free Banking Era proved decentralized finance was inherently chaotic. The conventional wisdom painted a picture of “**wildcat banks**” — fraudulent institutions supposedly established in remote locations where “only wildcats lived” to avoid note redemption \[1\]. This narrative became so entrenched that it shaped American monetary policy for generations, justifying both the National Banking System and later Federal Reserve creation \[2\].
+For over a century, economic historians taught that America’s Free Banking Era proved decentralized finance was inherently chaotic. The conventional wisdom painted a picture of “**wildcat banks**”: fraudulent institutions supposedly established in remote locations where “only wildcats lived” to avoid note redemption \[1\]. This narrative became so entrenched that it shaped American monetary policy for generations, justifying both the National Banking System and later Federal Reserve creation \[2\].
 
 The timing of these myths mattered enormously. The Free Banking Era coincided with multiple economic crises including the Panic of 1837, the recession of 1857, and Civil War disruptions \[3\]. Traditional historians attributed banking failures to the “inherent instability” of decentralized systems, creating a powerful intellectual foundation for centralized monetary control \[4\].
 
-What makes this myth remarkable is how completely it was demolished by modern quantitative analysis, yet how persistent it remains in popular understanding \[5\]. The story of wildcat banking’s debunking represents one of the most dramatic reversals in American economic historiography — and offers crucial insights for evaluating modern DeFi protocol failures \[6\].
+What makes this myth remarkable is how completely it was demolished by modern quantitative analysis, yet how persistent it remains in popular understanding \[5\]. The story of wildcat banking’s debunking represents one of the most dramatic reversals in American economic historiography, and offers crucial insights for evaluating modern DeFi protocol failures \[6\].
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1--zwxblczelzzatys7bszqa-jpeg.jpg" class="kg-image" alt="" loading="lazy" width="720" height="960" srcset="/content/images/size/w600/2025/09/1--zwxblczelzzatys7bszqa-jpeg.jpg 600w, /content/images/2025/09/1--zwxblczelzzatys7bszqa-jpeg.jpg 720w" sizes="(min-width: 720px) 720px"><figcaption>Modern econometric analysis revealed truths that challenged a century of economic historiography about “wildcat banking” failures.</figcaption></figure>
 
@@ -31,11 +31,11 @@ The political economy context shaped both the original myths and their persisten
 
 **Hugh Rockoff** began the revisionist revolution with his 1974 paper “The Free Banking Era: A Reexamination,” questioning whether free banking was truly the disaster portrayed in earlier accounts \[13\]. His work opened the door for more sophisticated analysis but lacked the comprehensive database needed for definitive conclusions \[14\]. Rockoff’s preliminary findings suggested that the conventional narrative might be fundamentally flawed, but proving this required systematic data collection \[15\].
 
-**Arthur Rolnick and Warren Weber** — Minneapolis Federal Reserve economists who conducted the breakthrough research that demolished wildcat banking myths \[16\]. Their painstaking construction of databases using individual bank records from state auditor reports revealed that **79% of bank failures resulted from falling state bond prices rather than fraud or mismanagement** \[17\]. This finding completely overturned a century of economic historiography \[18\].
+**Arthur Rolnick and Warren Weber**, Minneapolis Federal Reserve economists, conducted the breakthrough research that demolished wildcat banking myths \[16\]. Their painstaking construction of databases using individual bank records from state auditor reports revealed that **79% of bank failures resulted from falling state bond prices rather than fraud or mismanagement** \[17\]. This finding completely overturned a century of economic historiography \[18\].
 
 **Gary Gorton** provided the theoretical framework explaining how market mechanisms actually prevented wildcat banking through reputation formation and information systems \[19\]. His research demonstrated that note brokers and banknote reporters created sophisticated market discipline that made fraud unprofitable \[20\]. Gorton’s work showed how **decentralized information networks could effectively monitor institutional risk** \[21\].
 
-**State Bank Examiners** — the unsung heroes whose detailed records enabled modern revisionist analysis. These professional regulators documented bank conditions, asset quality, and failure causes with remarkable precision that allowed twentieth-century economists to reconstruct the true story \[22\]. Without their meticulous documentation, the myths might have persisted indefinitely \[23\].
+**State Bank Examiners** were the unsung heroes whose detailed records enabled modern revisionist analysis. These professional regulators documented bank conditions, asset quality, and failure causes with remarkable precision that allowed twentieth-century economists to reconstruct the true story \[22\]. Without their meticulous documentation, the myths might have persisted indefinitely \[23\].
 
 **Contemporary Financial Media** of the 1800s contributed to myth formation through sensationalized reporting of bank failures while ignoring successful institutions \[24\]. The pattern of emphasizing dramatic failures while understating systematic success would repeat in modern DeFi coverage \[25\].
 
@@ -65,7 +65,7 @@ The wildcat banking myth offers crucial insights for understanding modern DeFi p
 
 **External Shock Misattribution**: Just as 79% of free banking failures resulted from bond price collapses rather than fraud, many high-profile DeFi protocol failures during market crashes stem from external liquidity crunches rather than fundamental protocol flaws. The May 2022 Terra LUNA collapse triggered dozens of protocol failures that were attributed to “DeFi instability” rather than systemic leveraged positions \[41\].
 
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1-lubgy8zidtggw76lxtfyia-jpeg.jpg" class="kg-image" alt="" loading="lazy" width="720" height="960" srcset="/content/images/size/w600/2025/09/1-lubgy8zidtggw76lxtfyia-jpeg.jpg 600w, /content/images/2025/09/1-lubgy8zidtggw76lxtfyia-jpeg.jpg 720w" sizes="(min-width: 720px) 720px"><figcaption>Modern data analysis reveals that DeFi protocol failures often result from market stress rather than internal design flaws — echoing 1837’s&nbsp;patterns</figcaption></figure>
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1-lubgy8zidtggw76lxtfyia-jpeg.jpg" class="kg-image" alt="" loading="lazy" width="720" height="960" srcset="/content/images/size/w600/2025/09/1-lubgy8zidtggw76lxtfyia-jpeg.jpg 600w, /content/images/2025/09/1-lubgy8zidtggw76lxtfyia-jpeg.jpg 720w" sizes="(min-width: 720px) 720px"><figcaption>Modern data analysis reveals that DeFi protocol failures often result from market stress rather than internal design flaws, echoing 1837’s&nbsp;patterns</figcaption></figure>
 
 **Fraud vs. System Failure Confusion**: The wildcat banking myth parallels how modern media often conflates genuine protocol exploits with market-driven failures. Protocols failing during extreme volatility due to liquidation cascades or oracle price delays get grouped with actual rug pulls and exploits, creating misleading risk assessments \[42\]. The March 2020 MakerDAO liquidation crisis was initially attributed to protocol design flaws rather than unprecedented market volatility \[43\].
 
@@ -113,7 +113,7 @@ The free banking era’s revisionist scholarship demonstrates that sophisticated
 
 **Crisis Attribution Patterns**: Understanding how external shocks drive clustering of failures helps modern investors distinguish between systemic market risk and protocol-specific risk. When multiple protocols fail simultaneously during market stress, the cause likely involves external conditions rather than individual protocol flaws \[71\].
 
-**Next Episode Preview**: Episode 3 examines how the Suffolk Banking System achieved remarkable stability through voluntary private coordination — demonstrating how market-based clearing mechanisms can outperform centralized alternatives and offering direct lessons for modern cross-chain bridges and DEX aggregator protocols.
+**Next Episode Preview**: Episode 3 examines how the Suffolk Banking System achieved remarkable stability through voluntary private coordination, demonstrating how market-based clearing mechanisms can outperform centralized alternatives and offering direct lessons for modern cross-chain bridges and DEX aggregator protocols.
 
 ---
 
@@ -122,7 +122,7 @@ The free banking era’s revisionist scholarship demonstrates that sophisticated
 </div>
 
 <div class="html-card">
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-context-of-crypto-assets-in-modern-total-investment-portfolio/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Context of Crypto assets in Modern Total Investment Portfolio</div><div class="kg-bookmark-description">The principle of diversification — distributing investments across various assets to manage risk — is a foundational…</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-5lgjp8xg0ogty6u6.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-context-of-crypto-assets-in-modern-total-investment-portfolio/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Context of Crypto assets in Modern Total Investment Portfolio</div><div class="kg-bookmark-description">The principle of diversification, distributing investments across various assets to manage risk, is a foundational…</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-5lgjp8xg0ogty6u6.jpg" alt=""></div></a></figure>
 </div>
 
 ### Sources and references
@@ -289,4 +289,4 @@ The free banking era’s revisionist scholarship demonstrates that sophisticated
 
 **Contemporary Financial Systems**: References to modern financial systems, cryptocurrency protocols, or DeFi mechanisms are made for educational comparison purposes only. These comparisons do not constitute endorsements, recommendations, or predictions about the performance or suitability of any current financial products or services.
 
-*The Druid Deep Dive is presented by Sagix Apothecary — crafting sophisticated portfolio strategies through the wisdom of financial history.*
+*The Druid Deep Dive is presented by Sagix Apothecary, crafting sophisticated portfolio strategies through the wisdom of financial history.*

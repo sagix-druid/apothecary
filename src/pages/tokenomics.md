@@ -4,7 +4,7 @@ date: "2025-09-22T17:55:13.000Z"
 updated: "2026-01-16T20:40:37.000Z"
 excerpt: "Explore our digital rolodex of tokenomics cheat sheets for major cryptos like Bitcoin and Ethereum. Get quick summaries on supply, distribution, utility, and incentives to kickstart your blockchain research and smart investing. Your go-to for grasping crypto economics fast!"
 feature_image: "/content/images/2025/09/rolodex1.jpg"
-feature_image_caption: "<em>Unlock the secrets of crypto economies: Dive into our digital Rolodex of Tokenomics cards for major chains – Your gateway to informed research and Insights!</em>"
+feature_image_caption: "<em>Unlock the secrets of crypto economies: Dive into our digital Rolodex of Tokenomics cards for major chains. Your gateway to informed research and Insights!</em>"
 topics: ["tokenomics"]
 internal_tags: ["#tokenomics"]
 layout: tokenomics.njk

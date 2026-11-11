@@ -131,7 +131,7 @@ When users deposit USDC into Syrup, they receive syrupUSDC tokens representing t
 
 **Collateralization requirements**: Loans are overcollateralized at 120-170%, primarily backed by BTC, ETH, and stablecoins. Collateral is held in custody with institutional partners including Anchorage, BitGo, and Copper through tri-party agreements.
 
-**Active margin management**: Maple's credit team monitors collateral values in real-time and issues automatic margin calls as positions approach liquidation thresholds. During the October 10, 2025 volatility event—the largest liquidation event in crypto history with $19 billion unwound across exchanges—Maple processed nine margin calls with zero liquidations and zero losses \[9\].
+**Active margin management**: Maple's credit team monitors collateral values in real-time and issues automatic margin calls as positions approach liquidation thresholds. During the October 10, 2025 volatility event (the largest liquidation event in crypto history, with $19 billion unwound across exchanges), Maple processed nine margin calls with zero liquidations and zero losses \[9\].
 
 ### Underlying stablecoin
 
@@ -161,13 +161,13 @@ syrupUSDC operates across Ethereum, Solana (via Chainlink CCIP), and Arbitrum. M
 
 ### Yield mechanism
 
-steakUSDC represents Steakhouse Financial's USDC vault on Morpho, generating yield by lending deposits against blue-chip crypto and real-world asset collateral. Unlike Maple's centralized underwriting, Steakhouse operates as a "curator"—an independent risk expert who allocates deposits across Morpho's permissionless lending markets without taking custody of funds.
+steakUSDC represents Steakhouse Financial's USDC vault on Morpho, generating yield by lending deposits against blue-chip crypto and real-world asset collateral. Unlike Maple's centralized underwriting, Steakhouse operates as a "curator": an independent risk expert who allocates deposits across Morpho's permissionless lending markets without taking custody of funds.
 
 The vault employs what Steakhouse calls a "dual engine" approach, dynamically allocating between crypto-backed markets (lending against BTC, ETH, liquid staking tokens) and RWA-backed markets (lending against tokenized Treasury bills and private credit) depending on market conditions \[12\]. Current yields range from 4-10.8% APY based on borrowing demand and market allocation.
 
 **Morpho's infrastructure**: Morpho operates as a permissionless lending protocol where anyone can create isolated markets with specific collateral, loan assets, liquidation thresholds, and interest rate models. Each market operates independently, containing risks within its boundaries rather than pooling across a shared liquidity layer like Aave or Compound \[13\].
 
-**Curator role**: Steakhouse selects which Morpho markets to include in the vault, sets allocation weights, and manages rebalancing. They earn fees (typically 0-10% of yield) for this curation service. Critically, curators cannot withdraw user funds—their control is limited to capital allocation decisions within predetermined parameters \[14\].
+**Curator role**: Steakhouse selects which Morpho markets to include in the vault, sets allocation weights, and manages rebalancing. They earn fees (typically 0-10% of yield) for this curation service. Critically, curators cannot withdraw user funds. Their control is limited to capital allocation decisions within predetermined parameters \[14\].
 
 ### Underlying stablecoin
 
@@ -177,7 +177,7 @@ Like syrupUSDC, steakUSDC is backed by USDC deposits plus accrued yield. The tok
 
 Steakhouse vaults are non-custodial throughout the stack. User deposits flow directly into Morpho smart contracts, with Steakhouse controlling only allocation parameters. The vault includes protective features: a 7-day timelock for major changes and an Aragon DAO guardian enabling depositors to veto parameter modifications \[15\].
 
-Steakhouse has scaled to over $1.45 billion in total deposits across 48 vaults on Ethereum, Base, Polygon, Arbitrum, and other chains—representing 600% growth in 2025 \[16\]. The firm has established itself as the largest stablecoin risk curator on Morpho and powers yield products for Coinbase (USDC lending up to 10.8% APY), Trust Wallet, Bitget, and other major platforms \[17\].
+Steakhouse has scaled to over $1.45 billion in total deposits across 48 vaults on Ethereum, Base, Polygon, Arbitrum, and other chains, representing 600% growth in 2025 \[16\]. The firm has established itself as the largest stablecoin risk curator on Morpho and powers yield products for Coinbase (USDC lending up to 10.8% APY), Trust Wallet, Bitget, and other major platforms \[17\].
 
 ### Risk considerations
 
@@ -193,7 +193,7 @@ Steakhouse has scaled to over $1.45 billion in total deposits across 48 vaults o
 
 ### Yield source transparency
 
-sUSDS benefits from Sky's established revenue model but introduces RWA counterparty dependencies that add layers between depositors and yield generation. syrupUSDC offers the clearest yield attribution—interest from identifiable institutional borrowers with on-chain collateral verification. steakUSDC provides transparency into market allocations but abstracts yield across multiple Morpho markets with varying risk profiles.
+sUSDS benefits from Sky's established revenue model but introduces RWA counterparty dependencies that add layers between depositors and yield generation. syrupUSDC offers the clearest yield attribution: interest from identifiable institutional borrowers with on-chain collateral verification. steakUSDC provides transparency into market allocations but abstracts yield across multiple Morpho markets with varying risk profiles.
 
 ### Risk-return positioning
 
@@ -211,7 +211,7 @@ The stablecoin yield vault sector has matured beyond simple lending protocols in
 
 Each product makes distinct tradeoffs between yield, complexity, and risk exposure. Institutional allocators may prefer syrupUSDC's familiar credit structure and active management. Users prioritizing decentralization and governance participation may favor sUSDS and its Sky ecosystem integration. Those seeking flexible, non-custodial yield optimization across market conditions may find steakUSDC's curated approach compelling.
 
-The competitive dynamics between these products—and their interaction with traditional Treasury yields—will likely shape the next phase of onchain fixed income development. As institutional adoption accelerates and regulatory frameworks clarify, yield-bearing stablecoins are positioning to capture meaningful share of the multi-trillion dollar money market fund industry.
+The competitive dynamics between these products (and their interaction with traditional Treasury yields) will likely shape the next phase of onchain fixed income development. As institutional adoption accelerates and regulatory frameworks clarify, yield-bearing stablecoins are positioning to capture meaningful share of the multi-trillion dollar money market fund industry.
 
 ---
 
@@ -233,7 +233,7 @@ The competitive dynamics between these products—and their interaction with tra
 
 \[4\] Messari. "Sky Protocol Annual State Report 2025."
 
-\[5\] pp.one. "sUSDS – the interest-accruing USDS derivative." June 11, 2025.
+\[5\] pp.one. "sUSDS: the interest-accruing USDS derivative." June 11, 2025.
 
 \[6\] Maple Finance. "syrupUSDC and syrupUSDT: Built for Scale." December 2025.
 

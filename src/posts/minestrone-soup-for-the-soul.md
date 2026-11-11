@@ -2,32 +2,32 @@
 title: "Minestrone soup for the soul"
 date: "2025-09-16T13:25:15.000Z"
 updated: "2025-09-16T13:25:15.000Z"
-excerpt: "Just like thyme and Parmesan are magical together but terrible alone, successful investing is about blending quality assets in the right proportions—buying laggards, avoiding hype, and trusting the recipe over timing the market.”"
+excerpt: "Just like thyme and Parmesan are magical together but terrible alone, successful investing is about blending quality assets in the right proportions: buying laggards, avoiding hype, and trusting the recipe over timing the market.”"
 feature_image: "/content/images/2025/09/WhatsApp-Image-2025-09-15-at-16.12.09.jpeg"
 feature_image_caption: "<em>Minestrone soup: The magic isn't in any single ingredient, but in how they blend together</em>"
 topics: ["Sagix Apothecary"]
 internal_tags: ["#sagix-apothecary"]
 ---
 
-*Love your assets, trust the recipe—seek quality, shun hype*
+*Love your assets, trust the recipe: seek quality, shun hype*
 
-In Johannes Mario Simmel’s brilliant 1960s spy novel “It Can’t Always Be Caviar,” the protagonist Thomas Lieven—a reluctant banker-turned-agent working simultaneously for German, British, French, and American intelligence—found solace in cooking during his most stressful moments. Between narrow escapes and double-crosses across wartime Europe, Lieven would retreat to whatever kitchen he could find, preparing elaborate meals with meticulous attention to detail. The book famously included actual working recipes, transforming moments of anxiety into acts of creation, turning chaos into harmony through the ancient alchemy of combining simple ingredients into something greater than their sum.
+In Johannes Mario Simmel’s brilliant 1960s spy novel “It Can’t Always Be Caviar,” the protagonist Thomas Lieven, a reluctant banker-turned-agent working simultaneously for German, British, French, and American intelligence, found solace in cooking during his most stressful moments. Between narrow escapes and double-crosses across wartime Europe, Lieven would retreat to whatever kitchen he could find, preparing elaborate meals with meticulous attention to detail. The book famously included actual working recipes, transforming moments of anxiety into acts of creation, turning chaos into harmony through the ancient alchemy of combining simple ingredients into something greater than their sum.
 
 ---
 
 ## The eureka moment
 
-I experienced my own version of this revelation recently while enjoying a bowl of minestrone soup. The flavor was extraordinary—each spoonful a perfect symphony of tastes that made me pause mid-bite. As I savored the earthy thyme and the sharp, nutty richness of Parmesan cheese, I found myself thinking: *I absolutely love thyme and Parmesan.*
+I experienced my own version of this revelation recently while enjoying a bowl of minestrone soup. The flavor was extraordinary, each spoonful a perfect symphony of tastes that made me pause mid-bite. As I savored the earthy thyme and the sharp, nutty richness of Parmesan cheese, I found myself thinking: *I absolutely love thyme and Parmesan.*
 
-But then a curious thought struck me. If I were to simply eat those two ingredients together—a sprig of thyme and a chunk of Parmesan—the experience would be disgusting. Revolting, even. The very ingredients that were creating such joy in this moment would be completely unappealing in isolation.
+But then a curious thought struck me. If I were to simply eat those two ingredients together (a sprig of thyme and a chunk of Parmesan), the experience would be disgusting. Revolting, even. The very ingredients that were creating such joy in this moment would be completely unappealing in isolation.
 
 ---
 
 ## The alchemy of proportion
 
-What made that minestrone transcendent wasn’t any single ingredient, no matter how much I loved it. It was the careful orchestration of elements: fresh vegetables, proper proportions, precise cooking times, and—crucially—the right pH balance that allowed the herbs to truly shine. The acidity of the tomatoes, when properly managed, didn’t overwhelm the delicate herb flavors but rather created the perfect chemical environment for them to express their full aromatic potential.
+What made that minestrone transcendent wasn’t any single ingredient, no matter how much I loved it. It was the careful orchestration of elements: fresh vegetables, proper proportions, precise cooking times, and, crucially, the right pH balance that allowed the herbs to truly shine. The acidity of the tomatoes, when properly managed, didn’t overwhelm the delicate herb flavors but rather created the perfect chemical environment for them to express their full aromatic potential.
 
-The thyme needed the earthy backdrop of cannellini beans, the sweetness of perfectly sautéed carrots, the savory depth of good stock, and the rich umami finish of aged Parmesan. Each component was essential, but none was sufficient alone. The magic happened in the spaces between ingredients—in the careful selection of fresh vegetables, the gentle heat, the patient layering of flavors.
+The thyme needed the earthy backdrop of cannellini beans, the sweetness of perfectly sautéed carrots, the savory depth of good stock, and the rich umami finish of aged Parmesan. Each component was essential, but none was sufficient alone. The magic happened in the spaces between ingredients: in the careful selection of fresh vegetables, the gentle heat, the patient layering of flavors.
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/WhatsApp-Image-2025-09-15-at-16.17.21.jpeg" class="kg-image" alt="" loading="lazy" width="768" height="576" srcset="/content/images/size/w600/2025/09/WhatsApp-Image-2025-09-15-at-16.17.21.jpeg 600w, /content/images/2025/09/WhatsApp-Image-2025-09-15-at-16.17.21.jpeg 768w" sizes="(min-width: 720px) 720px"><figcaption><em>Quality ingredients, measured proportions - the foundation of every great recipe</em></figcaption></figure>
 
@@ -35,15 +35,15 @@ The thyme needed the earthy backdrop of cannellini beans, the sweetness of perfe
 
 ## Portfolio alchemy
 
-This realization struck me as profoundly relevant to portfolio construction and the philosophy behind our Sagix Apothecary Strategy. Just as I might love a particular asset class or individual investment, it’s rarely that lasting wealth comes the overhyped asset. It’s the careful blending—the portfolio equivalent of that perfect minestrone recipe.
+This realization struck me as profoundly relevant to portfolio construction and the philosophy behind our Sagix Apothecary Strategy. Just as I might love a particular asset class or individual investment, it’s rarely that lasting wealth comes the overhyped asset. It’s the careful blending, the portfolio equivalent of that perfect minestrone recipe.
 
-Consider how this principle applies to **portfolio construction**: You might have tremendous conviction about technology stocks, or hold deep appreciation for the inflation-hedging properties of commodities, or admire the steady income of REITs and the safe haven of bonds. But loving any single asset class is like loving thyme and Parmesan—wonderful in the right context, potentially disastrous in isolation.
+Consider how this principle applies to **portfolio construction**: You might have tremendous conviction about technology stocks, or hold deep appreciation for the inflation-hedging properties of commodities, or admire the steady income of REITs and the safe haven of bonds. But loving any single asset class is like loving thyme and Parmesan: wonderful in the right context, potentially disastrous in isolation.
 
-The art lies in **systematic discipline** rather than market timing. When an asset class underperforms and falls below its target allocation, that’s when we add more—like adding an extra pinch of salt or pepper after tasting the soup mid-cooking. We don’t try to time when each ingredient will taste best; we maintain proper proportions and trust the recipe.
+The art lies in **systematic discipline** rather than market timing. When an asset class underperforms and falls below its target allocation, that’s when we add more, like adding an extra pinch of salt or pepper after tasting the soup mid-cooking. We don’t try to time when each ingredient will taste best; we maintain proper proportions and trust the recipe.
 
-The art lies in understanding how these financial “ingredients” interact under different market conditions. Quality companies with strong fundamentals, like fresh vegetables, provide the foundation. Right proportions—proper position sizing relative to risk and correlation—ensure no single element overwhelms the others. Systematic discipline, like following a proven recipe consistently, maintains the integrity of the strategy through different market seasons.
+The art lies in understanding how these financial “ingredients” interact under different market conditions. Quality companies with strong fundamentals, like fresh vegetables, provide the foundation. Right proportions (proper position sizing relative to risk and correlation) ensure no single element overwhelms the others. Systematic discipline, like following a proven recipe consistently, maintains the integrity of the strategy through different market seasons.
 
-Most critically, just as the pH balance of that soup allowed the herbs to shine, the **risk-adjusted balance** of a portfolio creates the environment where each asset class can contribute its unique properties without destroying the harmony of the whole. And just as a good cook doesn’t chase exotic ingredients but focuses on quality staples, successful investing means buying assets built to last, then systematically adding to whichever asset classes have fallen below their target allocations—buying low when others are selling, not chasing performance.
+Most critically, just as the pH balance of that soup allowed the herbs to shine, the **risk-adjusted balance** of a portfolio creates the environment where each asset class can contribute its unique properties without destroying the harmony of the whole. And just as a good cook doesn’t chase exotic ingredients but focuses on quality staples, successful investing means buying assets built to last, then systematically adding to whichever asset classes have fallen below their target allocations, buying low when others are selling, not chasing performance.
 
 ---
 
@@ -51,7 +51,7 @@ Most critically, just as the pH balance of that soup allowed the herbs to shine,
 
 Here’s how I think about constructing portfolios using the minestrone principle - a way of thinking that can work in any market season, just as good minestrone can be savored year-round with the right ingredients:
 
-**Base layer (the soffritto)**: Core equity exposure provides the fundamental flavor profile—the onions, carrots, and celery that create depth and foundation.
+**Base layer (the soffritto)**: Core equity exposure provides the fundamental flavor profile: the onions, carrots, and celery that create depth and foundation.
 
 **Stabilizing elements**: Bonds and defensive assets, like dried herbs, provide consistency and can weather volatility throughout the entire cooking process.
 
@@ -59,7 +59,7 @@ Here’s how I think about constructing portfolios using the minestrone principl
 
 **Diversifying additions**: Alternative investments and uncorrelated assets, like that final grating of Parmesan, enhance the overall experience when maintained at proper proportions.
 
-**Systematic rebalancing**: Like following a proven recipe consistently, we add more of whichever ingredients have become underweight—buying the laggards when they’re below target allocation, not chasing the ingredients that are currently popular or expensive.
+**Systematic rebalancing**: Like following a proven recipe consistently, we add more of whichever ingredients have become underweight, buying the laggards when they’re below target allocation, not chasing the ingredients that are currently popular or expensive.
 
 The result isn’t about finding the perfect ingredient but about creating the **perfect blend**. It’s about understanding that great returns, like great soup, emerge from the careful orchestration of components that might be unremarkable on their own. This approach to portfolio construction can work across different market environments, just as minestrone remains satisfying whether served on a cold winter day or a warm summer evening.
 
@@ -106,7 +106,7 @@ The result isn’t about finding the perfect ingredient but about creating the *
 
 **Key insight**: Great minestrone comes from quality ingredients and following a proven recipe consistently, not from trying to time when each ingredient is at its absolute peak. Just like in portfolio management, success comes from systematic discipline and buying quality assets when they’re undervalued, not from trying to time the market.
 
-Sometimes the most profound insights come from the simplest experiences. That perfect bowl of minestrone reminded me that excellence—whether in cooking or investing—isn’t about finding the one perfect ingredient or timing the market perfectly. It’s about understanding how good things work together, creating harmony from diversity, following proven principles consistently, and having the discipline to buy quality when it’s out of favor rather than chasing whatever’s currently popular.
+Sometimes the most profound insights come from the simplest experiences. That perfect bowl of minestrone reminded me that excellence, whether in cooking or investing, isn’t about finding the one perfect ingredient or timing the market perfectly. It’s about understanding how good things work together, creating harmony from diversity, following proven principles consistently, and having the discipline to buy quality when it’s out of favor rather than chasing whatever’s currently popular.
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/life-in-waves-my-journey-to-understanding-suitability/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Life in waves: My journey to understanding suitability</div><div class="kg-bookmark-description">Life in Cycles: My Journey to Understanding Suitability</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/waves.jpg" alt=""></div></a></figure>
 

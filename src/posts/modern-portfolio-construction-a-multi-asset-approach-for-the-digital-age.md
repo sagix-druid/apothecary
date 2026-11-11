@@ -16,11 +16,11 @@ The modern investor must embrace complexity while adhering to timeless principle
 
 Executive summary
 
-This white paper presents a comprehensive framework for modern portfolio construction that bridges traditional investment wisdom with the realities of today’s digital asset landscape. By applying the time-tested principles of legendary investors — Ray Dalio’s risk parity approach, Peter Lynch’s understanding of what you own, and Warren Buffett’s focus on long-term value — we construct a portfolio methodology that addresses the unique challenges facing US investors in 2025.
+This white paper presents a comprehensive framework for modern portfolio construction that bridges traditional investment wisdom with the realities of today’s digital asset landscape. By applying the time-tested principles of legendary investors (Ray Dalio’s risk parity approach, Peter Lynch’s understanding of what you own, and Warren Buffett’s focus on long-term value), we construct a portfolio methodology that addresses the unique challenges facing US investors in 2025.
 
 The analysis reveals that while digital assets have introduced new correlation dynamics, the fundamental principles of diversification remain unchanged: true portfolio resilience comes not from owning many assets, but from owning assets that respond differently to various economic environments.
 
-Our key finding is the emergence of what we term the **“Global Risk-On Cluster”** — a highly correlated group consisting of US technology stocks, international developed markets, and digital assets that move in unison during liquidity cycles. This discovery necessitates a more nuanced approach to diversification that explicitly accounts for this modern reality.
+Our key finding is the emergence of what we term the **“Global Risk-On Cluster”**: a highly correlated group consisting of US technology stocks, international developed markets, and digital assets that move in unison during liquidity cycles. This discovery necessitates a more nuanced approach to diversification that explicitly accounts for this modern reality.
 
 ### Table of contents
 
@@ -38,7 +38,7 @@ Our key finding is the emergence of what we term the **“Global Risk-On Cluster
 
 #### Ray Dalio’s Risk Parity Wisdom
 
-Dalio’s fundamental insight remains as relevant today as ever: don’t try to predict the future; build a portfolio that can weather any economic season. The four economic environments — higher/lower than expected growth and inflation
+Dalio’s fundamental insight remains as relevant today as ever: don’t try to predict the future; build a portfolio that can weather any economic season. The four economic environments: higher/lower than expected growth and inflation
 
 These two factors can each be rising or falling, creating four potential economic “seasons” that a portfolio should be prepared to endure:
 
@@ -58,11 +58,11 @@ Lynch’s emphasis on understanding your investments takes on new meaning in the
 *   **Ethereum:** A utility token powering a decentralized computing platform.
 *   **Altcoins:** Highly speculative bets on emerging blockchain technologies.
 
-Lynch would likely classify most altcoins as “fast growers” with correspondingly high risk — suitable only for investors who thoroughly understand the underlying technology and market dynamics.
+Lynch would likely classify most altcoins as “fast growers” with correspondingly high risk, suitable only for investors who thoroughly understand the underlying technology and market dynamics.
 
 #### Warren Buffett’s long-term value focus
 
-Buffett’s skepticism of assets that don’t produce cash flows applies directly to digital assets. However, his broader principle — investing in assets with durable competitive advantages — can be adapted. Bitcoin’s network effects and first-mover advantage in digital scarcity represent what Buffett might recognize as an “economic moat” in the digital realm.
+Buffett’s skepticism of assets that don’t produce cash flows applies directly to digital assets. However, his broader principle, investing in assets with durable competitive advantages, can be adapted. Bitcoin’s network effects and first-mover advantage in digital scarcity represent what Buffett might recognize as an “economic moat” in the digital realm.
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2025/09/1-39rdfq_osnaa6vzfxoxpzw.png" class="kg-image" alt="" loading="lazy" width="471" height="260"><figcaption>Photo: Created by Author using&nbsp;AI</figcaption></figure>
 
@@ -183,7 +183,7 @@ Drawing from Lynch’s growth stock framework:
 *   **Conservative Investor:** 2–5% (treat as a small “fast grower” position)
 *   **Moderate Investor:** 5–10% (meaningful but not portfolio-determining position)
 *   **Aggressive Investor:** 10–20% (significant growth allocation)
-*   **Buffett’s Perspective:** Any allocation above 5% requires conviction that you understand something about crypto that the market doesn’t — a high bar given the speculative nature of the asset class.
+*   **Buffett’s Perspective:** Any allocation above 5% requires conviction that you understand something about crypto that the market doesn’t. That is a high bar given the speculative nature of the asset class.
 
 #### Integration strategy
 
@@ -207,7 +207,7 @@ Drawing from Dalio’s risk parity philosophy, we propose a four-pillar approach
 *   Energy (XLE): 8–10%
 *   Real Estate (VNQ): 7–10%
 *   Gold (GLD): 5–8%
-*   *Rationale: These assets protect against unexpected inflation through different mechanisms — energy through commodity exposure, real estate through rent adjustments, and gold through monetary debasement protection.*
+*   *Rationale: These assets protect against unexpected inflation through different mechanisms: energy through commodity exposure, real estate through rent adjustments, and gold through monetary debasement protection.*
 *   **Pillar 3: Geographic Diversifier (15–20% allocation)**
 *   Emerging Markets (EWZ): 8–12%
 *   EM Real Estate (IFIX): 3–5%
@@ -317,7 +317,7 @@ Synthesizing the insights above, we propose three model portfolios:
 #### The timeless principles ppplied
 
 *   **Ray Dalio’s risk parity:** Build for resilience across economic seasons, not for prediction of specific outcomes.
-*   **Peter Lynch’s Understanding:** Know what you own — especially critical for crypto assets where the technology and use cases are evolving rapidly.
+*   **Peter Lynch’s Understanding:** Know what you own, which is especially critical for crypto assets where the technology and use cases are evolving rapidly.
 *   **Warren Buffett’s Patience:** Maintain long-term focus despite the short-term volatility introduced by digital assets.
 
 #### Future considerations
@@ -331,7 +331,7 @@ As markets continue evolving, monitor:
 
 The modern investor must embrace complexity while adhering to timeless principles. The correlation matrix is your compass, diversification is your strategy, and patience is your greatest asset.
 
-Remember: The goal is not to own the best-performing asset of the next decade — it’s to own a portfolio that can prosper regardless of which asset that turns out to be.
+Remember: The goal is not to own the best-performing asset of the next decade. It’s to own a portfolio that can prosper regardless of which asset that turns out to be.
 
 ***Disclaimer:***
 
@@ -340,5 +340,5 @@ Remember: The goal is not to own the best-performing asset of the next decade 
 Further reading:
 
 <div class="html-card">
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://medium.com/@surak.crypto/the-context-of-crypto-assets-in-modern-total-investment-portfolio-587d69ffd84b"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Context of Crypto assets in Modern Total Investment Portfolio</div><div class="kg-bookmark-description">The principle of diversification — distributing investments across various assets to manage risk — is a foundational…</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-5lgjp8xg0ogty6u6-1.jpg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://medium.com/@surak.crypto/the-context-of-crypto-assets-in-modern-total-investment-portfolio-587d69ffd84b"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Context of Crypto assets in Modern Total Investment Portfolio</div><div class="kg-bookmark-description">The principle of diversification, distributing investments across various assets to manage risk, is a foundational…</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-5lgjp8xg0ogty6u6-1.jpg" alt=""></div></a></figure>
 </div>

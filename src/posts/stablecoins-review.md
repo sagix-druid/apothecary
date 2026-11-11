@@ -396,7 +396,7 @@ The technical architecture leverages ERC-4626 tokenized vault standards with $7.
 
 **BUIDL represents the institutional gold standard for tokenized Treasury exposure, with $2.1+ billion in assets making it the largest tokenized Treasury fund globally.** BlackRock’s USD Institutional Digital Liquidity Fund invests 100% of assets in cash, U.S. Treasury bills, and repo agreements, maintaining a stable $1.00 NAV while paying daily accrued dividends as new tokens monthly. Available across 7+ blockchains including Ethereum, Solana, Arbitrum, and Polygon, BUIDL demonstrates how traditional asset managers can leverage blockchain technology for enhanced settlement and 24/7 access.
 
-**Franklin Templeton’s BENJI/FOBXX represents the second-largest tokenized Treasury implementation at $780 million, with the distinction of having 690+ holders—more than any competing tokenized Treasury product.** The Franklin OnChain U.S. Government Money Fund (FOBXX) was pioneering as the first U.S.-registered mutual fund to use public blockchain as its system of record. Each BENJI token represents one share of the regulated money market fund, targeting $1.00 value while investing 99.5% of assets in U.S. government securities and cash equivalents.
+**Franklin Templeton’s BENJI/FOBXX represents the second-largest tokenized Treasury implementation at $780 million, with the distinction of having 690+ holders, more than any competing tokenized Treasury product.** The Franklin OnChain U.S. Government Money Fund (FOBXX) was pioneering as the first U.S.-registered mutual fund to use public blockchain as its system of record. Each BENJI token represents one share of the regulated money market fund, targeting $1.00 value while investing 99.5% of assets in U.S. government securities and cash equivalents.
 
 **These institutional-grade offerings create a new tier in the tokenized asset hierarchy**, sitting above smaller RWA implementations like Ondo’s OUSG and USDY. BUIDL and BENJI demonstrate how regulatory credibility and scale operate in institutional contexts, though their qualification requirements limit retail accessibility compared to DeFi-native yield-bearing alternatives.
 
@@ -414,7 +414,7 @@ These implementations demonstrate successful real-world asset (RWA) integration,
 
 ### Aave’s Interest-Bearing infrastructure
 
-**aUSDC exemplifies the DeFi-native approach to yield-bearing stablecoins through lending protocol integration.** With $35 million in market capitalization, aUSDC automatically generates yield from Aave’s lending activities, with rates fluctuating based on borrowing demand. The model’s simplicity—deposit USDC, receive yield-bearing aUSDC—demonstrates how established DeFi protocols can transform static assets into productive instruments.
+**aUSDC exemplifies the DeFi-native approach to yield-bearing stablecoins through lending protocol integration.** With $35 million in market capitalization, aUSDC automatically generates yield from Aave’s lending activities, with rates fluctuating based on borrowing demand. The model’s simplicity (deposit USDC, receive yield-bearing aUSDC) demonstrates how established DeFi protocols can transform static assets into productive instruments.
 
 The broader Aave ecosystem supports multiple interest-bearing tokens, creating a foundation for sophisticated yield strategies. **For market analysis purposes, aUSDC offers variable yields that respond to market conditions**, providing higher returns during periods of increased borrowing demand while maintaining the underlying USDC stability.
 
@@ -459,7 +459,7 @@ The fastest-growing stablecoin in history, USD1 reached $2.3 billion market cap 
 At $2.1+ billion, BUIDL represents 41% of the entire tokenized Treasury market. **100% investment in cash, U.S. Treasury bills, and repo agreements** maintains stable $1.00 NAV while paying daily accrued dividends as new tokens monthly. Available across 7+ blockchains with BNY Mellon custody and PwC auditing, BUIDL offers institutional investors 24/7 access to Treasury yields with blockchain settlement advantages.
 
 **BENJI/FOBXX (Franklin Templeton OnChain U.S. Government Money Fund) - Pioneer Tokenized Fund**  
-Franklin Templeton’s $780 million fund was the first U.S.-registered mutual fund to use blockchain as system of record. **99.5% investment in U.S. government securities, cash, and collateralized repo agreements** targets $1.00 stable value. With 690+ holders—more than any competing tokenized Treasury—BENJI demonstrates successful retail-institutional crossover appeal across 8+ blockchain networks.
+Franklin Templeton’s $780 million fund was the first U.S.-registered mutual fund to use blockchain as system of record. **99.5% investment in U.S. government securities, cash, and collateralized repo agreements** targets $1.00 stable value. With 690+ holders, more than any competing tokenized Treasury, BENJI demonstrates successful retail-institutional crossover appeal across 8+ blockchain networks.
 
 ### Category 3: Yield-bearing vehicles from compliant base assets
 
@@ -479,7 +479,7 @@ Spark’s USDT implementation will extend proven yield-bearing framework to Teth
 
 **Aave - DeFi-Native Interest Generation**  
 *aUSDC (Aave Interest-Bearing USDC)*  
-With $35 million market capitalization, aUSDC demonstrates mature DeFi lending protocol integration. **Automatic yield generation from Aave’s lending activities** creates variable returns responding to market conditions, with rates increasing during periods of elevated borrowing demand. The simplicity—deposit USDC, receive yield-bearing aUSDC—makes this accessible for diversified yield strategies.
+With $35 million market capitalization, aUSDC demonstrates mature DeFi lending protocol integration. **Automatic yield generation from Aave’s lending activities** creates variable returns responding to market conditions, with rates increasing during periods of elevated borrowing demand. The simplicity (deposit USDC, receive yield-bearing aUSDC) makes this accessible for diversified yield strategies.
 
 ### Category 4: Commodity-backed stable value alternative
 
@@ -518,7 +518,7 @@ This analytical framework helps understand market structure without prescribing 
 
 *   Traditional stablecoins like USDC, USDT remain unaffected as they never offered yield
 *   Direct yield-bearing stablecoins violate GENIUS Act if issued by regulated U.S. entities
-*   Third-party arrangements may provide regulatory distinctions—the Act’s language focuses on issuer-provided yield, potentially allowing affiliates or independent protocols to offer returns
+*   Third-party arrangements may provide regulatory distinctions: the Act’s language focuses on issuer-provided yield, potentially allowing affiliates or independent protocols to offer returns
 *   Foreign stablecoins face market access restrictions unless from jurisdictions deemed “substantially similar” by Treasury \[14\]\[25\]
 
 The legislation creates a bifurcated market: federally-regulated “permitted payment stablecoin issuers” gain legitimacy and institutional adoption pathways, while yield-bearing alternatives face regulatory uncertainty or outright prohibition depending on their structural implementation.
@@ -534,7 +534,7 @@ The legislation creates a bifurcated market: federally-regulated “permitted pa
 *   Clear pathways for tokens to transition from securities to commodities as networks mature
 *   Stablecoin-related activities on SEC-regulated platforms maintain SEC oversight for fraud prevention
 
-The Senate Banking Committee released an alternative discussion draft—the Responsible Financial Innovation Act (RFIA)—creating uncertainty about final legislative form \[14\]\[16\]. However, both approaches recognize stablecoins as distinct from other digital assets, requiring specialized regulatory treatment.
+The Senate Banking Committee released an alternative discussion draft, the Responsible Financial Innovation Act (RFIA), creating uncertainty about final legislative form \[14\]\[16\]. However, both approaches recognize stablecoins as distinct from other digital assets, requiring specialized regulatory treatment.
 
 **Senate passage timing remains uncertain**, with estimates ranging from late 2025 to early 2026 \[15\]\[17\]. The Trump administration has indicated strong preference for Senate bills to pass as-written without House modifications, suggesting final legislation may differ substantially from the current House version \[16\].
 
@@ -551,7 +551,7 @@ The Senate Banking Committee released an alternative discussion draft—the Resp
 **Regulatory classification ambiguities:**
 
 *   The Act targets issuer-provided yield specifically; legal interpretation remains uncertain regarding whether DeFi protocols offering returns on stablecoins constitute prohibited arrangements
-*   Affiliate structures remain legally ambiguous—the Act’s language leaves unclear whether affiliates of issuers can provide yield-bearing services
+*   Affiliate structures remain legally ambiguous: the Act’s language leaves unclear whether affiliates of issuers can provide yield-bearing services
 *   The 18-month implementation period (or 120 days post-final regulations) extends into 2026-2027, with final classifications pending additional regulatory guidance
 
 **Implementation timeline:**  
@@ -572,7 +572,7 @@ Category 1 - GENIUS Act Compliant Payment Stablecoins**: USDC, PYUSD, USD1 opera
 
 ## Conclusion: The transformed stablecoin landscape
 
-**The stablecoin market’s evolution from static dollar-pegged tokens to yield-generating instruments represents a fundamental shift in digital asset infrastructure.** The July 2025 passage of the GENIUS Act adds a critical regulatory dimension, establishing the first federal framework while restricting direct yield offerings from payment stablecoin issuers. This dual transformation—technological innovation constrained by regulatory boundaries—has created a complex market structure.
+**The stablecoin market’s evolution from static dollar-pegged tokens to yield-generating instruments represents a fundamental shift in digital asset infrastructure.** The July 2025 passage of the GENIUS Act adds a critical regulatory dimension, establishing the first federal framework while restricting direct yield offerings from payment stablecoin issuers. This dual transformation, technological innovation constrained by regulatory boundaries, has created a complex market structure.
 
 **This landscape reflects three simultaneous dynamics:** the technical capabilities of yield-bearing innovations, the regulatory constraints imposed by new federal frameworks, and the varying risk-return profiles across different stablecoin categories. Regulatory compliance and technical sophistication have emerged as equally important analytical dimensions.
 

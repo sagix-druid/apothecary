@@ -8,7 +8,7 @@ topics: ["videos","video"]
 internal_tags: ["#videos","#video"]
 ---
 
-<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/8GW8ixB84gQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="The Free Banking Era: When Anyone Could Print Money – History Lesson  for DeFi Druid Deep Dive Ep. 1"></iframe></figure>
+<figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/8GW8ixB84gQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" title="The Free Banking Era: When Anyone Could Print Money: History Lesson for DeFi Druid Deep Dive Ep. 1"></iframe></figure>
 
 Full Story and disclaimers
 

@@ -43,7 +43,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image.png" class="kg-image" alt="" loading="lazy" width="938" height="936" srcset="/content/images/size/w600/2025/11/image.png 600w, /content/images/2025/11/image.png 938w" sizes="(min-width: 720px) 720px"></figure>
 
-**Sustainability:** High—Revenue from hardware resource sharing and GPU compute rentals exceeds miner/validator outflows, supported by positive net inflows under Taoflow. Its elastic scaling model attracts external usage, reducing extraction risks.
+**Sustainability:** High. Revenue from hardware resource sharing and GPU compute rentals exceeds miner/validator outflows, supported by positive net inflows under Taoflow. Its elastic scaling model attracts external usage, reducing extraction risks.
 
 **Description:** Datura operates as a decentralized marketplace for hardware resources, focusing on GPU rentals to facilitate AI computations. This subnet enables users to access on-demand compute power for training and running AI models, promoting efficient resource utilization across the network.
 
@@ -58,7 +58,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-1.png" class="kg-image" alt="" loading="lazy" width="318" height="158"></figure>
 
-**Sustainability:** High—Serverless AI compute generates substantial API revenue exceeding miner/validator outflows; strong inflows from integrations like OpenRouter ensure positive Taoflow.
+**Sustainability:** High. Serverless AI compute generates substantial API revenue exceeding miner/validator outflows; strong inflows from integrations like OpenRouter ensure positive Taoflow.
 
 **Description:** Chutes provides a serverless architecture for AI computations, allowing developers to execute models without managing underlying infrastructure. It supports seamless integrations with tools like OpenRouter, enabling easy access to AI services via APIs for various applications.
 
@@ -73,7 +73,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-2.png" class="kg-image" alt="" loading="lazy" width="225" height="225"></figure>
 
-**Sustainability:** High—Autonomous agents pull revenue from dev workflows, outpacing outflows; consistent emissions (6%) reflect self-reinforcing flows.
+**Sustainability:** High. Autonomous agents pull revenue from dev workflows, outpacing outflows; consistent emissions (6%) reflect self-reinforcing flows.
 
 **Description:** Ridges develops autonomous AI agents designed to automate and enhance developer workflows. These agents handle tasks such as code generation, debugging, and optimization, integrating into development environments to boost productivity.
 
@@ -88,7 +88,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-3.png" class="kg-image" alt="" loading="lazy" width="225" height="225"></figure>
 
-**Sustainability:** High—Secure compute revenue exceeds outflows.
+**Sustainability:** High. Secure compute revenue exceeds outflows.
 
 **Description:** Targon specializes in secure, privacy-focused compute services for AI tasks, ensuring data protection during processing. It caters to applications requiring high security, such as in regulated industries, by leveraging encrypted computations.
 
@@ -103,7 +103,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-5.png" class="kg-image" alt="" loading="lazy" width="476" height="132"></figure>
 
-**Sustainability:** High (Planned/Governance)—AutoML revenue via votes exceeds outflows.
+**Sustainability:** High (Planned/Governance). AutoML revenue via votes exceeds outflows.
 
 **Description:** Gradients.io offers automated machine learning (AutoML) tools that simplify model development through community governance and voting mechanisms. Users can participate in decision-making to optimize and monetize AI models efficiently.
 
@@ -118,7 +118,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-6.png" class="kg-image" alt="" loading="lazy" width="224" height="224"></figure>
 
-**Sustainability:** High—Permissionless training aligns incentives for inflows > outflows; strong miner competition supports sustainability.
+**Sustainability:** High. Permissionless training aligns incentives for inflows > outflows; strong miner competition supports sustainability.
 
 **Description:** Templar enables permissionless AI model training, where participants can contribute compute resources without barriers. This subnet fosters collaborative training of models, rewarding contributors based on their input quality and impact.
 
@@ -133,7 +133,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-7.png" class="kg-image" alt="" loading="lazy" width="204" height="192"></figure>
 
-**Sustainability:** High—Foundation-backed general intelligence fosters positive flows; core ties reduce extraction risks.
+**Sustainability:** High. Foundation-backed general intelligence fosters positive flows; core ties reduce extraction risks.
 
 **Description:** Apex focuses on advancing general artificial intelligence, supported by the Bittensor foundation. It aims to develop versatile AI systems capable of handling a wide range of tasks beyond specialized applications.
 
@@ -148,7 +148,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-8.png" class="kg-image" alt="" loading="lazy" width="758" height="570" srcset="/content/images/size/w600/2025/11/image-8.png 600w, /content/images/2025/11/image-8.png 758w" sizes="(min-width: 720px) 720px"></figure>
 
-**Sustainability:** High—Search indexing revenue exceeds outflows; user traction supports inflows.
+**Sustainability:** High. Search indexing revenue exceeds outflows; user traction supports inflows.
 
 **Description:** OpenKaito provides decentralized search indexing and retrieval services, enhancing web search capabilities. It indexes data across the internet to deliver fast, accurate search results powered by AI.
 
@@ -163,7 +163,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-9.png" class="kg-image" alt="" loading="lazy" width="400" height="400"></figure>
 
-**Sustainability:** High—Forecasting revenue exceeds outflows.
+**Sustainability:** High. Forecasting revenue exceeds outflows.
 
 **Description:** Synthdata specializes in AI-driven forecasting and predictive modeling for various sectors. It generates synthetic data to train models and provide accurate predictions for business and financial decisions.
 
@@ -178,7 +178,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-10.png" class="kg-image" alt="" loading="lazy" width="189" height="189"></figure>
 
-**Sustainability:** High—Strategies generate revenue > outflows; quant demand sustains.
+**Sustainability:** High. Strategies generate revenue > outflows; quant demand sustains.
 
 **Description:** The Proprietary Trading Network offers AI-powered trading strategies for financial markets. It allows users to develop, share, and execute quantitative trading models in a decentralized environment.
 
@@ -193,7 +193,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/image-11.png" class="kg-image" alt="" loading="lazy" width="182" height="36"></figure>
 
-**Sustainability:** High—Buybacks exceed outflows (13% burned).
+**Sustainability:** High. Buybacks exceed outflows (13% burned).
 
 **Description:** Bitcast supports AI tools for the creator economy, such as content generation and distribution. It enables creators to use AI for producing media, with mechanisms like token buybacks to enhance value.
 
@@ -206,7 +206,7 @@ These subnets demonstrate strong external revenue exceeding outflows, making the
 
 ## Mid Sustainability Subnets
 
-These subnets have revenue roughly matching or balancing outflows, offering moderate stability under Taoflow. They often rely on emerging utility for positive flows but risk tipping extractive if adoption stalls—growth depends on market fit and halving buffers.
+These subnets have revenue roughly matching or balancing outflows, offering moderate stability under Taoflow. They often rely on emerging utility for positive flows but risk tipping extractive if adoption stalls. Growth depends on market fit and halving buffers.
 
 ### Compute / Hardware Infrastructure Subnets
 
@@ -214,7 +214,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** affine.network | **Market Cap:** ~$27.57M \[1\]
 
-**Sustainability:** Mid—Composition revenue matches outflows.
+**Sustainability:** Mid. Composition revenue matches outflows.
 
 **Description:** Affine focuses on composing and integrating various AI models and services in a decentralized manner. It enables the creation of complex AI workflows by combining different components seamlessly.
 
@@ -227,7 +227,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** quantumcomputing.subnet | **Market Cap:** ~$18.13M \[1\]
 
-**Sustainability:** Mid—Quantum AI compute rentals balance flows with revenue from specialized tasks; potential for positive inflows as quantum tech matures, but early-stage limits full sustainability.
+**Sustainability:** Mid. Quantum AI compute rentals balance flows with revenue from specialized tasks; potential for positive inflows as quantum tech matures, but early-stage limits full sustainability.
 
 **Description:** This subnet provides quantum computing resources for AI applications, allowing rentals for complex simulations. It leverages quantum tech to solve problems intractable for classical computers, targeting specialized AI tasks.
 
@@ -240,7 +240,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** score.bittensor.com | **Market Cap:** ~$19.36M \[1\]
 
-**Sustainability:** Mid—Sports vision data feeds match outflows; Yuma-backing.
+**Sustainability:** Mid. Sports vision data feeds match outflows; Yuma-backing.
 
 **Description:** Score delivers AI-powered sports vision data feeds and analytics. It processes visual data from sports events to provide real-time insights, statistics, and predictions for betting or analysis.
 
@@ -253,7 +253,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** miid.ai | **Market Cap:** ~$4.62M \[1\]
 
-**Sustainability:** Mid—Synthetic identities balance flows; Yuma backing.
+**Sustainability:** Mid. Synthetic identities balance flows; Yuma backing.
 
 **Description:** Yanez MIID generates synthetic identities and data for AI training and testing. It creates realistic, anonymized profiles to improve model accuracy while addressing privacy concerns.
 
@@ -266,7 +266,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** redteam.ai | **Market Cap:** ~$4.03M \[1\]
 
-**Sustainability:** Mid—Hacking audits match outflows; Yuma backing.
+**Sustainability:** Mid. Hacking audits match outflows; Yuma backing.
 
 **Description:** RedTeam conducts AI-driven security audits and penetration testing. It simulates cyber attacks to identify vulnerabilities in systems, enhancing overall network security.
 
@@ -279,7 +279,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** vericore.ai | **Market Cap:** ~$2.16M \[1\]
 
-**Sustainability:** Mid—Fact-checking matches outflows; Yuma backing.
+**Sustainability:** Mid. Fact-checking matches outflows; Yuma backing.
 
 **Description:** Vericore provides AI-based fact-checking services to verify information accuracy. It analyzes claims against reliable sources to combat misinformation across various platforms.
 
@@ -292,7 +292,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** precog.network | **Market Cap:** ~$1.67M \[1\]
 
-**Sustainability:** Mid—Forecasting matches outflows; Yuma backing.
+**Sustainability:** Mid. Forecasting matches outflows; Yuma backing.
 
 **Description:** Precog offers predictive forecasting using AI for future events and trends. It aggregates data to generate probabilistic predictions for markets, weather, or other domains.
 
@@ -305,7 +305,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** zeus.bittensor.com | **Market Cap:** ~$10M (est.) \[1\]
 
-**Sustainability:** Mid—Environmental forecasting via AI data crunching matches outflows; revenue from climate predictions could tip positive under Taoflow with partnerships.
+**Sustainability:** Mid. Environmental forecasting via AI data crunching matches outflows; revenue from climate predictions could tip positive under Taoflow with partnerships.
 
 **Description:** Zeus specializes in environmental and climate forecasting using AI to process large datasets. It provides predictions on weather patterns, natural disasters, and ecological changes for planning purposes.
 
@@ -318,7 +318,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** leadpoet.ai | **Market Cap:** ~$13.96M \[1\]
 
-**Sustainability:** Mid—Lead generation and marketing AI balances outflows with revenue from subnet expansions; OTC investments (e.g., $100K) support inflows.
+**Sustainability:** Mid. Lead generation and marketing AI balances outflows with revenue from subnet expansions; OTC investments (e.g., $100K) support inflows.
 
 **Description:** Kora/Leadpoet uses AI for lead generation and marketing automation. It identifies potential customers and optimizes campaigns to improve sales conversions.
 
@@ -331,7 +331,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** datauniverse.ai | **Market Cap:** ~$10.27M \[1\]
 
-**Sustainability:** Mid—Data collection matches outflows; analysis utility aids.
+**Sustainability:** Mid. Data collection matches outflows; analysis utility aids.
 
 **Description:** Data Universe focuses on decentralized data collection and storage for AI applications. It aggregates diverse datasets to support model training and analytical insights.
 
@@ -344,7 +344,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** resi.network | **Market Cap:** ~$9.80M \[1\]
 
-**Sustainability:** Mid—Property data balances flows.
+**Sustainability:** Mid. Property data balances flows.
 
 **Description:** RESI provides AI-driven analysis of real estate and property data. It offers insights on market trends, valuations, and investment opportunities in the real estate sector.
 
@@ -357,7 +357,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** atx.network | **Market Cap:** ~$15.20M \[1\]
 
-**Sustainability:** Mid—Signals match outflows; innovation needed for edge.
+**Sustainability:** Mid. Signals match outflows; innovation needed for edge.
 
 **Description:** ATX delivers trading signals and analytics for financial markets using AI. It generates buy/sell recommendations based on market data analysis.
 
@@ -370,7 +370,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** swap.subnet | **Market Cap:** ~$7.09M \[1\]
 
-**Sustainability:** Mid—Cross-chain liquidity balances flows; Yuma/Pantera backing.
+**Sustainability:** Mid. Cross-chain liquidity balances flows; Yuma/Pantera backing.
 
 **Description:** Swap facilitates cross-chain asset swaps and liquidity provision in a decentralized manner. It enables seamless token exchanges across different blockchains.
 
@@ -383,7 +383,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** bitquant.ai | **Market Cap:** ~$2.23M \[1\]
 
-**Sustainability:** Mid—Quant signals match outflows; Yuma backing.
+**Sustainability:** Mid. Quant signals match outflows; Yuma backing.
 
 **Description:** BitQuant provides quantitative trading signals powered by AI algorithms. It analyzes market data to offer strategies for cryptocurrency and traditional finance trading.
 
@@ -396,7 +396,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** mantis.bittensor.com | **Market Cap:** Low (~$5-10M est.) \[1\]
 
-**Sustainability:** Mid—Short-term market predictions balance flows with revenue from signals; integrations like forex/Bitcoin forecasting aid.
+**Sustainability:** Mid. Short-term market predictions balance flows with revenue from signals; integrations like forex/Bitcoin forecasting aid.
 
 **Description:** Mantis specializes in short-term market predictions for assets like forex and Bitcoin. It uses AI to forecast price movements over brief periods for trading purposes.
 
@@ -409,7 +409,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** bitmind.ai | **Market Cap:** ~$20.63M \[1\]
 
-**Sustainability:** Mid—Detection matches outflows.
+**Sustainability:** Mid. Detection matches outflows.
 
 **Description:** BitMind focuses on AI detection, likely identifying generated content or anomalies. It provides tools to distinguish between human and AI-created materials.
 
@@ -422,7 +422,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** babelbit.ai | **Market Cap:** ~$2.45M \[1\]
 
-**Sustainability:** Mid—Translation matches outflows; Yuma backing.
+**Sustainability:** Mid. Translation matches outflows; Yuma backing.
 
 **Description:** Babelbit offers AI-powered translation services, including speech-to-text. It supports multilingual communication by translating text and audio in real-time.
 
@@ -435,7 +435,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** dippy.ai | **Market Cap:** ~$10.20M (SN11) / $2.51M (SN58) \[1\]
 
-**Sustainability:** Mid—Roleplaying/speech match outflows; Yuma for SN58.
+**Sustainability:** Mid. Roleplaying/speech match outflows; Yuma for SN58.
 
 **Description:** Dippy.ai provides AI for roleplaying games and speech synthesis. It enables interactive storytelling and voice generation for entertainment and applications.
 
@@ -448,7 +448,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** nineteen.ai | **Market Cap:** Emerging (~$5-10M est.) \[1\]
 
-**Sustainability:** Mid—Image reasoning matches outflows.
+**Sustainability:** Mid. Image reasoning matches outflows.
 
 **Description:** Nineteen specializes in image reasoning and analysis using AI. It interprets visual content to extract meaning, useful for computer vision tasks.
 
@@ -461,7 +461,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** infinitegames.ai | **Market Cap:** ~$4.42M \[1\]
 
-**Sustainability:** Mid—Forecasting balances flows; Yuma backing.
+**Sustainability:** Mid. Forecasting balances flows; Yuma backing.
 
 **Description:** Infinite Games focuses on AI-driven games and prediction markets. It creates interactive experiences where users forecast outcomes in gamified formats.
 
@@ -474,7 +474,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** omron.ai | **Market Cap:** ~$5.60M \[1\]
 
-**Sustainability:** Mid—ZK inference matches outflows.
+**Sustainability:** Mid. ZK inference matches outflows.
 
 **Description:** Omron provides zero-knowledge (ZK) proof-based AI inference. It allows verifiable computations without revealing underlying data, enhancing privacy.
 
@@ -487,7 +487,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** apollo-zkp.ai | **Market Cap:** Emerging (~$5-10M est.) \[1\]
 
-**Sustainability:** Mid—Prover market matches flows.
+**Sustainability:** Mid. Prover market matches flows.
 
 **Description:** Apollo ZKP operates a market for ZK provers, facilitating verifiable AI computations. It connects users needing proofs with providers in a decentralized setup.
 
@@ -500,7 +500,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** bitsec.ai | **Market Cap:** ~$2.74M \[1\]
 
-**Sustainability:** Mid—Audits match outflows; Yuma backing.
+**Sustainability:** Mid. Audits match outflows; Yuma backing.
 
 **Description:** Bitsec conducts security audits for blockchain and AI systems. It uses AI to detect vulnerabilities and ensure protocol integrity.
 
@@ -513,7 +513,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 **Website:** sportstensor.com | **Market Cap:** ~$18.54M \[1\]
 
-**Sustainability:** Mid—Analytics match outflows; Almanac revenue.
+**Sustainability:** Mid. Analytics match outflows; Almanac revenue.
 
 **Description:** Sportstensor provides sports analytics and predictions using AI. It analyzes game data to offer insights, forecasts, and almanac-style compilations.
 
@@ -526,7 +526,7 @@ These subnets have revenue roughly matching or balancing outflows, offering mode
 
 ## Low Sustainability Subnets
 
-These subnets have outflows exceeding or closely matching revenue, making them more extractive and vulnerable under Taoflow. They often rely on hype or niche utility, with growth hinging on rapid adoption improvements—riskier post-halving.
+These subnets have outflows exceeding or closely matching revenue, making them more extractive and vulnerable under Taoflow. They often rely on hype or niche utility, with growth hinging on rapid adoption improvements. They are riskier post-halving.
 
 ### Data Scraping / Indexing Subnets
 
@@ -534,7 +534,7 @@ These subnets have outflows exceeding or closely matching revenue, making them m
 
 **Website:** desearch.ai | **Market Cap:** ~$3.27M \[1\]
 
-**Sustainability:** Low—API revenue may lag outflows.
+**Sustainability:** Low. API revenue may lag outflows.
 
 **Description:** Desearch offers decentralized search capabilities through APIs. It scrapes and indexes data to provide alternative search engine functionalities.
 
@@ -547,7 +547,7 @@ These subnets have outflows exceeding or closely matching revenue, making them m
 
 **Website:** vidaio.ai | **Market Cap:** ~$7.68M \[1\]
 
-**Sustainability:** Low—Video compression may lag outflows.
+**Sustainability:** Low. Video compression may lag outflows.
 
 **Description:** Vidaio specializes in AI-driven video compression and processing. It optimizes video files for storage and transmission while maintaining quality.
 
@@ -560,7 +560,7 @@ These subnets have outflows exceeding or closely matching revenue, making them m
 
 **Website:** sundae.bar | **Market Cap:** ~$1.48M \[1\]
 
-**Sustainability:** Low—AI agent marketplace fees may lag outflows; primary revenue from fees, but early-stage limits inflows.
+**Sustainability:** Low. AI agent marketplace fees may lag outflows; primary revenue from fees, but early-stage limits inflows.
 
 **Description:** Sundae Bar operates a marketplace for AI agents, where users can buy, sell, or rent agents. It facilitates the exchange of pre-built AI tools for various tasks.
 
@@ -573,7 +573,7 @@ These subnets have outflows exceeding or closely matching revenue, making them m
 
 ## Portfolio Insights: Applying to Real Allocations
 
-For a sample portfolio (e.g., with Chutes, Ridges, Lium.io, etc.), focus on high-sustainability subnets like SN64 and SN62 for core stability, adding mid-tier like SN44 or SN93 for diversification. Monitor Taoflow metrics on Taostats.io—revenue-driven ones will thrive post-halving.
+For a sample portfolio (e.g., with Chutes, Ridges, Lium.io, etc.), focus on high-sustainability subnets like SN64 and SN62 for core stability, adding mid-tier like SN44 or SN93 for diversification. Monitor Taoflow metrics on Taostats.io. Revenue-driven ones will thrive post-halving.
 
 <!-- signup -->
 
@@ -581,9 +581,9 @@ For a sample portfolio (e.g., with Chutes, Ridges, Lium.io, etc.), focus on high
 
 ## Warning: The Risks of Dual Tokenomics in Bittensor Subnets
 
-In the Bittensor ecosystem, some subnets incorporate a second native token alongside the standard alpha/dTAO mechanism tied to subnet emissions and staking. While these setups are often presented as complementary—aiming to separate utilities like governance, premium features, or broader ecosystem incentives from core AI incentives—they introduce heightened risks that investors and users should carefully consider.
+In the Bittensor ecosystem, some subnets incorporate a second native token alongside the standard alpha/dTAO mechanism tied to subnet emissions and staking. While these setups are often presented as complementary (aiming to separate utilities like governance, premium features, or broader ecosystem incentives from core AI incentives), they introduce heightened risks that investors and users should carefully consider.
 
-At a minimum, dual tokenomics dilutes a project’s full potential. By splitting value accrual across two tokens, resources, community focus, and liquidity can become fragmented. What could be a unified flywheel driving adoption and innovation through a single token instead risks creating competing priorities: one token capturing wallet or DeFi revenues, while the other handles subnet-specific rewards. This division can stretch team bandwidth thin, leading to slower development, weaker network effects, and reduced momentum for the core product—whether that’s AI signal production, compute sharing, or data processing.
+At a minimum, dual tokenomics dilutes a project’s full potential. By splitting value accrual across two tokens, resources, community focus, and liquidity can become fragmented. What could be a unified flywheel driving adoption and innovation through a single token instead risks creating competing priorities: one token capturing wallet or DeFi revenues, while the other handles subnet-specific rewards. This division can stretch team bandwidth thin, leading to slower development, weaker network effects, and reduced momentum for the core product, whether that’s AI signal production, compute sharing, or data processing.
 
 Beyond dilution, these models carry greater extraction risks. If the second token primarily benefits from hype-driven launches (e.g., IDOs with vesting schedules), it may pull capital away from the subnet’s alpha token without clear recirculation mechanisms. Post-halving, when emissions drop, this could amplify sell pressure on the alpha if revenues don’t balance outflows, potentially leading to delisting under Taoflow penalties. Community FUD around opacity, such as poor communication or alleged dumps, further erodes trust, making sustainability mid-tier at best and vulnerable to broader market downturns.
 
@@ -694,4 +694,4 @@ These systemic risks are not repeated in individual subnet analyses but should b
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/catastrophic-risk-management/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">We never thought it could happen here: Lessons in catastrophic risk management for DeFi and beyond</div><div class="kg-bookmark-description">Learn how Fukushima, 2008 financial crisis, and Nassim Taleb’s Black Swan theory reveal catastrophic risk patterns in DeFi. Discover why ergodicity, tail risk hedging, and Sagix prioritize survival over maximum yields in volatile crypto markets.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-18.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/image-17--2.jpg" alt=""></div></a></figure>
 
-<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/minestrone-soup-for-the-soul/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Minestrone soup for the soul</div><div class="kg-bookmark-description">Just like thyme and Parmesan are magical together but terrible alone, successful investing is about blending quality assets in the right proportions—buying laggards, avoiding hype, and trusting the recipe over timing the market.”</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-19.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/WhatsApp-Image-2025-09-15-at-16.12.09-2.jpeg" alt=""></div></a></figure>
+<figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/minestrone-soup-for-the-soul/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Minestrone soup for the soul</div><div class="kg-bookmark-description">Just like thyme and Parmesan are magical together but terrible alone, successful investing is about blending quality assets in the right proportions: buying laggards, avoiding hype, and trusting the recipe over timing the market.”</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-19.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/WhatsApp-Image-2025-09-15-at-16.12.09-2.jpeg" alt=""></div></a></figure>
