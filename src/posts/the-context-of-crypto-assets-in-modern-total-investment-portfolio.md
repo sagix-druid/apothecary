@@ -114,8 +114,12 @@ Understanding these principles — from the idea of total portfolio allocati
 
 By treating this information as a set of talking points rather than a prescriptive guide, you can better collaborate with an advisor to determine what role, if any, digital assets might play in your overall financial strategy
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://medium.com/@surak.crypto/modern-portfolio-construction-a-multi-asset-approach-for-the-digital-age-693a375ffce4"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Modern Portfolio Construction: A Multi-Asset Approach for the Digital Age</div><div class="kg-bookmark-description">Integrating Traditional Wisdom with Contemporary Realities</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn-images-1.medium.com/fit/c/160/160/0*PAC_sRsQ-X1j5gom" alt=""></div></a></figure>
+</div>
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://medium.com/@surak.crypto/what-will-eth-treasure-companies-do-to-eth-financial-protocols-ee66fc7e778e"><div class="kg-bookmark-content"><div class="kg-bookmark-title">What will ETH Treasure Companies Do To ETH Financial Protocols?</div><div class="kg-bookmark-description">ETH demand is through the roof, will ETH defi generate beta on top of that?</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="https://cdn-images-1.medium.com/fit/c/160/160/0*Xw8mimlrSXBL4QAf" alt=""></div></a></figure>
+</div>
 
 Disclaimer: The information provided in this document is for informational purposes only and is not intended to be, and shall not be construed as, constituting financial, investment, legal, tax, or any other form of advice. The content herein does not constitute a recommendation, endorsement, or an offer or solicitation to buy or sell any securities or to engage in any particular investment strategy. While the information presented is believed to be reliable, we make no representation or warranty, express or implied, as to its accuracy, completeness, or suitability for any specific purpose. All readers are strongly encouraged to perform their own independent due diligence and to consult with their own qualified professional advisors to determine the suitability of any investment. The authors and publishers assume no liability for any loss or damage resulting from the use of or reliance on the information provided.

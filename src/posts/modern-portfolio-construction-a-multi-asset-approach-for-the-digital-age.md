@@ -339,4 +339,6 @@ Remember: The goal is not to own the best-performing asset of the next decade 
 
 Further reading:
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://medium.com/@surak.crypto/the-context-of-crypto-assets-in-modern-total-investment-portfolio-587d69ffd84b"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Context of Crypto assets in Modern Total Investment Portfolio</div><div class="kg-bookmark-description">The principle of diversification — distributing investments across various assets to manage risk — is a foundational…</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-5lgjp8xg0ogty6u6-1.jpg" alt=""></div></a></figure>
+</div>

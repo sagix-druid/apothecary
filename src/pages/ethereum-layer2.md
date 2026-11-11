@@ -15,13 +15,23 @@ internal_tags: ["#tokenomics"]
 
 ***Optimistic Rollups** like Arbitrum One (ARB), Optimism (OP), and Base execute transactions off-chain with fraud-proof mechanisms.*
 
-### 🔍 Research Optimistic Rollups
-
-[Arbitrum One (ARB)](/arbitrum-scorecard)
-
-[Optimism (OP)](/optimism-scorecard)
-
-[Base](/base-scorecard)
+<div class="html-card">
+<!-- Optimistic Rollups Research Table - Ghost Theme Friendly -->
+<h3>🔍 Research Optimistic Rollups</h3>
+<table>
+  <tbody>
+    <tr>
+      <td><a href="/arbitrum-scorecard">Arbitrum One (ARB)</a></td>
+    </tr>
+    <tr>
+      <td><a href="/optimism-scorecard">Optimism (OP)</a></td>
+    </tr>
+    <tr>
+      <td><a href="/base-scorecard">Base</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ***ZK-Rollups** such as zkSync (ZK), Linea (LINEA), and Polygon's zkEVM (POL, formerly MATIC) use zero-knowledge proofs for instant finality.*
 

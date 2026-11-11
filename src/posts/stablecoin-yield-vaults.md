@@ -16,98 +16,68 @@ The yield-bearing stablecoin sector has grown 235% over the past year, reaching 
 
 ## Comparative Analysis
 
-Factor
-
-sUSDS
-
-syrupUSDC
-
-steakUSDC
-
-**Current APY**
-
-4.0%
-
-5.2%
-
-3.5%
-
-**Yield source**
-
-Protocol revenue,  
-RWA investments,  
-lending fees
-
-Institutional  
-overcollateralized  
-lending
-
-Curated DeFi  
-lending markets
-
-**Underlying stable**
-
-USDS (crypto +  
-RWA collateralized)
-
-USDC  
-(fiat-backed)
-
-USDC  
-(fiat-backed)
-
-**Custody model**
-
-Non-custodial  
-smart contracts
-
-Hybrid: permissionless  
-deposits, custodied  
-borrower collateral
-
-Non-custodial  
-throughout
-
-**TVL/AUM**
-
-~$18.19B
-
-~$4.01B
-
-~$0.42B
-
-**Withdrawal**
-
-Instant,  
-no lockup
-
-<5 minutes  
-average
-
-Subject to  
-market liquidity
-
-**Track record**
-
-MakerDAO heritage  
-since 2017
-
-$8.4B+ originated,  
-zero losses
-
-1.5 years,  
-no losses
-
-**Primary risk**
-
-Governance,  
-RWA counterparty
-
-Borrower credit,  
-operational
-
-Collateral,  
-curator judgment
+<div class="html-card">
+<table style="width:100%; table-layout:fixed; word-wrap:break-word; word-break:break-word;">
+<thead>
+<tr>
+<th>Factor</th>
+<th>sUSDS</th>
+<th>syrupUSDC</th>
+<th>steakUSDC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Current APY</strong></td>
+<td>4.0%</td>
+<td>5.2%</td>
+<td>3.5%</td>
+</tr>
+<tr>
+<td><strong>Yield source</strong></td>
+<td>Protocol revenue,<br>RWA investments,<br>lending fees</td>
+<td>Institutional<br>overcollateralized<br>lending</td>
+<td>Curated DeFi<br>lending markets</td>
+</tr>
+<tr>
+<td><strong>Underlying stable</strong></td>
+<td>USDS (crypto +<br>RWA collateralized)</td>
+<td>USDC<br>(fiat-backed)</td>
+<td>USDC<br>(fiat-backed)</td>
+</tr>
+<tr>
+<td><strong>Custody model</strong></td>
+<td>Non-custodial<br>smart contracts</td>
+<td>Hybrid: permissionless<br>deposits, custodied<br>borrower collateral</td>
+<td>Non-custodial<br>throughout</td>
+</tr>
+<tr>
+<td><strong>TVL/AUM</strong></td>
+<td>~$18.19B</td>
+<td>~$4.01B</td>
+<td>~$0.42B</td>
+</tr>
+<tr>
+<td><strong>Withdrawal</strong></td>
+<td>Instant,<br>no lockup</td>
+<td>&lt;5 minutes<br>average</td>
+<td>Subject to<br>market liquidity</td>
+</tr>
+<tr>
+<td><strong>Track record</strong></td>
+<td>MakerDAO heritage<br>since 2017</td>
+<td>$8.4B+ originated,<br>zero losses</td>
+<td>1.5 years,<br>no losses</td>
+</tr>
+<tr>
+<td><strong>Primary risk</strong></td>
+<td>Governance,<br>RWA counterparty</td>
+<td>Borrower credit,<br>operational</td>
+<td>Collateral,<br>curator judgment</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 

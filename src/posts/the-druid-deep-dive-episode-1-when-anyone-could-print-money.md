@@ -82,9 +82,13 @@ The free banking experience proves that permissionless systems require sophistic
 
 **Next Episode Preview**: Episode 2 explores how “wildcat banking” became the perfect scapegoat for systemic failures that actually resulted from external economic shocks — and why this pattern of misattribution appears repeatedly in modern DeFi protocol failures.
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-druid-deep-dive-episode-2-wildcat-banking-the-original-defi-experiment/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive Episode 2: “Wildcat Banking: The Original DeFi Experiment”</div><div class="kg-bookmark-description">How Myth-Making Obscured the Real Causes of Financial System Failures (1837–1863)</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/1-vjl3o9ljimy00u3hia5ela-jpeg-1.jpg" alt=""></div></a></figure>
+</div>
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-ongoing-stablecoin-revolution/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Ongoing Stablecoin Revolution</div><div class="kg-bookmark-description">who are the players?</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-cavspf2tqosypr92.jpg" alt=""></div></a></figure>
+</div>
 
 ---
 

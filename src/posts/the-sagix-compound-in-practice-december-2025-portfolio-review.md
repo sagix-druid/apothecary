@@ -110,29 +110,38 @@ Notice what this layer is not a massive YOLO in the portfolio context. Even if e
 
 ## The table that says it all
 
-Sagix principle
-
-How the portfolio proves it
-
-Survival > optimization
-
-57% in assets that never go to zero
-
-Real diversification
-
-Six distinct layers with different risk profiles
-
-Zero leverage
-
-No margin, no borrowing, no madness
-
-Time is the ultimate multiplier
-
-92% in assets built to last decades
-
-Ergodicity respected
-
-Asymmetric risk sized at 8%—survivable even in total loss
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Sagix principle</th>
+<th>How the portfolio proves it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Survival &gt; optimization</td>
+<td>57% in assets that never go to zero</td>
+</tr>
+<tr>
+<td>Real diversification</td>
+<td>Six distinct layers with different risk profiles</td>
+</tr>
+<tr>
+<td>Zero leverage</td>
+<td>No margin, no borrowing, no madness</td>
+</tr>
+<tr>
+<td>Time is the ultimate multiplier</td>
+<td>92% in assets built to last decades</td>
+</tr>
+<tr>
+<td>Ergodicity respected</td>
+<td>Asymmetric risk sized at 8%—survivable even in total loss</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Do we practice what we preach?
 

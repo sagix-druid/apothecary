@@ -21,33 +21,42 @@ That accrual mechanism is the first thing to understand. The second is the legal
 
 **Current statistics:**
 
-Metric
-
-Value
-
-Total asset value
-
-~$2.16 billion
-
-Token supply
-
-~1.87 billion USDY
-
-Redemption value (NAV)
-
-~$1.14
-
-7-day APY
-
-~3.55% (RWA.xyz)
-
-Holders
-
-~16,600
-
-Launch
-
-August 2023
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Total asset value</td>
+<td>~$2.16 billion</td>
+</tr>
+<tr>
+<td>Token supply</td>
+<td>~1.87 billion USDY</td>
+</tr>
+<tr>
+<td>Redemption value (NAV)</td>
+<td>~$1.14</td>
+</tr>
+<tr>
+<td>7-day APY</td>
+<td>~3.55% (RWA.xyz)</td>
+</tr>
+<tr>
+<td>Holders</td>
+<td>~16,600</td>
+</tr>
+<tr>
+<td>Launch</td>
+<td>August 2023</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **Official website:** [https://ondo.finance/usdy](https://ondo.finance/usdy)
 
@@ -83,47 +92,49 @@ Minting happens directly with Ondo using USDC or wire transfer, with no accredit
 
 ### USDY vs. conventional stablecoins
 
-Feature
-
-USDY
-
-USDC / USDT
-
-Yield to holder
-
-Yes, accrues in price
-
-No, issuer keeps float income
-
-Peg
-
-None (rising redemption value)
-
-$1.00 target
-
-Backing
-
-Short-term Treasuries + bank deposits
-
-Treasuries, repo, cash equivalents
-
-US persons
-
-Prohibited
-
-Permitted
-
-Legal claim
-
-Senior debt of bankruptcy-remote SPV
-
-Varies by issuer terms
-
-Transfer restrictions
-
-40-50 day lockup post-mint, then open
-
-None
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>USDY</th>
+<th>USDC / USDT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Yield to holder</td>
+<td>Yes, accrues in price</td>
+<td>No, issuer keeps float income</td>
+</tr>
+<tr>
+<td>Peg</td>
+<td>None (rising redemption value)</td>
+<td>$1.00 target</td>
+</tr>
+<tr>
+<td>Backing</td>
+<td>Short-term Treasuries + bank deposits</td>
+<td>Treasuries, repo, cash equivalents</td>
+</tr>
+<tr>
+<td>US persons</td>
+<td>Prohibited</td>
+<td>Permitted</td>
+</tr>
+<tr>
+<td>Legal claim</td>
+<td>Senior debt of bankruptcy-remote SPV</td>
+<td>Varies by issuer terms</td>
+</tr>
+<tr>
+<td>Transfer restrictions</td>
+<td>40-50 day lockup post-mint, then open</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 The core trade is straightforward. Circle and Tether keep the interest earned on their reserves. Ondo passes it through, in exchange for excluding the US market and imposing a lockup on primary mints. For a non-US holder parking dollars for months rather than minutes, the float income Circle retains is money left on the table.
 

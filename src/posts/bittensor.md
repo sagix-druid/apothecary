@@ -149,29 +149,32 @@ The primary element is **TAO (τ)**—the network's universal solvent, its prima
 
 If TAO is the root essence, the subnet "alpha" tokens are the specialized distillates. The **Dynamic TAO (dTAO)** model allows for their creation, establishing a two-tiered economy:
 
-Asset
-
-Ticker
-
-Function
-
-How Value is Determined
-
-**Root Essence**
-
-TAO (τ)
-
-The universal currency. Used for security, governance, and as the base-pair for all subnets.
-
-The global market's belief in the entire Bittensor ecosystem.
-
-**Specialized Essence**
-
-Alpha (α)
-
-A unique token for each subnet. Represents a stake in a specific AI commodity (e.g., ZK-proofs, compute, code).
-
-The free market's (stakers') belief in the utility and future value of that one specific subnet.
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Asset</th>
+<th>Ticker</th>
+<th>Function</th>
+<th>How Value is Determined</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Root Essence</strong></td>
+<td>TAO (τ)</td>
+<td>The universal currency. Used for security, governance, and as the base-pair for all subnets.</td>
+<td>The global market's belief in the entire Bittensor ecosystem.</td>
+</tr>
+<tr>
+<td><strong>Specialized Essence</strong></td>
+<td>Alpha (α)</td>
+<td>A unique token for each subnet. Represents a stake in a specific AI commodity (e.g., ZK-proofs, compute, code).</td>
+<td>The free market's (stakers') belief in the utility and future value of that one specific subnet.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **The alchemical exchange:** When TAO is staked into a subnet, it is swapped for the specialized essence (Alpha). This is how the market votes with its capital. The more TAO that flows into a subnet's reserve, the higher its Alpha token price, and the more TAO emissions it attracts, creating a market-driven meritocracy.
 
@@ -193,29 +196,34 @@ The Dynamic TAO (dTAO) emission system is **fully operational and has been live 
 
 The emission percentages you see in the subnet tables are **current, live allocations**. They are not projections—they reflect the real-time, market-driven economy operating right now. The figures are as of the time of writting and can and will change over time.
 
-Timeline Event
-
-Date
-
-Status & Impact
-
-**dTAO Launch**
-
-February 2025
-
-Subnet Alpha tokens and liquidity pools went live. Market-driven emissions began.
-
-**Current Phase**
-
-June - November 2025
-
-Subnet-driven economy is fully mature. Root staking declining as planned.
-
-**First Halving Event**
-
-December 2025
-
-Emission rate halves from 7,200 to 3,600 TAO/day. Mechanism stays the same.
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Timeline Event</th>
+<th>Date</th>
+<th>Status &amp; Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>dTAO Launch</strong></td>
+<td>February 2025</td>
+<td>Subnet Alpha tokens and liquidity pools went live. Market-driven emissions began.</td>
+</tr>
+<tr>
+<td><strong>Current Phase</strong></td>
+<td>June - November 2025</td>
+<td>Subnet-driven economy is fully mature. Root staking declining as planned.</td>
+</tr>
+<tr>
+<td><strong>First Halving Event</strong></td>
+<td>December 2025</td>
+<td>Emission rate halves from 7,200 to 3,600 TAO/day. Mechanism stays the same.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **What this means:** When participants stake in a subnet, they immediately begin earning Alpha rewards at the current emission rate. The system is not "coming soon"—it is live, tested, and generating real economic data that informs allocation decisions.
 
@@ -343,37 +351,38 @@ The December 2025 halving—reducing daily emissions from ~7,200 to ~3,600 TAO�
 
 Pre-upgrade, EMA Alpha prices drove allocations, enabling liquidity biases; now, inflows prioritize genuine conviction, aligning with halving pressures.
 
-Subnet Type
-
-Pre-Halving Strategy
-
-Post-Halving/Upgrade Outcome
-
-Emission % Result
-
-**Strong Utility** (e.g., Chutes, Affine, Proprietary Trading)
-
-Real users + confident long-term stakers
-
-Positive inflows maintain/increase; Alpha price holds as weak competitors fade
-
-**Maintains or Gains Share**
-
-**Moderate Utility** (e.g., established but competitive)
-
-Mix of rewards-chasers and believers
-
-Some outflows, but core inflows sustain; Root Claim aids retention
-
-**Slight Decline in Share**
-
-**Weak/Speculative** (e.g., niche projects, unclear value prop)
-
-Primarily rewards-driven stakers
-
-Negative inflows halt emissions; no demand replaces fleeing stakers; Alpha collapses
-
-**Drops Dramatically or Dies**
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet Type</th>
+<th>Pre-Halving Strategy</th>
+<th>Post-Halving/Upgrade Outcome</th>
+<th>Emission % Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Strong Utility</strong> (e.g., Chutes, Affine, Proprietary Trading)</td>
+<td>Real users + confident long-term stakers</td>
+<td>Positive inflows maintain/increase; Alpha price holds as weak competitors fade</td>
+<td><strong>Maintains or Gains Share</strong></td>
+</tr>
+<tr>
+<td><strong>Moderate Utility</strong> (e.g., established but competitive)</td>
+<td>Mix of rewards-chasers and believers</td>
+<td>Some outflows, but core inflows sustain; Root Claim aids retention</td>
+<td><strong>Slight Decline in Share</strong></td>
+</tr>
+<tr>
+<td><strong>Weak/Speculative</strong> (e.g., niche projects, unclear value prop)</td>
+<td>Primarily rewards-driven stakers</td>
+<td>Negative inflows halt emissions; no demand replaces fleeing stakers; Alpha collapses</td>
+<td><strong>Drops Dramatically or Dies</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 The zero-sum reality: 100% emissions concentrate in resilient subnets, amplified by the upgrade's inflow filter—utility wins, speculation loses.
 
@@ -412,201 +421,218 @@ To navigate the Subnet ecosystem, this compendium maintains a map of the major c
 
 ### Compute / Hardware Infrastructure
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Datura (SN51) / lium.io**
-
-Decentralized GPU compute, hardware resource sharing
-
-≈ $71.27 Million USD
-
-Datura AI / lium.io
-
-**NI Compute (SN27)**
-
-Decentralized Compute Market (GPU as a Service)
-
-≈ $3.38 Million USD
-
-Neural Internet
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Datura (SN51) / lium.io</strong></td>
+<td>Decentralized GPU compute, hardware resource sharing</td>
+<td>≈ $71.27 Million USD</td>
+<td>Datura AI / lium.io</td>
+</tr>
+<tr>
+<td><strong>NI Compute (SN27)</strong></td>
+<td>Decentralized Compute Market (GPU as a Service)</td>
+<td>≈ $3.38 Million USD</td>
+<td>Neural Internet</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Core AI / Agent Reasoning
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Gradients (SN56)**
-
-AI Model Training, accessible distributed training platform
-
-≈ $39.42 Million USD
-
-Rayon Labs
-
-**Templar (SN3)**
-
-Distributed, permissionless AI model training
-
-≈ $32.50 Million USD
-
-Templar Team
-
-**Affine (SN120)**
-
-Infrastructure layer, connecting and composing subnets for AI inference
-
-≈ $27.57 Million USD
-
-Affine Team
-
-**Apex (SN1)**
-
-Competitive AI agents and general-purpose intelligence
-
-≈ $12.40 Million USD
-
-Opentensor Foundation / Macrocosmos
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Gradients (SN56)</strong></td>
+<td>AI Model Training, accessible distributed training platform</td>
+<td>≈ $39.42 Million USD</td>
+<td>Rayon Labs</td>
+</tr>
+<tr>
+<td><strong>Templar (SN3)</strong></td>
+<td>Distributed, permissionless AI model training</td>
+<td>≈ $32.50 Million USD</td>
+<td>Templar Team</td>
+</tr>
+<tr>
+<td><strong>Affine (SN120)</strong></td>
+<td>Infrastructure layer, connecting and composing subnets for AI inference</td>
+<td>≈ $27.57 Million USD</td>
+<td>Affine Team</td>
+</tr>
+<tr>
+<td><strong>Apex (SN1)</strong></td>
+<td>Competitive AI agents and general-purpose intelligence</td>
+<td>≈ $12.40 Million USD</td>
+<td>Opentensor Foundation / Macrocosmos</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Data Scraping / Indexing
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Hone (SN5) / OpenKaito**
-
-Decentralized search engine indexing and summarization
-
-≈ $29.54 Million USD
-
-Kaito
-
-**Data Universe (SN13)**
-
-Decentralized data collection, storage, and analysis
-
-≈ $10.27 Million USD
-
-MacrocosmosAI
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hone (SN5) / OpenKaito</strong></td>
+<td>Decentralized search engine indexing and summarization</td>
+<td>≈ $29.54 Million USD</td>
+<td>Kaito</td>
+</tr>
+<tr>
+<td><strong>Data Universe (SN13)</strong></td>
+<td>Decentralized data collection, storage, and analysis</td>
+<td>≈ $10.27 Million USD</td>
+<td>MacrocosmosAI</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Decentralized Finance (DeFi) / Trading
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Proprietary Trading Network (SN8)**
-
-AI-driven trading strategies, financial predictions
-
-≈ $47.39 Million USD
-
-Taoshi
-
-**Alpha Trader Exchange (ATX) (SN63)**
-
-Financial data analysis and prediction signals
-
-≈ $15.20 Million USD
-
-Quantum Innovate
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Proprietary Trading Network (SN8)</strong></td>
+<td>AI-driven trading strategies, financial predictions</td>
+<td>≈ $47.39 Million USD</td>
+<td>Taoshi</td>
+</tr>
+<tr>
+<td><strong>Alpha Trader Exchange (ATX) (SN63)</strong></td>
+<td>Financial data analysis and prediction signals</td>
+<td>≈ $15.20 Million USD</td>
+<td>Quantum Innovate</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Large Language Models (LLM) / Text Generation
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Chutes (SN64)**
-
-High-quality text/data generation, Serverless AI compute
-
-≈ $109.56 Million USD
-
-Rayon Labs
-
-**Ridges AI (SN62)**
-
-High-quality text inference, specialized coding agents
-
-≈ $113.85 Million USD
-
-RidgesAI
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Chutes (SN64)</strong></td>
+<td>High-quality text/data generation, Serverless AI compute</td>
+<td>≈ $109.56 Million USD</td>
+<td>Rayon Labs</td>
+</tr>
+<tr>
+<td><strong>Ridges AI (SN62)</strong></td>
+<td>High-quality text inference, specialized coding agents</td>
+<td>≈ $113.85 Million USD</td>
+<td>RidgesAI</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Multi-Modal / Media Generation
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Targon (SN4)**
-
-Multi-modal AI systems (Text, Image, Audio, Video)
-
-≈ $56.34 Million USD
-
-Manifold Inc
-
-**Nineteen (SN19)**
-
-Image Generation and Reasoning
-
-Emerging/Lower
-
-Rayon Labs
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Targon (SN4)</strong></td>
+<td>Multi-modal AI systems (Text, Image, Audio, Video)</td>
+<td>≈ $56.34 Million USD</td>
+<td>Manifold Inc</td>
+</tr>
+<tr>
+<td><strong>Nineteen (SN19)</strong></td>
+<td>Image Generation and Reasoning</td>
+<td>Emerging/Lower</td>
+<td>Rayon Labs</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### Zero-Knowledge Proofs (ZK) / Verifiable AI
 
-Subnet (SN ID)
-
-Focus/Digital Commodity
-
-Approx. Market Cap (Alpha Token)
-
-Developer Team
-
-**Omron (SN2)**
-
-Zero-Knowledge Proof-of-Inference (zk-ML)
-
-≈ $5.60 Million USD
-
-Omron (Inference Labs)
-
-**Apollo ZKP (SN47)**
-
-Permissionless ZK prover market, general-purpose ZKP
-
-Emerging/Lower
-
-Apollo ZKP
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Subnet (SN ID)</th>
+<th>Focus/Digital Commodity</th>
+<th>Approx. Market Cap (Alpha Token)</th>
+<th>Developer Team</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Omron (SN2)</strong></td>
+<td>Zero-Knowledge Proof-of-Inference (zk-ML)</td>
+<td>≈ $5.60 Million USD</td>
+<td>Omron (Inference Labs)</td>
+</tr>
+<tr>
+<td><strong>Apollo ZKP (SN47)</strong></td>
+<td>Permissionless ZK prover market, general-purpose ZKP</td>
+<td>Emerging/Lower</td>
+<td>Apollo ZKP</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 
@@ -620,55 +646,49 @@ The dTAO upgrade and impending halving demand a refined allocation approach: Pri
 *   **Subnets (1/3 allocation)**: Diversify by inflow tiers (post-upgrade: 50% Tier 1 >6% emissions/strong inflows like Chutes; 30% Tier 2 3-6% like Affine; 15% Tier 3 1-3%; 5% Tier 4 <1%).
 *   **Variants**: Conservative (75/25, inflow-stable focus); Balanced (65/35); Aggressive (50/50, high-inflow bets); Ultra-Aggressive (30/70, speculative inflows).
 
-Variant
-
-Root %
-
-Subnet %
-
-Tier Breakdown (Subnet Portion)
-
-Post-Upgrade Notes
-
-Conservative
-
-75%
-
-25%
-
-70% Tier 1, 20% Tier 2, 10% Tier 3, 0% Tier 4
-
-Emphasize positive inflows.
-
-Balanced
-
-65%
-
-35%
-
-50% Tier 1, 30% Tier 2, 15% Tier 3, 5% Tier 4
-
-Monitor inflow EMA.
-
-Aggressive
-
-50%
-
-50%
-
-40% Tier 1, 30% Tier 2, 20% Tier 3, 10% Tier 4
-
-High reward/risk; inflows amplify gains but zero emissions on laggards.
-
-Ultra-Aggressive
-
-30%
-
-70%
-
-30% Tier 1, 30% Tier 2, 25% Tier 3, 15% Tier 4
-
-Speculative; future utility critical—avoid unless good understagin of the projects
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Variant</th>
+<th>Root %</th>
+<th>Subnet %</th>
+<th>Tier Breakdown (Subnet Portion)</th>
+<th>Post-Upgrade Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conservative</td>
+<td>75%</td>
+<td>25%</td>
+<td>70% Tier 1, 20% Tier 2, 10% Tier 3, 0% Tier 4</td>
+<td>Emphasize positive inflows.</td>
+</tr>
+<tr>
+<td>Balanced</td>
+<td>65%</td>
+<td>35%</td>
+<td>50% Tier 1, 30% Tier 2, 15% Tier 3, 5% Tier 4</td>
+<td>Monitor inflow EMA.</td>
+</tr>
+<tr>
+<td>Aggressive</td>
+<td>50%</td>
+<td>50%</td>
+<td>40% Tier 1, 30% Tier 2, 20% Tier 3, 10% Tier 4</td>
+<td>High reward/risk; inflows amplify gains but zero emissions on laggards.</td>
+</tr>
+<tr>
+<td>Ultra-Aggressive</td>
+<td>30%</td>
+<td>70%</td>
+<td>30% Tier 1, 30% Tier 2, 25% Tier 3, 15% Tier 4</td>
+<td>Speculative; future utility critical—avoid unless good understagin of the projects</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Allocations once favored price liquidity; now, net inflows ensure utility-driven sustainability. This framework assumes diversification across 5-10 subnets; avoid concentration. Risks heightened: Inflow volatility may cut emissions abruptly. Not advice; consult professionals. Post-dTAO upgrade, prioritize subnets with positive net inflows for sustainable yields.
 
@@ -874,173 +894,126 @@ Observation only: DYOR; data November 5, 2025—verify Taostats.io/CoinGecko. Po
 
 Below, all subnets in one table with market caps (Alpha tokens) and utility statements (extremely speculative potential).
 
-SN
-
-Category
-
-Name
-
-Team/Handle
-
-Market Cap (USD)
-
-Utility Statement
-
-SN44
-
-Core AI / Agent Reasoning
-
-Score
-
-@webuildscore
-
-$19.36M
-
-AI for sports vision/prediction from footage; enables betting/training insights.
-
-SN10
-
-Decentralized Finance (DeFi) / Trading
-
-Swap
-
-@SturdyFinance
-
-$7.09M
-
-Cross-chain DeFi for subnet tokens; incentivizes liquidity with AI allocations.
-
-SN54
-
-Core AI / Agent Reasoning
-
-Yanez MIID
-
-@yanez\_\_ai
-
-$4.62M
-
-Synthetic identities for financial crime testing; enhances fraud detection.
-
-SN6
-
-Multi-Modal / Media Generation
-
-Infinite Games
-
-@Playinfgames
-
-$4.42M
-
-Decentralized event forecasting; incentivizes predictions via AI agents.
-
-SN61
-
-Core AI / Agent Reasoning
-
-RedTeam
-
-@*redteam*
-
-$4.03M
-
-Decentralized cybersecurity R&D via ethical hacking; aids audits/bug bounties.
-
-SN42
-
-Compute / Hardware Infrastructure
-
-Gopher
-
-@gopher\_ai
-
-$3.57M
-
-Real-time data processing for AI models; trusted execution environments.
-
-SN60
-
-Zero-Knowledge Proofs (ZK) / Verifiable AI
-
-Bitsec
-
-@bitsecai
-
-$2.74M
-
-AI-powered code vulnerability detection; assists smart contract audits.
-
-SN58
-
-Multi-Modal / Media Generation
-
-Dippy Speech
-
-@dippy\_ai
-
-$2.51M
-
-Empathetic speech for AI companions; enables lifelike voice interactions.
-
-SN59
-
-Large Language Models (LLM) / Text Generation
-
-Babelbit
-
-@babelbit
-
-$2.45M
-
-Real-time speech translation; aims to surpass centralized tools.
-
-SN15
-
-Decentralized Finance (DeFi) / Trading
-
-BitQuant
-
-@BitQuantAI
-
-$2.23M
-
-Decentralized AI quant for crypto; on-demand trading signals/DeFi intelligence.
-
-SN70
-
-Core AI / Agent Reasoning
-
-Vericore
-
-@dFusionAI
-
-$2.16M
-
-Semantic fact-checking for text/audio/video; incentive-aligned audits.
-
-SN96
-
-Core AI / Agent Reasoning
-
-FLock OFF
-
-@flock\_off\_sn96
-
-$1.98M
-
-Permissionless federated learning on edge devices; crowdsources datasets.
-
-SN55
-
-Core AI / Agent Reasoning
-
-Precog
-
-@CM\_Precog
-
-$1.67M
-
-High-precision Bitcoin price forecasting; outperforms holding in simulations.
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>SN</th>
+<th>Category</th>
+<th>Name</th>
+<th>Team/Handle</th>
+<th>Market Cap (USD)</th>
+<th>Utility Statement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SN44</td>
+<td>Core AI / Agent Reasoning</td>
+<td>Score</td>
+<td>@webuildscore</td>
+<td>$19.36M</td>
+<td>AI for sports vision/prediction from footage; enables betting/training insights.</td>
+</tr>
+<tr>
+<td>SN10</td>
+<td>Decentralized Finance (DeFi) / Trading</td>
+<td>Swap</td>
+<td>@SturdyFinance</td>
+<td>$7.09M</td>
+<td>Cross-chain DeFi for subnet tokens; incentivizes liquidity with AI allocations.</td>
+</tr>
+<tr>
+<td>SN54</td>
+<td>Core AI / Agent Reasoning</td>
+<td>Yanez MIID</td>
+<td>@yanez__ai</td>
+<td>$4.62M</td>
+<td>Synthetic identities for financial crime testing; enhances fraud detection.</td>
+</tr>
+<tr>
+<td>SN6</td>
+<td>Multi-Modal / Media Generation</td>
+<td>Infinite Games</td>
+<td>@Playinfgames</td>
+<td>$4.42M</td>
+<td>Decentralized event forecasting; incentivizes predictions via AI agents.</td>
+</tr>
+<tr>
+<td>SN61</td>
+<td>Core AI / Agent Reasoning</td>
+<td>RedTeam</td>
+<td>@<em>redteam</em></td>
+<td>$4.03M</td>
+<td>Decentralized cybersecurity R&amp;D via ethical hacking; aids audits/bug bounties.</td>
+</tr>
+<tr>
+<td>SN42</td>
+<td>Compute / Hardware Infrastructure</td>
+<td>Gopher</td>
+<td>@gopher_ai</td>
+<td>$3.57M</td>
+<td>Real-time data processing for AI models; trusted execution environments.</td>
+</tr>
+<tr>
+<td>SN60</td>
+<td>Zero-Knowledge Proofs (ZK) / Verifiable AI</td>
+<td>Bitsec</td>
+<td>@bitsecai</td>
+<td>$2.74M</td>
+<td>AI-powered code vulnerability detection; assists smart contract audits.</td>
+</tr>
+<tr>
+<td>SN58</td>
+<td>Multi-Modal / Media Generation</td>
+<td>Dippy Speech</td>
+<td>@dippy_ai</td>
+<td>$2.51M</td>
+<td>Empathetic speech for AI companions; enables lifelike voice interactions.</td>
+</tr>
+<tr>
+<td>SN59</td>
+<td>Large Language Models (LLM) / Text Generation</td>
+<td>Babelbit</td>
+<td>@babelbit</td>
+<td>$2.45M</td>
+<td>Real-time speech translation; aims to surpass centralized tools.</td>
+</tr>
+<tr>
+<td>SN15</td>
+<td>Decentralized Finance (DeFi) / Trading</td>
+<td>BitQuant</td>
+<td>@BitQuantAI</td>
+<td>$2.23M</td>
+<td>Decentralized AI quant for crypto; on-demand trading signals/DeFi intelligence.</td>
+</tr>
+<tr>
+<td>SN70</td>
+<td>Core AI / Agent Reasoning</td>
+<td>Vericore</td>
+<td>@dFusionAI</td>
+<td>$2.16M</td>
+<td>Semantic fact-checking for text/audio/video; incentive-aligned audits.</td>
+</tr>
+<tr>
+<td>SN96</td>
+<td>Core AI / Agent Reasoning</td>
+<td>FLock OFF</td>
+<td>@flock_off_sn96</td>
+<td>$1.98M</td>
+<td>Permissionless federated learning on edge devices; crowdsources datasets.</td>
+</tr>
+<tr>
+<td>SN55</td>
+<td>Core AI / Agent Reasoning</td>
+<td>Precog</td>
+<td>@CM_Precog</td>
+<td>$1.67M</td>
+<td>High-precision Bitcoin price forecasting; outperforms holding in simulations.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ### The Alchemist's Warning: Yuma-Backed Subnets Edition
 

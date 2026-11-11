@@ -108,53 +108,46 @@ The near-term catalyst has already arrived. Stage 2 began in August: buybacks ar
 
 The two sources agree on the savings cost and diverge on the top line, and the divergence is definitional rather than a sign that either is wrong.
 
-Quarter
-
-Gross revenue, SFF
-
-Gross revenue, DefiLlama
-
-Savings cost, DefiLlama
-
-Net protocol revenue, SFF
-
-Revenue after savings cost, DefiLlama
-
-Q4 2025
-
-about $79 million (derived)
-
-$108.18 million
-
-$39.86 million
-
-about $24 million (derived)
-
-$68.32 million
-
-Q1 2026
-
-$123.79 million
-
-$103.02 million
-
-$50.09 million
-
-about $61 million (derived)
-
-$52.29 million
-
-Q2 2026
-
-$107.35 million
-
-$98.43 million
-
-$54.80 million
-
-$40.09 million
-
-$42.57 million
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Quarter</th>
+<th>Gross revenue, SFF</th>
+<th>Gross revenue, DefiLlama</th>
+<th>Savings cost, DefiLlama</th>
+<th>Net protocol revenue, SFF</th>
+<th>Revenue after savings cost, DefiLlama</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q4 2025</td>
+<td>about $79 million (derived)</td>
+<td>$108.18 million</td>
+<td>$39.86 million</td>
+<td>about $24 million (derived)</td>
+<td>$68.32 million</td>
+</tr>
+<tr>
+<td>Q1 2026</td>
+<td>$123.79 million</td>
+<td>$103.02 million</td>
+<td>$50.09 million</td>
+<td>about $61 million (derived)</td>
+<td>$52.29 million</td>
+</tr>
+<tr>
+<td>Q2 2026</td>
+<td>$107.35 million</td>
+<td>$98.43 million</td>
+<td>$54.80 million</td>
+<td>$40.09 million</td>
+<td>$42.57 million</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Sources: \[1\]\[4\]\[8\]\[17\]. SFF's Q4 2025 gross revenue and its Q4 and Q1 net revenue are derived from the growth rates and margins the foundation published, not stated directly.
 

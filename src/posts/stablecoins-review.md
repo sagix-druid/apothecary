@@ -32,461 +32,318 @@ Three primary forces drive this transformation: regulatory clarification through
 
 Our comprehensive analysis covers 35 distinct stablecoin implementations across traditional fiat-backed, synthetic, commodity-backed, and emerging yield-bearing categories:
 
-Rank
-
-Name
-
-Market Cap
-
-Type
-
-GENIUS Compliant
-
-APY/Yield
-
-1
-
-USDT (Tether)
-
-$171.5B
-
-Fiat/Hybrid
-
-Working on it
-
-No
-
-2
-
-USDC (USD Coin)
-
-$67.7B
-
-Fiat
-
-✅ Yes
-
-No
-
-3
-
-USDE (Ethena)
-
-$14.0B
-
-Synthetic
-
-❌ No
-
-6-19%
-
-4
-
-USDS (Sky)
-
-$5.6B
-
-Crypto/RWA
-
-❌ No
-
-Variable
-
-5
-
-DAI
-
-$3.0B
-
-Crypto
-
-❌ No
-
-Variable
-
-6
-
-USD1 (World Liberty)
-
-$2.3B
-
-Fiat
-
-✅ Likely
-
-No
-
-7
-
-USDF (Falcon)
-
-$1.9B
-
-Synthetic
-
-Unknown
-
-10-12.8%
-
-8
-
-USDTB
-
-$1.8B
-
-RWA
-
-✅ Likely
-
-No
-
-9
-
-BFUSD (Binance)
-
-$1.7B
-
-Hybrid
-
-Unknown
-
-Daily rewards
-
-10
-
-PYUSD (PayPal)
-
-$1.4B
-
-Fiat
-
-✅ Yes
-
-3.7%
-
-11
-
-XAUT (Tether Gold)
-
-$1.4B
-
-Gold
-
-N/A
-
-No
-
-12
-
-FDUSD
-
-$1.2B
-
-Fiat
-
-❌ No
-
-No
-
-13
-
-PAXG (PAX Gold)
-
-$1.1B
-
-Gold
-
-N/A
-
-No
-
-14
-
-RLUSD (Ripple)
-
-$730M
-
-Fiat
-
-✅ Maybe
-
-No
-
-15
-
-USDX
-
-$680M
-
-Synthetic
-
-❌ No
-
-No
-
-16
-
-USDG
-
-$650M
-
-Fiat
-
-❌ No
-
-Revenue share
-
-17
-
-USD0 (Usual)
-
-$600M
-
-RWA
-
-❌ No
-
-No
-
-18
-
-USDD
-
-$558M
-
-Crypto
-
-❌ No
-
-No
-
-19
-
-TUSD
-
-$493M
-
-Fiat
-
-✅ Maybe
-
-No
-
-20
-
-USDB
-
-$82M
-
-Bridged
-
-❌ No
-
-Yes
-
-21
-
-FRAX
-
-$1.1B
-
-Hybrid
-
-❌ No
-
-Variable
-
-22
-
-USDM (Mountain)
-
-Not specified
-
-RWA
-
-Unknown
-
-5%
-
-23
-
-USDY (Ondo)
-
-$630M
-
-RWA
-
-Unknown
-
-4-5%
-
-24
-
-sDAI (Sky)
-
-Part of DAI
-
-Yield-bearing
-
-❌ No
-
-~5%
-
-25
-
-sUSDe (Ethena)
-
-Part of USDe
-
-Yield-bearing
-
-❌ No
-
-Variable
-
-26
-
-sUSDC (Spark)
-
-Unknown
-
-Yield-bearing
-
-❌ No
-
-4.5-8.75%
-
-27
-
-sUSDT (Spark)
-
-Development
-
-Yield-bearing
-
-❌ No
-
-Coming soon
-
-28
-
-BUIDL (BlackRock)
-
-$2.1B+
-
-Tokenized Treasury
-
-Unknown
-
-Daily dividends
-
-29
-
-BENJI/FOBXX (Franklin)
-
-$780M
-
-Tokenized MMF
-
-Unknown
-
-Stable $1 NAV
-
-30
-
-OUSG (Ondo)
-
-$500M+
-
-RWA/Treasury
-
-Unknown
-
-5%
-
-31
-
-USDY (Ondo)
-
-$630M
-
-RWA/Treasury
-
-Unknown
-
-4-5%
-
-32
-
-BUCK (Bucket)
-
-$70M
-
-Crypto/Over-collat.
-
-❌ No
-
-No
-
-33
-
-sUSD (Solayer)
-
-Unknown
-
-RWA/T-Bills
-
-❌ No
-
-4-5%
-
-34
-
-syrupUSDC (Maple)
-
-Unknown
-
-Yield-bearing
-
-❌ No
-
-Variable
-
-35
-
-aUSDC (Aave)
-
-$35M
-
-Interest-bearing
-
-❌ No
-
-Variable
-
-36
-
-YLDS (Figure)
-
-Unknown
-
-SEC-approved
-
-✅ Yes
-
-3.85%
-
-37
-
-YBX (marginfi)
-
-Development
-
-LST-backed
-
-❌ No
-
-Coming soon
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Name</th>
+<th>Market Cap</th>
+<th>Type</th>
+<th>GENIUS Compliant</th>
+<th>APY/Yield</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>USDT (Tether)</td>
+<td>$171.5B</td>
+<td>Fiat/Hybrid</td>
+<td>Working on it</td>
+<td>No</td>
+</tr>
+<tr>
+<td>2</td>
+<td>USDC (USD Coin)</td>
+<td>$67.7B</td>
+<td>Fiat</td>
+<td>✅ Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td>3</td>
+<td>USDE (Ethena)</td>
+<td>$14.0B</td>
+<td>Synthetic</td>
+<td>❌ No</td>
+<td>6-19%</td>
+</tr>
+<tr>
+<td>4</td>
+<td>USDS (Sky)</td>
+<td>$5.6B</td>
+<td>Crypto/RWA</td>
+<td>❌ No</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>5</td>
+<td>DAI</td>
+<td>$3.0B</td>
+<td>Crypto</td>
+<td>❌ No</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>6</td>
+<td>USD1 (World Liberty)</td>
+<td>$2.3B</td>
+<td>Fiat</td>
+<td>✅ Likely</td>
+<td>No</td>
+</tr>
+<tr>
+<td>7</td>
+<td>USDF (Falcon)</td>
+<td>$1.9B</td>
+<td>Synthetic</td>
+<td>Unknown</td>
+<td>10-12.8%</td>
+</tr>
+<tr>
+<td>8</td>
+<td>USDTB</td>
+<td>$1.8B</td>
+<td>RWA</td>
+<td>✅ Likely</td>
+<td>No</td>
+</tr>
+<tr>
+<td>9</td>
+<td>BFUSD (Binance)</td>
+<td>$1.7B</td>
+<td>Hybrid</td>
+<td>Unknown</td>
+<td>Daily rewards</td>
+</tr>
+<tr>
+<td>10</td>
+<td>PYUSD (PayPal)</td>
+<td>$1.4B</td>
+<td>Fiat</td>
+<td>✅ Yes</td>
+<td>3.7%</td>
+</tr>
+<tr>
+<td>11</td>
+<td>XAUT (Tether Gold)</td>
+<td>$1.4B</td>
+<td>Gold</td>
+<td>N/A</td>
+<td>No</td>
+</tr>
+<tr>
+<td>12</td>
+<td>FDUSD</td>
+<td>$1.2B</td>
+<td>Fiat</td>
+<td>❌ No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>13</td>
+<td>PAXG (PAX Gold)</td>
+<td>$1.1B</td>
+<td>Gold</td>
+<td>N/A</td>
+<td>No</td>
+</tr>
+<tr>
+<td>14</td>
+<td>RLUSD (Ripple)</td>
+<td>$730M</td>
+<td>Fiat</td>
+<td>✅ Maybe</td>
+<td>No</td>
+</tr>
+<tr>
+<td>15</td>
+<td>USDX</td>
+<td>$680M</td>
+<td>Synthetic</td>
+<td>❌ No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>16</td>
+<td>USDG</td>
+<td>$650M</td>
+<td>Fiat</td>
+<td>❌ No</td>
+<td>Revenue share</td>
+</tr>
+<tr>
+<td>17</td>
+<td>USD0 (Usual)</td>
+<td>$600M</td>
+<td>RWA</td>
+<td>❌ No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>18</td>
+<td>USDD</td>
+<td>$558M</td>
+<td>Crypto</td>
+<td>❌ No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>19</td>
+<td>TUSD</td>
+<td>$493M</td>
+<td>Fiat</td>
+<td>✅ Maybe</td>
+<td>No</td>
+</tr>
+<tr>
+<td>20</td>
+<td>USDB</td>
+<td>$82M</td>
+<td>Bridged</td>
+<td>❌ No</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>21</td>
+<td>FRAX</td>
+<td>$1.1B</td>
+<td>Hybrid</td>
+<td>❌ No</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>22</td>
+<td>USDM (Mountain)</td>
+<td>Not specified</td>
+<td>RWA</td>
+<td>Unknown</td>
+<td>5%</td>
+</tr>
+<tr>
+<td>23</td>
+<td>USDY (Ondo)</td>
+<td>$630M</td>
+<td>RWA</td>
+<td>Unknown</td>
+<td>4-5%</td>
+</tr>
+<tr>
+<td>24</td>
+<td>sDAI (Sky)</td>
+<td>Part of DAI</td>
+<td>Yield-bearing</td>
+<td>❌ No</td>
+<td>~5%</td>
+</tr>
+<tr>
+<td>25</td>
+<td>sUSDe (Ethena)</td>
+<td>Part of USDe</td>
+<td>Yield-bearing</td>
+<td>❌ No</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>26</td>
+<td>sUSDC (Spark)</td>
+<td>Unknown</td>
+<td>Yield-bearing</td>
+<td>❌ No</td>
+<td>4.5-8.75%</td>
+</tr>
+<tr>
+<td>27</td>
+<td>sUSDT (Spark)</td>
+<td>Development</td>
+<td>Yield-bearing</td>
+<td>❌ No</td>
+<td>Coming soon</td>
+</tr>
+<tr>
+<td>28</td>
+<td>BUIDL (BlackRock)</td>
+<td>$2.1B+</td>
+<td>Tokenized Treasury</td>
+<td>Unknown</td>
+<td>Daily dividends</td>
+</tr>
+<tr>
+<td>29</td>
+<td>BENJI/FOBXX (Franklin)</td>
+<td>$780M</td>
+<td>Tokenized MMF</td>
+<td>Unknown</td>
+<td>Stable $1 NAV</td>
+</tr>
+<tr>
+<td>30</td>
+<td>OUSG (Ondo)</td>
+<td>$500M+</td>
+<td>RWA/Treasury</td>
+<td>Unknown</td>
+<td>5%</td>
+</tr>
+<tr>
+<td>31</td>
+<td>USDY (Ondo)</td>
+<td>$630M</td>
+<td>RWA/Treasury</td>
+<td>Unknown</td>
+<td>4-5%</td>
+</tr>
+<tr>
+<td>32</td>
+<td>BUCK (Bucket)</td>
+<td>$70M</td>
+<td>Crypto/Over-collat.</td>
+<td>❌ No</td>
+<td>No</td>
+</tr>
+<tr>
+<td>33</td>
+<td>sUSD (Solayer)</td>
+<td>Unknown</td>
+<td>RWA/T-Bills</td>
+<td>❌ No</td>
+<td>4-5%</td>
+</tr>
+<tr>
+<td>34</td>
+<td>syrupUSDC (Maple)</td>
+<td>Unknown</td>
+<td>Yield-bearing</td>
+<td>❌ No</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>35</td>
+<td>aUSDC (Aave)</td>
+<td>$35M</td>
+<td>Interest-bearing</td>
+<td>❌ No</td>
+<td>Variable</td>
+</tr>
+<tr>
+<td>36</td>
+<td>YLDS (Figure)</td>
+<td>Unknown</td>
+<td>SEC-approved</td>
+<td>✅ Yes</td>
+<td>3.85%</td>
+</tr>
+<tr>
+<td>37</td>
+<td>YBX (marginfi)</td>
+<td>Development</td>
+<td>LST-backed</td>
+<td>❌ No</td>
+<td>Coming soon</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/frankencoin/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Frankencoin: A Swiss-made approach to decentralized stablecoins</div><div class="kg-bookmark-description">Frankencoin (ZCHF): Swiss franc stablecoin with oracle-free design from University of Zurich PhD research. Vs MakerDAO/Terra comparisons, risk analysis, FPS governance, yield mechanics, and DeFi portfolio considerations.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="/content/images/icon/IMG_6106-7-59.JPG" alt=""><span class="kg-bookmark-author">Sagix Apothecary</span><span class="kg-bookmark-publisher">Sagix</span></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/thumbnail/e035ba60-b982-4e92-9928-ac069e456a91.jpg" alt=""></div></a></figure>
 

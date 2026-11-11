@@ -20,53 +20,54 @@ Este é o portfólio pessoal de fundos imobiliários do Druida, compartilhado aq
 
 ## Visão geral do portfólio
 
-Setor
-
-Alocação
-
-Fundos
-
-Logístico
-
-21%
-
-7 × 3%
-
-Shopping
-
-20%
-
-4 × 5%
-
-Renda Urbana
-
-20%
-
-4 × 5%
-
-Lajes Corporativas
-
-21%
-
-7 × 3%
-
-Papel
-
-12%
-
-6 × 2%
-
-FOF
-
-6%
-
-3 × 2%
-
-**Total**
-
-**100%**
-
-**31**
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Setor</th>
+<th>Alocação</th>
+<th>Fundos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Logístico</td>
+<td>21%</td>
+<td>7 × 3%</td>
+</tr>
+<tr>
+<td>Shopping</td>
+<td>20%</td>
+<td>4 × 5%</td>
+</tr>
+<tr>
+<td>Renda Urbana</td>
+<td>20%</td>
+<td>4 × 5%</td>
+</tr>
+<tr>
+<td>Lajes Corporativas</td>
+<td>21%</td>
+<td>7 × 3%</td>
+</tr>
+<tr>
+<td>Papel</td>
+<td>12%</td>
+<td>6 × 2%</td>
+</tr>
+<tr>
+<td>FOF</td>
+<td>6%</td>
+<td>3 × 2%</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>100%</strong></td>
+<td><strong>31</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 
@@ -74,337 +75,309 @@ FOF
 
 ### 🏭 Logístico (21%)
 
-Ticker
-
-Gestora
-
-Alocação
-
-Link
-
-BRCO11
-
-Bresco
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/brco11)
-
-BTLG11
-
-BTG Pactual
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/btlg11)
-
-HSLG11
-
-HSI
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/hslg11)
-
-LVBI11
-
-VBI
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/lvbi11)
-
-TRBL11
-
-Rio Bravo
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/trbl11)
-
-VILG11
-
-Vinci
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/vilg11)
-
-XPLG11
-
-XP Asset
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/xplg11)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Ticker</th>
+<th>Gestora</th>
+<th>Alocação</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BRCO11</td>
+<td>Bresco</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/brco11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>BTLG11</td>
+<td>BTG Pactual</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/btlg11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>HSLG11</td>
+<td>HSI</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/hslg11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>LVBI11</td>
+<td>VBI</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/lvbi11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>TRBL11</td>
+<td>Rio Bravo</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/trbl11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>VILG11</td>
+<td>Vinci</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/vilg11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>XPLG11</td>
+<td>XP Asset</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/xplg11">FundsExplorer</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/99ed5de7-ebb3-4d04-ab7b-95d42d39dee0.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2025/11/99ed5de7-ebb3-4d04-ab7b-95d42d39dee0.jpg 600w, /content/images/size/w1000/2025/11/99ed5de7-ebb3-4d04-ab7b-95d42d39dee0.jpg 1000w, /content/images/2025/11/99ed5de7-ebb3-4d04-ab7b-95d42d39dee0.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
 ### 🛒 Shopping (20%)
 
-Ticker
-
-Gestora
-
-Alocação
-
-Link
-
-HSML11
-
-HSI
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/hsml11)
-
-MALL11
-
-Genial
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/mall11)
-
-VISC11
-
-Vinci
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/visc11)
-
-XPML11
-
-XP Asset
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/xpml11)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Ticker</th>
+<th>Gestora</th>
+<th>Alocação</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HSML11</td>
+<td>HSI</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/hsml11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>MALL11</td>
+<td>Genial</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/mall11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>VISC11</td>
+<td>Vinci</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/visc11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>XPML11</td>
+<td>XP Asset</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/xpml11">FundsExplorer</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/9177b4f7-71fb-4bd2-8cb3-b8e6a3581ed3.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2025/11/9177b4f7-71fb-4bd2-8cb3-b8e6a3581ed3.jpg 600w, /content/images/size/w1000/2025/11/9177b4f7-71fb-4bd2-8cb3-b8e6a3581ed3.jpg 1000w, /content/images/2025/11/9177b4f7-71fb-4bd2-8cb3-b8e6a3581ed3.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
 ### 🏪 Renda Urbana (20%)
 
-Ticker
-
-Gestora
-
-Alocação
-
-Link
-
-GARE11
-
-Guardian
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/gare11)
-
-HGRU11
-
-Pátria
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/hgru11)
-
-TRXF11
-
-TRX
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/trxf11)
-
-VIUR11
-
-Vinci
-
-5%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/viur11)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Ticker</th>
+<th>Gestora</th>
+<th>Alocação</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GARE11</td>
+<td>Guardian</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/gare11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>HGRU11</td>
+<td>Pátria</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/hgru11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>TRXF11</td>
+<td>TRX</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/trxf11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>VIUR11</td>
+<td>Vinci</td>
+<td>5%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/viur11">FundsExplorer</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/89abe7fc-5416-45be-9431-5df98e35ca90.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2025/11/89abe7fc-5416-45be-9431-5df98e35ca90.jpg 600w, /content/images/size/w1000/2025/11/89abe7fc-5416-45be-9431-5df98e35ca90.jpg 1000w, /content/images/2025/11/89abe7fc-5416-45be-9431-5df98e35ca90.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
 ### 🏢 Lajes Corporativas (21%)
 
-Ticker
-
-Gestora
-
-Alocação
-
-Link
-
-HGRE11
-
-Pátria
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/hgre11)
-
-JSRE11
-
-Safra
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/jsre11)
-
-KNRI11
-
-Kinea
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/knri11)
-
-PVBI11
-
-VBI
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/pvbi11)
-
-RCRB11
-
-Rio Bravo
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/rcrb11)
-
-TOPP11
-
-RBR
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/topp11)
-
-VINO11
-
-Vinci
-
-3%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/vino11)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Ticker</th>
+<th>Gestora</th>
+<th>Alocação</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HGRE11</td>
+<td>Pátria</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/hgre11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>JSRE11</td>
+<td>Safra</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/jsre11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>KNRI11</td>
+<td>Kinea</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/knri11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>PVBI11</td>
+<td>VBI</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/pvbi11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>RCRB11</td>
+<td>Rio Bravo</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/rcrb11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>TOPP11</td>
+<td>RBR</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/topp11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>VINO11</td>
+<td>Vinci</td>
+<td>3%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/vino11">FundsExplorer</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/68e85782-c715-4151-a905-e828b154d29a.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2025/11/68e85782-c715-4151-a905-e828b154d29a.jpg 600w, /content/images/size/w1000/2025/11/68e85782-c715-4151-a905-e828b154d29a.jpg 1000w, /content/images/2025/11/68e85782-c715-4151-a905-e828b154d29a.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
 ### 📄 Papel (12%)
 
-Ticker
-
-Gestora
-
-Alocação
-
-Link
-
-HGCR11
-
-Pátria
-
-2%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/hgcr11)
-
-KNSC11
-
-Kinea
-
-2%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/knsc11)
-
-MCCI11
-
-Mauá
-
-2%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/mcci11)
-
-RBRR11
-
-RBR
-
-2%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/rbrr11)
-
-RBRY11
-
-RBR
-
-2%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/rbry11)
-
-VRTA11
-
-Fator
-
-2%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/vrta11)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Ticker</th>
+<th>Gestora</th>
+<th>Alocação</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HGCR11</td>
+<td>Pátria</td>
+<td>2%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/hgcr11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>KNSC11</td>
+<td>Kinea</td>
+<td>2%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/knsc11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>MCCI11</td>
+<td>Mauá</td>
+<td>2%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/mcci11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>RBRR11</td>
+<td>RBR</td>
+<td>2%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/rbrr11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>RBRY11</td>
+<td>RBR</td>
+<td>2%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/rbry11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>VRTA11</td>
+<td>Fator</td>
+<td>2%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/vrta11">FundsExplorer</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <figure class="kg-card kg-image-card"><img src="/content/images/2025/11/f4626ce6-0e3e-443e-8b09-57a5cf36e0e9.jpg" class="kg-image" alt="" loading="lazy" width="1280" height="720" srcset="/content/images/size/w600/2025/11/f4626ce6-0e3e-443e-8b09-57a5cf36e0e9.jpg 600w, /content/images/size/w1000/2025/11/f4626ce6-0e3e-443e-8b09-57a5cf36e0e9.jpg 1000w, /content/images/2025/11/f4626ce6-0e3e-443e-8b09-57a5cf36e0e9.jpg 1280w" sizes="(min-width: 720px) 720px"></figure>
 
 ### 📊 FOF (6%)
 
-Ticker
-
-Gestora
-
-DY 12M
-
-P/VP
-
-Alocação
-
-Link
-
-BTHF11
-
-BTG Pactual
-
-12,57%
-
-0,85
-
-2,0%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/bthf11)
-
-KFOF11
-
-Kinea
-
-11,04%
-
-0,92
-
-2,0%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/kfof11)
-
-RBRF11
-
-RBR
-
-~12%
-
-0,88
-
-2,0%
-
-[FundsExplorer](https://www.fundsexplorer.com.br/funds/rbrf11)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Ticker</th>
+<th>Gestora</th>
+<th>DY 12M</th>
+<th>P/VP</th>
+<th>Alocação</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BTHF11</td>
+<td>BTG Pactual</td>
+<td>12,57%</td>
+<td>0,85</td>
+<td>2,0%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/bthf11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>KFOF11</td>
+<td>Kinea</td>
+<td>11,04%</td>
+<td>0,92</td>
+<td>2,0%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/kfof11">FundsExplorer</a></td>
+</tr>
+<tr>
+<td>RBRF11</td>
+<td>RBR</td>
+<td>~12%</td>
+<td>0,88</td>
+<td>2,0%</td>
+<td><a href="https://www.fundsexplorer.com.br/funds/rbrf11">FundsExplorer</a></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **Por que estes 3 FOFs:**
 
@@ -416,129 +389,117 @@ RBR
 
 ## Comparação: portfólio vs. IFIX
 
-Indicador
-
-Portfólio
-
-IFIX
-
-Vantagem
-
-Yield 12M
-
-10,80%
-
-10,48%
-
-+0,32%
-
-P/VP médio
-
-0,91
-
-0,94
-
-Mais descontado
-
-Logístico
-
-21%
-
-33,8%
-
-Menos concentrado
-
-Papel
-
-12%
-
-27,6%
-
-Menor risco de juros
-
-Lajes
-
-21%
-
-15,9%
-
-Overweight em setor barato
-
-Shopping
-
-20%
-
-11,8%
-
-Recuperação pós-pandemia
-
-Renda Urbana
-
-20%
-
-6,4%
-
-Yields >13% ignorados pelo índice
-
-Top 10
-
-~28%
-
-~48%
-
-Muito mais diversificado
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Indicador</th>
+<th>Portfólio</th>
+<th>IFIX</th>
+<th>Vantagem</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Yield 12M</td>
+<td>10,80%</td>
+<td>10,48%</td>
+<td>+0,32%</td>
+</tr>
+<tr>
+<td>P/VP médio</td>
+<td>0,91</td>
+<td>0,94</td>
+<td>Mais descontado</td>
+</tr>
+<tr>
+<td>Logístico</td>
+<td>21%</td>
+<td>33,8%</td>
+<td>Menos concentrado</td>
+</tr>
+<tr>
+<td>Papel</td>
+<td>12%</td>
+<td>27,6%</td>
+<td>Menor risco de juros</td>
+</tr>
+<tr>
+<td>Lajes</td>
+<td>21%</td>
+<td>15,9%</td>
+<td>Overweight em setor barato</td>
+</tr>
+<tr>
+<td>Shopping</td>
+<td>20%</td>
+<td>11,8%</td>
+<td>Recuperação pós-pandemia</td>
+</tr>
+<tr>
+<td>Renda Urbana</td>
+<td>20%</td>
+<td>6,4%</td>
+<td>Yields &gt;13% ignorados pelo índice</td>
+</tr>
+<tr>
+<td>Top 10</td>
+<td>~28%</td>
+<td>~48%</td>
+<td>Muito mais diversificado</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 
 ## FIIs vs. renda fixa (Selic 11,25%)
 
-Produto
-
-Rent. bruta
-
-IR
-
-Rent. líquida
-
-**Portfólio FII**
-
-10,80%
-
-Isento
-
-**10,80%**
-
-Poupança
-
-6,17%
-
-Isento
-
-6,17%
-
-CDB 100% CDI
-
-11,15%
-
-15-22,5%
-
-8,70-9,50%
-
-Tesouro Selic
-
-11,15%
-
-15-22,5%
-
-8,70-9,50%
-
-Tesouro Prefixado
-
-13,5%
-
-15%
-
-~11,5%
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Produto</th>
+<th>Rent. bruta</th>
+<th>IR</th>
+<th>Rent. líquida</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Portfólio FII</strong></td>
+<td>10,80%</td>
+<td>Isento</td>
+<td><strong>10,80%</strong></td>
+</tr>
+<tr>
+<td>Poupança</td>
+<td>6,17%</td>
+<td>Isento</td>
+<td>6,17%</td>
+</tr>
+<tr>
+<td>CDB 100% CDI</td>
+<td>11,15%</td>
+<td>15-22,5%</td>
+<td>8,70-9,50%</td>
+</tr>
+<tr>
+<td>Tesouro Selic</td>
+<td>11,15%</td>
+<td>15-22,5%</td>
+<td>8,70-9,50%</td>
+</tr>
+<tr>
+<td>Tesouro Prefixado</td>
+<td>13,5%</td>
+<td>15%</td>
+<td>~11,5%</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 O yield de 10,80% isento equivale a ~15-16% bruto em renda fixa tributada.
 
@@ -558,59 +519,59 @@ O yield de 10,80% isento equivale a ~15-16% bruto em renda fixa tributada.
 
 ## Gestoras do portfólio
 
-Gestora
-
-Fundos
-
-Exposição
-
-Vinci
-
-4
-
-16%
-
-Pátria
-
-3
-
-10%
-
-RBR
-
-4
-
-9%
-
-XP Asset
-
-2
-
-8%
-
-HSI
-
-2
-
-8%
-
-Kinea
-
-3
-
-7%
-
-VBI
-
-2
-
-6%
-
-BTG Pactual
-
-2
-
-5%
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Gestora</th>
+<th>Fundos</th>
+<th>Exposição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vinci</td>
+<td>4</td>
+<td>16%</td>
+</tr>
+<tr>
+<td>Pátria</td>
+<td>3</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>RBR</td>
+<td>4</td>
+<td>9%</td>
+</tr>
+<tr>
+<td>XP Asset</td>
+<td>2</td>
+<td>8%</td>
+</tr>
+<tr>
+<td>HSI</td>
+<td>2</td>
+<td>8%</td>
+</tr>
+<tr>
+<td>Kinea</td>
+<td>3</td>
+<td>7%</td>
+</tr>
+<tr>
+<td>VBI</td>
+<td>2</td>
+<td>6%</td>
+</tr>
+<tr>
+<td>BTG Pactual</td>
+<td>2</td>
+<td>5%</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 

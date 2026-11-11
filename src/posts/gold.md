@@ -80,85 +80,74 @@ The three tokens segment the market along regulatory rigor, accessibility, and e
 
 **Liquidity concentrates in the leaders.** Combined xAUt and PAXG trading volume exceeds 97% of the tokenized gold market. VNXAU's $28,000 daily volume versus xAUt's $100+ million creates meaningful execution risk for larger positions.
 
-Attribute
-
-xAUt
-
-PAXG
-
-VNXAU
-
-Market cap
-
-~$2.1B
-
-~$1.8B
-
-~$4M
-
-Unit size
-
-1 troy oz
-
-1 troy oz
-
-1 gram
-
-Jurisdiction
-
-El Salvador
-
-USA (OCC)
-
-Liechtenstein
-
-Custody location
-
-Switzerland
-
-London
-
-Liechtenstein
-
-Auditor
-
-BDO Italia
-
-KPMG
-
-Areva General
-
-Audit frequency
-
-Quarterly
-
-Monthly
-
-Regular
-
-Creation fee
-
-0.25%
-
-0-1% tiered
-
-2.5%
-
-Physical redemption
-
-430 oz (~$2M)
-
-430 oz (~$2M)
-
-1 kg (~$89K)
-
-Blockchains
-
-6+
-
-Ethereum only
-
-7+
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>xAUt</th>
+<th>PAXG</th>
+<th>VNXAU</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Market cap</td>
+<td>~$2.1B</td>
+<td>~$1.8B</td>
+<td>~$4M</td>
+</tr>
+<tr>
+<td>Unit size</td>
+<td>1 troy oz</td>
+<td>1 troy oz</td>
+<td>1 gram</td>
+</tr>
+<tr>
+<td>Jurisdiction</td>
+<td>El Salvador</td>
+<td>USA (OCC)</td>
+<td>Liechtenstein</td>
+</tr>
+<tr>
+<td>Custody location</td>
+<td>Switzerland</td>
+<td>London</td>
+<td>Liechtenstein</td>
+</tr>
+<tr>
+<td>Auditor</td>
+<td>BDO Italia</td>
+<td>KPMG</td>
+<td>Areva General</td>
+</tr>
+<tr>
+<td>Audit frequency</td>
+<td>Quarterly</td>
+<td>Monthly</td>
+<td>Regular</td>
+</tr>
+<tr>
+<td>Creation fee</td>
+<td>0.25%</td>
+<td>0-1% tiered</td>
+<td>2.5%</td>
+</tr>
+<tr>
+<td>Physical redemption</td>
+<td>430 oz (~$2M)</td>
+<td>430 oz (~$2M)</td>
+<td>1 kg (~$89K)</td>
+</tr>
+<tr>
+<td>Blockchains</td>
+<td>6+</td>
+<td>Ethereum only</td>
+<td>7+</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ## Tokenized gold disrupts traditional gold investment economics
 

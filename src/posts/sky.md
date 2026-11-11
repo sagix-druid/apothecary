@@ -98,65 +98,64 @@ The regulatory picture adds another open question. The GENIUS Act, signed in Jul
 
 Our Frankencoin analysis compared the Swiss protocol to Sky from the smaller project's perspective. The comparison reads differently from this side of the table.
 
-Feature
-
-Sky (USDS/DAI)
-
-Frankencoin (ZCHF)
-
-Peg target
-
-US dollar
-
-Swiss franc
-
-Scale
-
-~$10 billion supply
-
-~16 million ZCHF supply
-
-Oracle dependency
-
-Yes (price feeds)
-
-None (auction-based)
-
-Collateral
-
-Crypto, USDC, Treasuries, private credit
-
-Crypto only
-
-Liquidation speed
-
-Minutes
-
-Days
-
-Governance
-
-Majority voting, low turnout
-
-Veto-based, 2% threshold
-
-Yield source
-
-Spread on diversified allocations
-
-Borrower interest and fees
-
-Credit rating
-
-S&P B-
-
-None
-
-Censorship surface
-
-USDC in PSM freezable
-
-None at protocol level
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Sky (USDS/DAI)</th>
+<th>Frankencoin (ZCHF)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Peg target</td>
+<td>US dollar</td>
+<td>Swiss franc</td>
+</tr>
+<tr>
+<td>Scale</td>
+<td>~$10 billion supply</td>
+<td>~16 million ZCHF supply</td>
+</tr>
+<tr>
+<td>Oracle dependency</td>
+<td>Yes (price feeds)</td>
+<td>None (auction-based)</td>
+</tr>
+<tr>
+<td>Collateral</td>
+<td>Crypto, USDC, Treasuries, private credit</td>
+<td>Crypto only</td>
+</tr>
+<tr>
+<td>Liquidation speed</td>
+<td>Minutes</td>
+<td>Days</td>
+</tr>
+<tr>
+<td>Governance</td>
+<td>Majority voting, low turnout</td>
+<td>Veto-based, 2% threshold</td>
+</tr>
+<tr>
+<td>Yield source</td>
+<td>Spread on diversified allocations</td>
+<td>Borrower interest and fees</td>
+</tr>
+<tr>
+<td>Credit rating</td>
+<td>S&amp;P B-</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Censorship surface</td>
+<td>USDC in PSM freezable</td>
+<td>None at protocol level</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 The two protocols started from the same idea, overcollateralized stablecoins governed by an equity-like token, and made opposite bets at every fork in the road. Frankencoin chose mechanism purity: no oracles, no fiat reserves, no real-world assets, accepting smallness as the price. Sky chose scale: it absorbed centralized collateral, off-chain credit, and institutional process, accepting that its decentralization is now a matter of degree rather than kind. Neither choice is obviously wrong. They are different products for different threat models, which is precisely why a diversified basket can hold exposure to both philosophies without contradiction.
 

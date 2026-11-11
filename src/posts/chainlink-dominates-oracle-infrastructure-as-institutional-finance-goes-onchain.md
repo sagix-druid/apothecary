@@ -20,47 +20,49 @@ Trading at **$13.00** with a **$9.0 billion** market cap (rank #14), LINK sits 7
 
 Chainlink's market position presents a striking paradox: record-breaking adoption metrics paired with depressed token valuations. The protocol secures over **$95-100 billion** in Total Value Secured, with **Aave v3 alone accounting for $70.9 billion** (~70% of Chainlink TVS) across 17 blockchain networks. This represents a 2.6x increase from approximately $38 billion in 2024.
 
-Metric
-
-Value
-
-Context
-
-**Price**
-
-$13.
-
-\-75% from $52.88 ATH (May 2021)
-
-**Market Cap**
-
-$9.00B
-
-Ranked #14, largest non-L1 token
-
-**Circulating Supply**
-
-697M LINK
-
-69.7% of 1B hard cap
-
-**TVS**
-
-$100B+
-
-163% YoY growth
-
-**Oracle Market Share**
-
-67-70%
-
-9x larger than nearest competitor
-
-**Ethereum TVS Dominance**
-
-83-84%
-
-Near monopoly on major DeFi
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+<th>Context</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Price</strong></td>
+<td>$13.</td>
+<td>-75% from $52.88 ATH (May 2021)</td>
+</tr>
+<tr>
+<td><strong>Market Cap</strong></td>
+<td>$9.00B</td>
+<td>Ranked #14, largest non-L1 token</td>
+</tr>
+<tr>
+<td><strong>Circulating Supply</strong></td>
+<td>697M LINK</td>
+<td>69.7% of 1B hard cap</td>
+</tr>
+<tr>
+<td><strong>TVS</strong></td>
+<td>$100B+</td>
+<td>163% YoY growth</td>
+</tr>
+<tr>
+<td><strong>Oracle Market Share</strong></td>
+<td>67-70%</td>
+<td>9x larger than nearest competitor</td>
+</tr>
+<tr>
+<td><strong>Ethereum TVS Dominance</strong></td>
+<td>83-84%</td>
+<td>Near monopoly on major DeFi</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Chainlink processes data for **90%+ of lending and derivatives protocols** on Ethereum, including Aave, Compound, Synthetix, GMX, and Venus. The network supports 2,000+ price feeds across 60+ blockchains, with 62 new integrations added in November 2025 alone. Notably, whale wallets holding 100K-1M LINK accumulated 40M+ additional tokens over the past year, while net exchange outflows suggest institutional positioning ahead of anticipated catalysts including Grayscale's spot ETF (GLNK) expected December 2025.
 
@@ -133,65 +135,56 @@ Chainlink's market share has declined from approximately 90% to 67-75% over 2024
 
 **RedStone** grew **7,300%** in 2024 to capture **$7.1 billion TVS** (8.1% share), specializing in liquid staking token (LST/LRT) pricing for the EigenLayer ecosystem. Its modular design supports both push and pull models across 110+ chains.
 
-Oracle
-
-TVS (Q3 2025)
-
-Model
-
-Latency
-
-Focus
-
-**Chainlink**
-
-$66.3B
-
-Push
-
-Seconds
-
-Lending, blue-chip DeFi
-
-**Chronicle**
-
-$8.6B
-
-Push (Scribe)
-
-Moderate
-
-RWAs, MakerDAO ecosystem
-
-**RedStone**
-
-$7.1B
-
-Modular
-
-Sub-second
-
-LST/LRT, new L2s
-
-**Pyth**
-
-$6.14B
-
-Pull
-
-1ms
-
-Derivatives, Solana
-
-**API3**
-
-Limited
-
-First-party
-
-Variable
-
-OEV recapture
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Oracle</th>
+<th>TVS (Q3 2025)</th>
+<th>Model</th>
+<th>Latency</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Chainlink</strong></td>
+<td>$66.3B</td>
+<td>Push</td>
+<td>Seconds</td>
+<td>Lending, blue-chip DeFi</td>
+</tr>
+<tr>
+<td><strong>Chronicle</strong></td>
+<td>$8.6B</td>
+<td>Push (Scribe)</td>
+<td>Moderate</td>
+<td>RWAs, MakerDAO ecosystem</td>
+</tr>
+<tr>
+<td><strong>RedStone</strong></td>
+<td>$7.1B</td>
+<td>Modular</td>
+<td>Sub-second</td>
+<td>LST/LRT, new L2s</td>
+</tr>
+<tr>
+<td><strong>Pyth</strong></td>
+<td>$6.14B</td>
+<td>Pull</td>
+<td>1ms</td>
+<td>Derivatives, Solana</td>
+</tr>
+<tr>
+<td><strong>API3</strong></td>
+<td>Limited</td>
+<td>First-party</td>
+<td>Variable</td>
+<td>OEV recapture</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **Band Protocol** has faded as a major competitor, pivoting toward "AI-Web3 data layer" positioning with approximately $143 million TVS tracked on DeFiLlama despite claiming $20 billion secured.
 
@@ -226,35 +219,39 @@ Chainlink itself has never been directly hacked in its 7+ year history, though i
 
 **Price targets vary significantly**:
 
-Source
-
-Target
-
-Methodology
-
-M31 Capital
-
-20-30x current
-
-TAM/infrastructure premium
-
-VirtualBacon
-
-$100-240
-
-Adoption trajectory
-
-Coinpedia
-
-$60 (2025), $213-253 (2030)
-
-Technical analysis
-
-Techopedia
-
-$11-19 (2025)
-
-Conservative/dilution concerns
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Target</th>
+<th>Methodology</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>M31 Capital</td>
+<td>20-30x current</td>
+<td>TAM/infrastructure premium</td>
+</tr>
+<tr>
+<td>VirtualBacon</td>
+<td>$100-240</td>
+<td>Adoption trajectory</td>
+</tr>
+<tr>
+<td>Coinpedia</td>
+<td>$60 (2025), $213-253 (2030)</td>
+<td>Technical analysis</td>
+</tr>
+<tr>
+<td>Techopedia</td>
+<td>$11-19 (2025)</td>
+<td>Conservative/dilution concerns</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 

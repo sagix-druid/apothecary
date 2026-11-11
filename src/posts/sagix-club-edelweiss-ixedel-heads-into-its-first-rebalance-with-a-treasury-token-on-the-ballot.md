@@ -14,87 +14,91 @@ Sagix has filed a governance proposal on Reserve Protocol to lock its defensive 
 
 The rebalance itself is overdue drift correction. ixEDEL launched on Ethereum mainnet on January 14, 2026 with fixed targets of 40% yield-bearing dollar stablecoins, 20% tokenized gold, 20% Swiss franc, and 20% Bitcoin. Bitcoin then fell roughly 36% and gold nearly 11%. The index lost about 9%. The franc and the stablecoins held, so they now sit fat above target while the two assets that fell sit thin below it.
 
-Component
-
-Move since launch
-
-Weight now
-
-Target
-
-Bitcoin (cbBTC)
-
-−35.99%
-
-12.68%
-
-20%
-
-Gold (xAUt)
-
-−10.65%
-
-17.86%
-
-20%
-
-Swiss franc (ZCHF)
-
-−0.65%
-
-24.76%
-
-20%
-
-USD stablecoins (3 tokens)
-
-+1.9% avg
-
-44.70%
-
-40%
-
-ixEDEL
-
-−9.1%
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Move since launch</th>
+<th>Weight now</th>
+<th>Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bitcoin (cbBTC)</td>
+<td>−35.99%</td>
+<td>12.68%</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Gold (xAUt)</td>
+<td>−10.65%</td>
+<td>17.86%</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Swiss franc (ZCHF)</td>
+<td>−0.65%</td>
+<td>24.76%</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>USD stablecoins (3 tokens)</td>
+<td>+1.9% avg</td>
+<td>44.70%</td>
+<td>40%</td>
+</tr>
+<tr>
+<td>ixEDEL</td>
+<td>−9.1%</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 The trade sells the survivors and buys the casualties. No discretion is involved, the targets are fixed and the schedule, if the proposal passes, will be too. Sagix cites research from 512M showing longer rebalancing cycles preserve more value than frequent trading, and settled on twice a year.
 
-Action
-
-Token
-
-Points
-
-Trim
-
-ZCHF
-
-4.76
-
-Trim
-
-sUSDS, steakUSDC, syrupUSDC
-
-14.70
-
-Buy
-
-USDY
-
-10.00
-
-Buy
-
-xAUt
-
-2.14
-
-Buy
-
-cbBTC
-
-7.32
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Token</th>
+<th>Points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trim</td>
+<td>ZCHF</td>
+<td>4.76</td>
+</tr>
+<tr>
+<td>Trim</td>
+<td>sUSDS, steakUSDC, syrupUSDC</td>
+<td>14.70</td>
+</tr>
+<tr>
+<td>Buy</td>
+<td>USDY</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td>Buy</td>
+<td>xAUt</td>
+<td>2.14</td>
+</tr>
+<tr>
+<td>Buy</td>
+<td>cbBTC</td>
+<td>7.32</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 USDY is the interesting addition. Every stablecoin in the current sleeve earns its yield from DeFi lending, Sky's savings rate, Morpho markets, Maple's loan book. None of it touches a Treasury bill. USDY is Ondo's tokenized note backed by short-term US Treasuries and bank deposits, and it is nearly alone in that category in having no transfer whitelist: minting is KYC-gated and closed to US persons under Reg S, but the token itself moves permissionlessly, which is why a $1 million swap quote fills on mainnet aggregators with price improvement rather than slippage. Reserve's Index DTFs use no oracles or collateral plugins, so the addition needs a governance vote and nothing else. The trade-offs are stated in the proposal: USDY is issuer paper from Ondo USDY LLC, not a fund share, and Ondo keeps a sanctions blocklist and a transfer pause switch.
 

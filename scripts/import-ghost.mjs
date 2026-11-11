@@ -22,6 +22,11 @@ turndown.addRule("marker", {
   filter: (node) => node.nodeName === "DIV" && node.getAttribute("data-marker"),
   replacement: (_, node) => `\n\n<!-- ${node.getAttribute("data-marker")} -->\n\n`,
 });
+// Ghost's HTML cards are the author's own markup, often with styles and scripts. They go into the Markdown untouched.
+turndown.addRule("rawHtmlCard", {
+  filter: (node) => node.nodeName === "DIV" && node.getAttribute("data-html-card") !== null,
+  replacement: (_, node) => `\n\n${htmlCards[Number(node.getAttribute("data-html-card"))]}\n\n`,
+});
 turndown.addRule("keepHtmlCards", {
   filter: (node) => node.nodeName === "DIV" && /kg-/.test(node.getAttribute("class") || ""),
   replacement: (_, node) => `\n\n${node.outerHTML}\n\n`,
@@ -31,7 +36,21 @@ turndown.addRule("keepFiguresOnOneBlock", {
   replacement: (_, node) => `\n\n${node.outerHTML}\n\n`,
 });
 
+// Markdown ends an HTML block at the first blank line and reads what follows as Markdown (indented code becomes a
+// code block), so a card keeps no blank lines. Each card is wrapped in one div so it stays a single HTML block.
+const htmlCards = [];
+function keepHtmlCard(_, card) {
+  const body = card
+    .replaceAll("__GHOST_URL__", "")
+    .split("\n")
+    .filter((line) => line.trim())
+    .join("\n");
+  htmlCards.push(`<div class="html-card">\n${body}\n</div>`);
+  return `<div data-html-card="${htmlCards.length - 1}">card</div>`;
+}
+
 function clean(html) {
+  html = html.replace(/<!--kg-card-begin: html-->([\s\S]*?)<!--kg-card-end: html-->/g, keepHtmlCard);
   const $ = cheerio.load(`<body>${html.replaceAll("__GHOST_URL__", "")}</body>`, null, false);
   $(".kg-signup-card").replaceWith('<div data-marker="signup">marker</div>');
   $('figure.kg-bookmark-card:has(a[href*="#/portal/support"])').replaceWith('<div data-marker="tip-card">marker</div>');
@@ -102,6 +121,8 @@ for (const post of published) {
   mkdirSync(dirname(out), { recursive: true });
   writeFileSync(out, front.join("\n") + body + "\n");
 }
+
+for (const card of htmlCards) for (const m of card.matchAll(/\/content\/images\/[^"'\s,)]+/g)) noteImage(m[0]);
 
 const settings = Object.fromEntries(db.settings.map((s) => [s.key, s.value]));
 const author = db.users[0];

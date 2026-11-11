@@ -133,53 +133,54 @@ The academic rigor behind Frankencoin provides a level of theoretical validation
 
 For readers familiar with Sky/MakerDAO, which we cover on our [Sky protocol page](https://claude.ai/sky), here is how the two systems compare:
 
-Feature
-
-Frankencoin (ZCHF)
-
-Sky/MakerDAO (DAI/USDS)
-
-**Peg target**
-
-Swiss franc (CHF)
-
-US dollar (USD)
-
-**Oracle dependency**
-
-None (auction-based)
-
-Yes (Chainlink, custom oracles)
-
-**Liquidation speed**
-
-Slower (days)
-
-Faster (minutes)
-
-**Collateral flexibility**
-
-Higher (any liquid asset)
-
-Lower (whitelist required)
-
-**Governance model**
-
-Veto-based (2% threshold)
-
-Majority voting
-
-**Market maturity**
-
-Younger, smaller
-
-Established, larger TVL
-
-**Regulatory status**
-
-Payment token (Swiss law)
-
-Security concerns in some jurisdictions
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Frankencoin (ZCHF)</th>
+<th>Sky/MakerDAO (DAI/USDS)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Peg target</strong></td>
+<td>Swiss franc (CHF)</td>
+<td>US dollar (USD)</td>
+</tr>
+<tr>
+<td><strong>Oracle dependency</strong></td>
+<td>None (auction-based)</td>
+<td>Yes (Chainlink, custom oracles)</td>
+</tr>
+<tr>
+<td><strong>Liquidation speed</strong></td>
+<td>Slower (days)</td>
+<td>Faster (minutes)</td>
+</tr>
+<tr>
+<td><strong>Collateral flexibility</strong></td>
+<td>Higher (any liquid asset)</td>
+<td>Lower (whitelist required)</td>
+</tr>
+<tr>
+<td><strong>Governance model</strong></td>
+<td>Veto-based (2% threshold)</td>
+<td>Majority voting</td>
+</tr>
+<tr>
+<td><strong>Market maturity</strong></td>
+<td>Younger, smaller</td>
+<td>Established, larger TVL</td>
+</tr>
+<tr>
+<td><strong>Regulatory status</strong></td>
+<td>Payment token (Swiss law)</td>
+<td>Security concerns in some jurisdictions</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **Key similarity:** Both are overcollateralized systems where users deposit crypto assets to mint stablecoins. Both have governance tokens (FPS/MKR) that absorb residual risk and earn system fees.
 
@@ -189,41 +190,44 @@ Security concerns in some jurisdictions
 
 For those who followed the catastrophic Terra collapse in May 2022, which we analyze in our Druid Deep Dive series, the comparison to Frankencoin is instructive:
 
-Feature
-
-Frankencoin (ZCHF)
-
-Terra (UST)
-
-**Collateral backing**
-
-~200% crypto-collateralized
-
-None (algorithmic)
-
-**Stabilization mechanism**
-
-Overcollateralization + reserves
-
-Burn/mint equilibrium with LUNA
-
-**Death spiral risk**
-
-Limited (backed by external assets)
-
-Extreme (circular dependency)
-
-**Governance token role**
-
-Provides equity capital cushion
-
-Absorbed all volatility
-
-**Yield source**
-
-Borrowing activity and fees
-
-Anchor Protocol (unsustainable 20% APY)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Frankencoin (ZCHF)</th>
+<th>Terra (UST)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Collateral backing</strong></td>
+<td>~200% crypto-collateralized</td>
+<td>None (algorithmic)</td>
+</tr>
+<tr>
+<td><strong>Stabilization mechanism</strong></td>
+<td>Overcollateralization + reserves</td>
+<td>Burn/mint equilibrium with LUNA</td>
+</tr>
+<tr>
+<td><strong>Death spiral risk</strong></td>
+<td>Limited (backed by external assets)</td>
+<td>Extreme (circular dependency)</td>
+</tr>
+<tr>
+<td><strong>Governance token role</strong></td>
+<td>Provides equity capital cushion</td>
+<td>Absorbed all volatility</td>
+</tr>
+<tr>
+<td><strong>Yield source</strong></td>
+<td>Borrowing activity and fees</td>
+<td>Anchor Protocol (unsustainable 20% APY)</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 **The fundamental difference:** Terra's UST was backed by LUNA, but LUNA's value derived from its ability to mint UST. This circular dependency created a reflexive death spiral when confidence broke. When UST lost its peg, everyone rushed to redeem, flooding the market with LUNA, which crashed LUNA's price, which made UST even more unbacked, creating a feedback loop that destroyed $45 billion in value within days.
 

@@ -50,55 +50,49 @@ Where:
 
 The table below demonstrates how different variables affect wealth accumulation using realistic market returns:
 
-Scenario
-
-Monthly Contribution
-
-Years Invested
-
-Annual Rate (APY)
-
-Future Value
-
-Baseline
-
-$500
-
-15
-
-3%
-
-$113,073
-
-Doubled Contribution
-
-$1,000
-
-15
-
-3%
-
-$226,146
-
-Doubled APY
-
-$500
-
-15
-
-6%
-
-$145,436
-
-Doubled Time
-
-$500
-
-30
-
-3%
-
-$290,935
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>Monthly Contribution</th>
+<th>Years Invested</th>
+<th>Annual Rate (APY)</th>
+<th>Future Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baseline</td>
+<td>$500</td>
+<td>15</td>
+<td>3%</td>
+<td>$113,073</td>
+</tr>
+<tr>
+<td>Doubled Contribution</td>
+<td>$1,000</td>
+<td>15</td>
+<td>3%</td>
+<td>$226,146</td>
+</tr>
+<tr>
+<td>Doubled APY</td>
+<td>$500</td>
+<td>15</td>
+<td>6%</td>
+<td>$145,436</td>
+</tr>
+<tr>
+<td>Doubled Time</td>
+<td>$500</td>
+<td>30</td>
+<td>3%</td>
+<td>$290,935</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 The results reveal the hierarchy of wealth-building factors:
 

@@ -187,103 +187,115 @@ No security exploits have affected Reserve Protocol since its October 2022 mainn
 
 ### Reserve vs. MakerDAO/Sky
 
-Feature
-
-Reserve DTFs
-
-MakerDAO/Sky
-
-Creation model
-
-Permissionless factory
-
-Single unified system
-
-Collateral structure
-
-1:1 diversified baskets
-
-Overcollateralized debt positions
-
-Backing approach
-
-RSR staking pool
-
-MKR dilution auctions
-
-Oracle dependency
-
-Yes (Yield DTFs) / No (Index DTFs)
-
-Yes
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Reserve DTFs</th>
+<th>MakerDAO/Sky</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Creation model</td>
+<td>Permissionless factory</td>
+<td>Single unified system</td>
+</tr>
+<tr>
+<td>Collateral structure</td>
+<td>1:1 diversified baskets</td>
+<td>Overcollateralized debt positions</td>
+</tr>
+<tr>
+<td>Backing approach</td>
+<td>RSR staking pool</td>
+<td>MKR dilution auctions</td>
+</tr>
+<tr>
+<td>Oracle dependency</td>
+<td>Yes (Yield DTFs) / No (Index DTFs)</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Reserve's key advantage lies in permissionless basket customization—anyone can create specialized products for different risk profiles. MakerDAO offers deeper liquidity and longer track record.
 
 ### Reserve vs. Frankencoin
 
-Feature
-
-Reserve DTFs
-
-Frankencoin
-
-Oracle dependency
-
-Yes (Yield) / No (Index)
-
-No (auction-based)
-
-Liquidation speed
-
-Minutes (automated)
-
-Days
-
-Governance model
-
-RSR staking/voting
-
-FPS veto-based (2% threshold)
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Reserve DTFs</th>
+<th>Frankencoin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oracle dependency</td>
+<td>Yes (Yield) / No (Index)</td>
+<td>No (auction-based)</td>
+</tr>
+<tr>
+<td>Liquidation speed</td>
+<td>Minutes (automated)</td>
+<td>Days</td>
+</tr>
+<tr>
+<td>Governance model</td>
+<td>RSR staking/voting</td>
+<td>FPS veto-based (2% threshold)</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Reserve offers faster liquidations and broader product variety. Frankencoin provides oracle manipulation resistance through its auction-based valuation system.
 
 ### Index DTFs vs. traditional ETFs
 
-Feature
-
-Reserve Index DTFs
-
-Traditional ETFs
-
-Trading hours
-
-24/7/365
-
-Market hours only
-
-Basket capacity
-
-50-100+ tokens
-
-Varies
-
-Custody
-
-Smart contracts
-
-Traditional custodian
-
-Redemption
-
-Instant, permissionless
-
-T+2, authorized participants
-
-DeFi composability
-
-Full
-
-None
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Reserve Index DTFs</th>
+<th>Traditional ETFs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trading hours</td>
+<td>24/7/365</td>
+<td>Market hours only</td>
+</tr>
+<tr>
+<td>Basket capacity</td>
+<td>50-100+ tokens</td>
+<td>Varies</td>
+</tr>
+<tr>
+<td>Custody</td>
+<td>Smart contracts</td>
+<td>Traditional custodian</td>
+</tr>
+<tr>
+<td>Redemption</td>
+<td>Instant, permissionless</td>
+<td>T+2, authorized participants</td>
+</tr>
+<tr>
+<td>DeFi composability</td>
+<td>Full</td>
+<td>None</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 

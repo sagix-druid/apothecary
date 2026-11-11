@@ -117,9 +117,13 @@ The free banking era’s revisionist scholarship demonstrates that sophisticated
 
 ---
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-druid-deep-dive-episode-1-when-anyone-could-print-money/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Druid Deep Dive Episode 1: “When Anyone Could Print Money”</div><div class="kg-bookmark-description">The Free Banking Era’s Revolutionary Experiment in Permissionless Finance (1837–1863)</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/1-sxiy_ddr8xz_gicemlb59q-jpeg.jpg" alt=""></div></a></figure>
+</div>
 
+<div class="html-card">
 <figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="/the-context-of-crypto-assets-in-modern-total-investment-portfolio/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">The Context of Crypto assets in Modern Total Investment Portfolio</div><div class="kg-bookmark-description">The principle of diversification — distributing investments across various assets to manage risk — is a foundational…</div><div class="kg-bookmark-metadata"></div></div><div class="kg-bookmark-thumbnail"><img src="/content/images/2025/09/0-5lgjp8xg0ogty6u6.jpg" alt=""></div></a></figure>
+</div>
 
 ### Sources and references
 

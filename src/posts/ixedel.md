@@ -105,45 +105,44 @@ Volatilities (annualized): USD 6%, CHF 9%, BTC 62%, Gold 16%, ETH 85%
 
 Traditional portfolios assume a single economic environment. Club Edelweiss prepares for four:
 
-Regime
-
-Growth
-
-Inflation
-
-Favored Assets
-
-**Goldilocks**
-
-Rising
-
-Falling
-
-Equities, Growth
-
-**Reflation**
-
-Rising
-
-Rising
-
-Commodities, TIPS
-
-**Deflation**
-
-Falling
-
-Falling
-
-Bonds, Cash
-
-**Stagflation**
-
-Falling
-
-Rising
-
-Gold, Real Assets
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Regime</th>
+<th>Growth</th>
+<th>Inflation</th>
+<th>Favored Assets</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Goldilocks</strong></td>
+<td>Rising</td>
+<td>Falling</td>
+<td>Equities, Growth</td>
+</tr>
+<tr>
+<td><strong>Reflation</strong></td>
+<td>Rising</td>
+<td>Rising</td>
+<td>Commodities, TIPS</td>
+</tr>
+<tr>
+<td><strong>Deflation</strong></td>
+<td>Falling</td>
+<td>Falling</td>
+<td>Bonds, Cash</td>
+</tr>
+<tr>
+<td><strong>Stagflation</strong></td>
+<td>Falling</td>
+<td>Rising</td>
+<td>Gold, Real Assets</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 The portfolio's allocations are designed to ensure at least one component performs in each environment:
 
@@ -176,37 +175,46 @@ The Sharpe ratio suggests the diversification benefit is real, but investors sho
 
 ## Fund details
 
-Parameter
-
-Value
-
-**Token**
-
-ixEDEL
-
-**Platform**
-
-Reserve Protocol
-
-**Network**
-
-Ethereum
-
-**TVL Fee**
-
-0.30% annually
-
-**Mint Fee**
-
-0.30%
-
-**Rebalancing**
-
-Yearly / Community Proposal Vote
-
-**Contract**
-
-`0xe4a10951f962e6cb93cb843a4ef05d2f99db1f94`
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Token</strong></td>
+<td>ixEDEL</td>
+</tr>
+<tr>
+<td><strong>Platform</strong></td>
+<td>Reserve Protocol</td>
+</tr>
+<tr>
+<td><strong>Network</strong></td>
+<td>Ethereum</td>
+</tr>
+<tr>
+<td><strong>TVL Fee</strong></td>
+<td>0.30% annually</td>
+</tr>
+<tr>
+<td><strong>Mint Fee</strong></td>
+<td>0.30%</td>
+</tr>
+<tr>
+<td><strong>Rebalancing</strong></td>
+<td>Yearly / Community Proposal Vote</td>
+</tr>
+<tr>
+<td><strong>Contract</strong></td>
+<td><code>0xe4a10951f962e6cb93cb843a4ef05d2f99db1f94</code></td>
+</tr>
+</tbody>
+</table>
+</div>
 
 ---
 

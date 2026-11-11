@@ -22,77 +22,62 @@ What sits underneath is the part worth slowing down on. None of these five DTFs 
 
 ## The five baskets
 
-DTF
-
-Theme
-
-Names
-
-Per-name cap
-
-Minimum market cap
-
-Aggregate
-
-BUILDOUT
-
-AI hardware across chips, memory, equipment, networking, power
-
-25
-
-10%
-
-none, top 25 by size
-
-~$16.7T
-
-POWER
-
-Generation, grid, electrical gear and power chips for data centres
-
-13
-
-20%
-
-~$10B
-
-~$1.02T
-
-PHOTON
-
-Fiber, lasers, transceivers, optical chips
-
-9
-
-20%
-
-~$5B
-
-~$456B
-
-ROBOTS
-
-Surgical, factory and warehouse automation, autonomy, lidar, vision
-
-9
-
-20%
-
-~$2B
-
-~$272B
-
-NEOCLOUD
-
-GPU-cloud operators and power-rich hosts renting AI compute
-
-8
-
-20%
-
-~$5B
-
-~$206B
+<div class="html-card">
+<table>
+<thead>
+<tr>
+<th>DTF</th>
+<th>Theme</th>
+<th>Names</th>
+<th>Per-name cap</th>
+<th>Minimum market cap</th>
+<th>Aggregate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BUILDOUT</td>
+<td>AI hardware across chips, memory, equipment, networking, power</td>
+<td>25</td>
+<td>10%</td>
+<td>none, top 25 by size</td>
+<td>~$16.7T</td>
+</tr>
+<tr>
+<td>POWER</td>
+<td>Generation, grid, electrical gear and power chips for data centres</td>
+<td>13</td>
+<td>20%</td>
+<td>~$10B</td>
+<td>~$1.02T</td>
+</tr>
+<tr>
+<td>PHOTON</td>
+<td>Fiber, lasers, transceivers, optical chips</td>
+<td>9</td>
+<td>20%</td>
+<td>~$5B</td>
+<td>~$456B</td>
+</tr>
+<tr>
+<td>ROBOTS</td>
+<td>Surgical, factory and warehouse automation, autonomy, lidar, vision</td>
+<td>9</td>
+<td>20%</td>
+<td>~$2B</td>
+<td>~$272B</td>
+</tr>
+<tr>
+<td>NEOCLOUD</td>
+<td>GPU-cloud operators and power-rich hosts renting AI compute</td>
+<td>8</td>
+<td>20%</td>
+<td>~$5B</td>
+<td>~$206B</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 Weights and market caps are illustrative, dated June 17, 2026, and change with the market and at each rebalance \[3\]\[4\]\[9\]\[10\]\[11\].
 
