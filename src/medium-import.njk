@@ -6,7 +6,7 @@ pagination:
 permalink: "/medium-import{{ post.url }}index.html"
 eleventyExcludeFromCollections: true
 ---
-{#- A plain copy of each post for Medium's story importer: absolute image links and no lazy loading, because the importer drops pictures that sit far down a page of lazy images. Not indexed; the canonical link points at the real post. -#}
+{#- A plain copy of each post for Medium's story importer: absolute image links and captions moved out of their figures, because the importer drops pictures inside captioned figures. Not indexed; the canonical link points at the real post. -#}
 <!doctype html>
 <html lang="en">
 <head>
@@ -24,7 +24,7 @@ eleventyExcludeFromCollections: true
 {%- if post.data.feature_image %}
 <figure><img src="{{ site.url }}{{ post.data.feature_image }}" alt=""></figure>
 {%- endif %}
-{{ post.content | forFeed | replace(' loading="lazy"', '') | safe }}
+{{ post.content | forFeed | forMediumImport | safe }}
 </article>
 </body>
 </html>

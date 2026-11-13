@@ -169,6 +169,18 @@ export default function (eleventyConfig) {
     for (let i = 0; i < images; i++) seconds += Math.max(12 - i, 3);
     return Math.max(1, Math.round(seconds / 60));
   });
+  // For the Medium import copies: Medium's importer drops any picture inside a captioned figure,
+  // so move each caption out of its figure, as an italic line after it, and drop lazy loading and classes.
+  eleventyConfig.addFilter("forMediumImport", (html) =>
+    html
+      .replace(
+        /<figure[^>]*>\s*(<img[^>]*>)\s*<figcaption[^>]*>([\s\S]*?)<\/figcaption>\s*<\/figure>/g,
+        "<figure>$1</figure><p><em>$2</em></p>",
+      )
+      .replace(/<figure[^>]*>/g, "<figure>")
+      .replace(/ loading="lazy"/g, ""),
+  );
+
   eleventyConfig.addFilter("forFeed", (html) =>
     html
       .replace(/<!-- (signup|tip-card) -->/g, "")
