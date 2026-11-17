@@ -107,7 +107,7 @@ Analysis of international monetary systems and policies is presented for histori
 
 Historical analysis of financial crises is provided for educational understanding of systemic risk patterns. This content does not predict future crises or recommend specific crisis preparation strategies. Readers should consult qualified professionals for personalized risk management advice.
 
-**Publication information**: Last updated: \[PUBLICATION DATE\] | Series: The Druid Deep Dive | Publisher: The Genesis Address Publishing LLC
+**Publication information**: Last updated: October 27, 2026 | Series: The Druid Deep Dive | Publisher: The Genesis Address Publishing LLC
 
 ---
 
