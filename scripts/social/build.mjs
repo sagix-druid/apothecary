@@ -60,7 +60,7 @@ function reelEnd(end, label) {
     <div class="label" style="font-size:30px;margin-bottom:34px;">${esc(label)}</div>
     <div style="font-size:84px;line-height:1.1;margin-bottom:28px;">${esc(end.title)}</div>
     <div style="font-size:44px;line-height:1.3;color:var(--muted);font-style:italic;margin-bottom:80px;">${esc(end.line)}</div>
-    <div class="sans" style="font-size:42px;font-weight:600;color:var(--gold);margin-bottom:16px;">Full episode: link in bio</div>
+    <div class="sans" style="font-size:42px;font-weight:600;color:var(--gold);margin-bottom:16px;">${esc(end.cta || 'Full episode: link in bio')}</div>
     <div class="sans" style="font-size:36px;color:var(--paper);margin-bottom:90px;">sagix.io · ${esc(handle)}</div>
     <div class="sans" style="font-size:26px;color:var(--muted);opacity:.85;">Educational content. Not financial advice.</div>
   </div>`;
